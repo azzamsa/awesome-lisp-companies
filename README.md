@@ -109,13 +109,13 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Netherlands
 
-    Infometrics – Automatic Functional Sizing. Muiderberg, Netherlands. Analyzes requirements and design documents for business software to make a Function Point Analysis. Sole proprietorship (Ernst van Waning) using Allegro/Lispworks.
-    StreamTech – custom web application development, online advertising and profiling products. The Hague, Netherlands. Hiring programming interns. Common Lisp, about 10 hackers
+- Infometrics – Automatic Functional Sizing. Muiderberg, Netherlands. Analyzes requirements and design documents for business software to make a Function Point Analysis. Sole proprietorship (Ernst van Waning) using Allegro/Lispworks.
+- StreamTech – custom web application development, online advertising and profiling products. The Hague, Netherlands. Hiring programming interns. Common Lisp, about 10 hackers
 
 ### Norway
 
-    Netfonds Bank ASA – bank, stock trading. Oslo, Norway. Everything between the web front end and the database is Common Lisp – middleware, trading systems, backoffice support, etc. Cross platform stock trading application. PrimeTrader product is a LispWorks success story.
-    Selvaag – home building, real estate management, developing IT tools for industrial housing construction. Oslo, Norway. Developed the BlueThink knowledge management tools for housing construction planning.
+- Netfonds Bank ASA – bank, stock trading. Oslo, Norway. Everything between the web front end and the database is Common Lisp – middleware, trading systems, backoffice support, etc. Cross platform stock trading application. PrimeTrader product is a LispWorks success story.
+- Selvaag – home building, real estate management, developing IT tools for industrial housing construction. Oslo, Norway. Developed the BlueThink knowledge management tools for housing construction planning.
 
 ### Portugal
 
