@@ -148,8 +148,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ## Other Resources
 
-- Hacker News suggestions at http://news.ycombinator.com/item?id=91576
-- pg’s Lisp Links: Applications
+- [Allegro Common Lisp Success Stories ](https://franz.com/success/) - by Franc Inc
+  - [Customer Application List](https://franz.com/success/all_customer_apps.lhtml)
+- [LispWorks Success Stories  ](http://www.lispworks.com/success-stories/index.html)
+- [Paul Graham - Applications](http://www.paulgraham.com/apps.html)
 - ALU Wiki – Industry applications
 - LispJobs archives
 
