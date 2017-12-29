@@ -1,5 +1,39 @@
 # Awesome Lisp Company
 
+![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
+
+Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively in their stack.
+
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [Awesome Lisp Company](#awesome-lisp-company)
+    - [North America](#north-america)
+        - [Northeast States](#northeast-states)
+        - [Midwest States](#midwest-states)
+        - [SF Bay Area](#sf-bay-area)
+        - [Northwest States & Vancouver](#northwest-states--vancouver)
+        - [South](#south)
+        - [Montreal, Canada](#montreal-canada)
+        - [Western US (outside SF Bay)](#western-us-outside-sf-bay)
+    - [Europe](#europe)
+        - [Belgium](#belgium)
+        - [Denmark](#denmark)
+        - [Finland](#finland)
+        - [Germany](#germany)
+        - [Netherlands](#netherlands)
+        - [Norway](#norway)
+        - [Portugal](#portugal)
+        - [Sweden](#sweden)
+    - [Asia](#asia)
+        - [India](#india)
+        - [Japan](#japan)
+    - [Australia](#australia)
+    - [Virtual or Unsure of Location](#virtual-or-unsure-of-location)
+    - [Other Resources](#other-resources)
+
+<!-- markdown-toc end -->
+
 
 ## North America
 
@@ -114,9 +148,26 @@
 
 ## Other Resources
 
-- Hacker News users Shooter, Zak, joshwa, vikram, ias, chris_l, gibsonf1 (cool comment), phony_identity, herdrick, watmough (describes setup), Hexstream (insight), gruseom (?) and brlewis have all at times mentioned Lisp or Scheme startups
-- Other resources (I’ll wade through them when I get a chance, but I prefer reader submissions)
 - Hacker News suggestions at http://news.ycombinator.com/item?id=91576
 - pg’s Lisp Links: Applications
 - ALU Wiki – Industry applications
 - LispJobs archives
+
+
+## Contributors
+
+
+## Guidelines to contribute
+
+TODO
+
+## Credit
+
+- This list derived from [Peter Christensen](http://pchristensen.com/blog/lisp-companies/) work with his kind permission.
+
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
