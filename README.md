@@ -25,6 +25,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
         - [Norway](#norway)
         - [Poland](#poland)
         - [Portugal](#portugal)
+        - [Spain](#spain)
         - [Sweden](#sweden)
     - [Asia](#asia)
         - [India](#india)
@@ -126,6 +127,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 ### Portugal
 
 - SISCOG – decision-support systems for resource planning and management in transportation companies. Lisboa, Portugal. Allegro CL since version 5 – before that it was Lucid Lisp.
+
+### Spain
+
+- [RavenPack](https://www.ravenpack.com/) - RavenPack is the leading big data analytics provider for financial services. Lots of NLP and multi-threaded, distributed systems programming in CL (Allegro CL). Marbella, Spain. Actively searching for CL (senior and junior) developers.  
 
 ### Sweden
 
