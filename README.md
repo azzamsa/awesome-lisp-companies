@@ -23,6 +23,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
         - [Germany](#germany)
         - [Netherlands](#netherlands)
         - [Norway](#norway)
+        - [Poland](#poland)
         - [Portugal](#portugal)
         - [Sweden](#sweden)
     - [Asia](#asia)
@@ -56,6 +57,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - Biographicon – “A place for everyone’s biography.” – Wikipedia for people not notable enough to be on Wikipedia. San Francisco, CA. A YCombinator company, started by Ethan Herdrick and Daniel Terhorst. Running Kawa Scheme (also uses PLT Scheme for internal stuff).
 - Cadence – software and engineering services for electronic design automation. San Jose, CA (headquarters of worldwide company). Their IC design software uses SKILL (a Franz Lisp variant) as a scripting language.
 - GigaMonkeys Consulting – software development and QA consulting. Oakland, CA. Deserves mention because Peter Seibel wrote Practical Common Lisp, claimed by ITA Software as their training manual
+- [Rigetti Quantum Computing](http://www.rigetti.com/) – Manufacturer of quantum computers and provider of their services through their product called *Forest*. Much of their code is written in Common Lisp, including their quantum virtual machine and quantum compiler. *Active as of December 2017.* ([video](https://www.youtube.com/watch?v=f9vRcSAneiw), [paper](https://arxiv.org/abs/1608.03355), [github](https://github.com/rigetticomputing))
 - SRI – client-sponsored R&D. Menlo Park, CA. Hiring scientific CL programmers. See also Artificial Intelligence Center. They have lots of Lisp-related links on their site as well.    StreamFocus – project and action management software. San Francisco, CA. Lisp and CLOS based
 - YCombinator – early stage venture investors. Cambridge, MA and Mountain View, CA. Runs Hacker News, built in Arc, and other internal software also written in Arc. Two annual rounds of funding for early stage startups (not Lisp related). Home of Lisp icon Paul Graham.
 
@@ -116,6 +118,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 - Netfonds Bank ASA – bank, stock trading. Oslo, Norway. Everything between the web front end and the database is Common Lisp – middleware, trading systems, backoffice support, etc. Cross platform stock trading application. PrimeTrader product is a LispWorks success story.
 - Selvaag – home building, real estate management, developing IT tools for industrial housing construction. Oslo, Norway. Developed the BlueThink knowledge management tools for housing construction planning.
+
+### Poland
+
+- [TurtleWare](http://turtleware.eu/) – A software (and Common Lisp) consulting boutique. Run by Daniel Kochmański, who maintains Embeddable Common Lisp. *Active as of December 2017.*
 
 ### Portugal
 
