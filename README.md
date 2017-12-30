@@ -112,7 +112,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 ### Netherlands
 
 - Infometrics – Automatic Functional Sizing. Muiderberg, Netherlands. Analyzes requirements and design documents for business software to make a Function Point Analysis. Sole proprietorship (Ernst van Waning) using Allegro/Lispworks.
-- StreamTech – custom web application development, online advertising and profiling products. The Hague, Netherlands. Hiring programming interns. Common Lisp, about 10 hackers
+- ![][rip-icon] StreamTech – custom web application development, online advertising and profiling products. The Hague, Netherlands. Hiring programming interns. Common Lisp, about 10 hackers
 
 ### Norway
 
