@@ -102,7 +102,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Finland
 
-- Steel Bank Studio – SBCL consulting. Helsinki, Finland. One man consulting firm consisting of Nikodemus Siivola, SBCL hacker and co-founder of common-lisp.net.
+- ![][rip-icon] Steel Bank Studio – SBCL consulting. Helsinki, Finland. One man consulting firm consisting of Nikodemus Siivola, SBCL hacker and co-founder of common-lisp.net.
 
 ### Germany
 
