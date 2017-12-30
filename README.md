@@ -167,11 +167,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ## Guidelines to contribute
 
-Please follow this format of the list  `[Company name](#link) - description. addditional information.`
+Please follow this format of the list  `[Company name](#link) - description. addditional information. Active as of <month> <year>.`
 if you want to make a contribution.
 
 - Put the name of the **company** and **link** to its **homepage** in the list.
-- Write a **description** and **additional description** for the company.
+- Write a **description**, **additional description** and **active as of** for the company.
 - Make sure it is put under the **appropriate location**.
 - If the company doesn't fit in any **existing location**, make a **new one** for it.
 - Ensure everything is **alphabetically sorted**.
