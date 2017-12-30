@@ -63,7 +63,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Northwest States & Vancouver
 
-- [rip-icon] adUup – an ad network that favors long-tail publishers. Seattle, WA. Private beta open now, launch expected Summer 2008. Job description includes: Common Lisp backend, SBCL, Hunchentoot. They already have some CL developers.
+- ![][rip-icon] adUup – an ad network that favors long-tail publishers. Seattle, WA. Private beta open now, launch expected Summer 2008. Job description includes: Common Lisp backend, SBCL, Hunchentoot. They already have some CL developers.
 - Inspiration Software, Inc – educational software, including InspireData, a product for building data literacy. Beaverton, OR. Made in LispWorks.
 - Synaptic Mash – educational learning management system. Seattle, WA. Job requirements for server and web developers require experience with “Lisp Family”, SBCL, LispWorks
 - Tech Co-op – a not-for-profit, member-owned services co-operative dedicated to providing Technical Services for it’s members. Vancouver, Canada. Lisp for internal development and for members. Offers hosting and hosts many Lisp sites like common-lisp.net, cliki.net, and gigamonkeys.com.
