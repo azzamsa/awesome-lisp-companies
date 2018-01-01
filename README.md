@@ -40,7 +40,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Northeast States
 
-- &#128124; [Alphacet, LLC](http://www.alphacet.com/)
+- [Alphacet, LLC](http://www.alphacet.com/) &#128124;
   - software tools for analysts, traders, and portfolio managers. Stamford, CT. Includes post-sales work helping clients [expand proprietary trading](http://www.linkedin.com/jobs?viewJob=&jobId=534391) libraries in Lisp.
   - *Disappear as of January 2018.*
 - [Clozure Associates](https://clozure.com/index.html)
@@ -57,7 +57,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - *Active as of January 2018*
 - [OurDoings.com](http://www.ourdoings.com/)
   – photo sharing site aimed towards casual photographers. Beverly, MA. Kawa Scheme running on JVM, created by [Bruce Lewis](http://brlewis.com/)
-- [Tilton Technology](http://www.tilton-technology.com/)
+- [Tilton Technology](http://www.tilton-technology.com/) &#128124;
   – Common Lisp projects like Cells, Celtk, and Cello, and TheoryYAlgebra, a learning game. NYC? Site for Ken Tilton, well known and [funny Lisper](http://bc.tech.coop/blog/061005.html).
   - *Disappear as of January 2018*
 
