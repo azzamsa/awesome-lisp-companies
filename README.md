@@ -40,13 +40,26 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Northeast States
 
-- Alphacet, LLC – software tools for analysts, traders, and portfolio managers. Stamford, CT. Includes post-sales work helping clients expand proprietary trading libraries in Lisp.
-- Clozure Associates – software development consulting firm specializing in Common Lisp development. Somerville, MA. Sponsors and developers of OpenMCL.
-- Eaton Vance – financial services. Boston, MA. Bruce Lewis created BRL (manual as pdf), a dialect of Scheme called “a database-oriented language to embed in HTML and other markup.”
-- GrammaTech – Source code analysis tools for C, C++, Ada. Ithaca, NY. Hiring software engineers and interns with experience programming in Scheme, compilers, and static analysis.
-- ITA Software – airfare search engine and airline scheduling software. Cambridge, MA. Common Lisp used for basically everything, currently hiring and expanding their business
-- OurDoings.com – photo sharing site aimed towards casual photographers. Beverly, MA. Kawa Scheme running on JVM, created by Bruce Lewis
-- Tilton Technology – Common Lisp projects like Cells, Celtk, and Cello, and TheoryYAlgebra, a learning game. NYC? Site for Ken Tilton, well known and funny Lisper.
+- &#128124; [Alphacet, LLC](http://www.alphacet.com/)
+  - software tools for analysts, traders, and portfolio managers. Stamford, CT. Includes post-sales work helping clients [expand proprietary trading](http://www.linkedin.com/jobs?viewJob=&jobId=534391) libraries in Lisp.
+  - *Disappear as of January 2018.*
+- [Clozure Associates](https://clozure.com/index.html)
+  – software development consulting firm specializing in Common Lisp development. Somerville, MA. Sponsors and developers of OpenMCL.
+  - *Active as of January 2018.*
+- [Eaton Vance](https://www.eatonvance.com/)
+  – financial services. Boston, MA. Bruce Lewis created [BRL](https://www.eatonvance.com/) , a dialect of Scheme called “a database-oriented language to embed in HTML and other markup.”
+  - *Active as of January 2018*
+- [GrammaTech](https://www.grammatech.com/)
+  – Source code analysis tools for C, C++, Ada. Ithaca, NY. [Hiring software engineers](http://www.grammatech.com/corporate/employment.html) and interns with experience programming in Scheme, compilers, and static analysis.
+  - *Active as of January 2018*
+- [ITA Software by Google](http://www.itasoftware.com/)
+  – airfare search engine and airline scheduling software. Cambridge, MA. [Common Lisp used for basically everything](http://lambda-the-ultimate.org/node/2491#comment-38434), currently hiring and expanding their business
+  - *Active as of January 2018*
+- [OurDoings.com](http://www.ourdoings.com/)
+  – photo sharing site aimed towards casual photographers. Beverly, MA. Kawa Scheme running on JVM, created by [Bruce Lewis](http://brlewis.com/)
+- [Tilton Technology](http://www.tilton-technology.com/)
+  – Common Lisp projects like Cells, Celtk, and Cello, and TheoryYAlgebra, a learning game. NYC? Site for Ken Tilton, well known and [funny Lisper](http://bc.tech.coop/blog/061005.html).
+  - *Disappear as of January 2018*
 
 ### Midwest States
 
