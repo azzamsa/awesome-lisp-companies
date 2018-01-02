@@ -104,8 +104,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### South
 
-- DoneTrading.com – online item trading. Tallahassee, FL. SBCL/Hunchentoot, mention Lisp on their Advantages page
-- Impact Solutions “Smart Drilling” – real-time analysis of oil rig drilling data. Houston, TX. Four developers, won the Offshore Technology Conference’s “Spotlight on Technology” award.
+- DoneTrading.com &#128124;
+  - online item trading. Tallahassee, FL. SBCL/Hunchentoot, mention Lisp on their Advantages page
+- Impact Solutions “Smart Drilling” &#128124;
+  - real-time analysis of oil rig drilling data. Houston, TX. Four developers, won the Offshore Technology Conference’s “Spotlight on Technology” award.
 
 ### Montreal, Canada
 
