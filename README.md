@@ -111,15 +111,24 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Montreal, Canada
 
--  AMARC – organization supporting community radio broadcasting. Montreal, Canada. Job page mentions Scheme, web development, and graphics. Uses a Wiki powered by Gauche
--  Carre Technologies – intelligent machines. Montreal, Canada. Main page just lets you send mail, but the site includes a Chicken Scheme extension for Gnu/Octave and a floating point vector and matrix library for Gambit Scheme.
--  Categorical Design Solutions – eLearning, Knowledge Management, multimedia content creation technology and dissemination of contents over the Internet. Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
--  Idalia – natural language processing technology. Montreal, Canada. Listed on MSLUG Home Page but all jobs mention C++ and not Lisp
--  ISAC Soft – library, learning, and smart card solutions. Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
--  Kronos, Altitude Division – Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
--  MetaScoop – consulting and custom development in Scheme. Montreal, Canada. Developed JazzScheme, recently released as Open Source.
--  NuEcho – speech enabled applications. Montreal, Canada. Scheme; Dominique Boucher was the main organizer of the Montreal Scheme/Lisp User Group (MSLUG)
--  Silex Creations – multimedia solutions for avant-garde businesses, audio synthesis. Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
+-  [AMARC](http://www.amarc.org/)
+   - organization supporting community radio broadcasting. Montreal, Canada. [Job page mentions Scheme](http://amarcwiki.amarc.org/wiliki.cgi?Careers), web development, and graphics. Uses a Wiki powered by Gauche
+-  [Carre Technologies](http://www.carretechnologies.com/)
+   - intelligent machines. Montreal, Canada. Main page just lets you send mail, but the site includes a Chicken Scheme extension for Gnu/Octave and a floating point vector and matrix library for Gambit Scheme.
+-  Categorical Design Solutions &#128124;
+   - eLearning, Knowledge Management, multimedia content creation technology and dissemination of contents over the Internet. Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
+   - *Disappear as of January 2018*
+-  Idalia &#128124;
+   - natural language processing technology. Montreal, Canada. Listed on MSLUG Home Page but all jobs mention C++ and not Lisp
+   - *Disappear as of January 2018*
+-  [Kronos, Altitude Division](https://www.kronos.com/)
+   - Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
+-  [MetaScoop](http://www.metascoop.com/)
+   - consulting and custom development in Scheme. Montreal, Canada. Developed JazzScheme, recently released as Open Source.
+-  [NuEcho](https://www.nuecho.com/en/)
+   - speech enabled applications. Montreal, Canada. Scheme; Dominique Boucher was the main organizer of the Montreal Scheme/Lisp User Group (MSLUG)
+-  [Silex Creations](http://silexcreations.com/en/)
+   - multimedia solutions for avant-garde businesses, audio synthesis. Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
 
 ### Western US (outside SF Bay)
 
@@ -137,7 +146,9 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Finland
 
-- ![][rip-icon] Steel Bank Studio – SBCL consulting. Helsinki, Finland. One man consulting firm consisting of Nikodemus Siivola, SBCL hacker and co-founder of common-lisp.net.
+- Steel Bank Studio &#128124;
+  - SBCL consulting. Helsinki, Finland. One man consulting firm consisting of Nikodemus Siivola, SBCL hacker and co-founder of common-lisp.net.
+  - *Closed as the owner [clarified](https://github.com/azzamsa/awesome-lisp-companies/issues/1#issuecomment-354512421)*
 
 ### Germany
 
@@ -159,7 +170,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Poland
 
-- [TurtleWare](http://turtleware.eu/) – A software (and Common Lisp) consulting boutique. Run by Daniel Kochmański, who maintains Embeddable Common Lisp. *Active as of December 2017.*
+- [TurtleWare](http://turtleware.eu/)
+  - A software (and Common Lisp) consulting boutique. Run by Daniel Kochmański, who maintains Embeddable Common Lisp.
 
 ### Portugal
 
