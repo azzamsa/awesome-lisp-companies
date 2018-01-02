@@ -89,11 +89,18 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Northwest States & Vancouver
 
-- ![][rip-icon] adUup – an ad network that favors long-tail publishers. Seattle, WA. Private beta open now, launch expected Summer 2008. Job description includes: Common Lisp backend, SBCL, Hunchentoot. They already have some CL developers.
-- Inspiration Software, Inc – educational software, including InspireData, a product for building data literacy. Beaverton, OR. Made in LispWorks.
-- Synaptic Mash – educational learning management system. Seattle, WA. Job requirements for server and web developers require experience with “Lisp Family”, SBCL, LispWorks
-- Tech Co-op – a not-for-profit, member-owned services co-operative dedicated to providing Technical Services for it’s members. Vancouver, Canada. Lisp for internal development and for members. Offers hosting and hosts many Lisp sites like common-lisp.net, cliki.net, and gigamonkeys.com.
-- EnRoute Systems – (formerly Trip Planner) – trip planning solutions including planning engine, web front-end, hosting, and data import/repair. Spokanne, WA. Lots of details on the Technical Info page (including discussion of packages, infrastructure, and algorithms). Made by Jean-Paul Larocque, who has more lisp code on his main site, ThoughtCrime. (news coverage)
+- adUup &#128124;
+  - an ad network that favors long-tail publishers. Seattle, WA. Private beta open now, launch expected Summer 2008. Job description includes: Common Lisp backend, SBCL, Hunchentoot. They already have some CL developers.
+  - *Disappear as of 2008*
+- [Inspiration Software, Inc](http://www.inspiration.com/)
+  - educational software, including [InspireData](http://www.inspiration.com/productinfo/inspiredata/index.cfm), a product for building data literacy. Beaverton, OR. Made in LispWorks.
+- Synaptic Mash &#128124;
+  - educational learning management system. Seattle, WA. Job requirements for server and web developers require experience with “Lisp Family”, SBCL, LispWorks
+  - *Disappear as of January 2018*
+- [Tech Co-op](http://tech.coop/)
+  - a not-for-profit, member-owned services co-operative dedicated to providing Technical Services for it’s members. Vancouver, Canada. Lisp for internal development and for members. Offers hosting and hosts many Lisp sites like common-lisp.net, cliki.net, and gigamonkeys.com.
+- [EnRoute Systems](http://enroutesystems.com/home/)
+  - (formerly Trip Planner) - trip planning solutions including planning engine, web front-end, hosting, and data import/repair. Spokanne, WA. Lots of details on the Technical Info page (including discussion of packages, infrastructure, and algorithms). Made by Jean-Paul Larocque, who has more lisp code on [his main site](http://www.thoughtcrime.us/), ThoughtCrime. ([news coverage](http://www.spokesmanreview.com/blogs/txt/archive/?postID=3691))
 
 ### South
 
@@ -137,8 +144,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Netherlands
 
-- Infometrics – Automatic Functional Sizing. Muiderberg, Netherlands. Analyzes requirements and design documents for business software to make a Function Point Analysis. Sole proprietorship (Ernst van Waning) using Allegro/Lispworks.
-- ![][rip-icon] StreamTech – custom web application development, online advertising and profiling products. The Hague, Netherlands. Hiring programming interns. Common Lisp, about 10 hackers
+- Infometrics
+  - Automatic Functional Sizing. Muiderberg, Netherlands. Analyzes requirements and design documents for business software to make a Function Point Analysis. Sole proprietorship (Ernst van Waning) using Allegro/Lispworks.
+- StreamTech
+  - custom web application development, online advertising and profiling products. The Hague, Netherlands. Hiring programming interns. Common Lisp, about 10 hackers
+  - *Disappear as of 2012*
 
 ### Norway
 
