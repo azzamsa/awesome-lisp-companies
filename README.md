@@ -64,18 +64,28 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 ### Midwest States
 
 - Paragent.com &#128124;
-  – Open Source Desktop Management Software. Muncie, IN. Common Lisp (SBCL), article about why they chose Lisp, and about Lisp and Agile Development
+  - Open Source Desktop Management Software. Muncie, IN. Common Lisp (SBCL), article about why they chose Lisp, and about Lisp and Agile Development
   - *Disappear as of January 2018*
 - [Smart Information Flow Technologies](http://sift.info/)
-  – Contract research house. Minneapolis, MN. Mission objective: “Getting information where it belongs when it’s needed.” [Hiring AI professionals](http://sift.info/jobs/ai.htm) to support human control of complex systems. Research areas include: Planning, Plan recognition, Intelligent UserInterfaces, Information Presentation and Management and Computational Etiquette.
+  - Contract research house. Minneapolis, MN. Mission objective: “Getting information where it belongs when it’s needed.” [Hiring AI professionals](http://sift.info/jobs/ai.htm) to support human control of complex systems. Research areas include: Planning, Plan recognition, Intelligent UserInterfaces, Information Presentation and Management and Computational Etiquette.
 
 ### SF Bay Area
-- Biographicon – “A place for everyone’s biography.” – Wikipedia for people not notable enough to be on Wikipedia. San Francisco, CA. A YCombinator company, started by Ethan Herdrick and Daniel Terhorst. Running Kawa Scheme (also uses PLT Scheme for internal stuff).
-- Cadence – software and engineering services for electronic design automation. San Jose, CA (headquarters of worldwide company). Their IC design software uses SKILL (a Franz Lisp variant) as a scripting language.
-- GigaMonkeys Consulting – software development and QA consulting. Oakland, CA. Deserves mention because Peter Seibel wrote Practical Common Lisp, claimed by ITA Software as their training manual
-- [Rigetti Quantum Computing](http://www.rigetti.com/) – Manufacturer of quantum computers and provider of their services through their product called *Forest*. Much of their code is written in Common Lisp, including their quantum virtual machine and quantum compiler. *Active as of December 2017.* ([video](https://www.youtube.com/watch?v=f9vRcSAneiw), [paper](https://arxiv.org/abs/1608.03355), [github](https://github.com/rigetticomputing))
-- SRI – client-sponsored R&D. Menlo Park, CA. Hiring scientific CL programmers. See also Artificial Intelligence Center. They have lots of Lisp-related links on their site as well.    StreamFocus – project and action management software. San Francisco, CA. Lisp and CLOS based
-- YCombinator – early stage venture investors. Cambridge, MA and Mountain View, CA. Runs Hacker News, built in Arc, and other internal software also written in Arc. Two annual rounds of funding for early stage startups (not Lisp related). Home of Lisp icon Paul Graham.
+
+- Biographicon &#128124;
+  - “A place for everyone’s biography.”  Wikipedia for people not notable enough to be on Wikipedia. San Francisco, CA. A YCombinator company, started by Ethan Herdrick and Daniel Terhorst. Running Kawa Scheme (also uses PLT Scheme for internal stuff).
+  - *Disappear as of January 2018*
+- [Cadence](https://www.cadence.com/)
+  - software and engineering services for electronic design automation. San Jose, CA (headquarters of worldwide company). Their IC design software uses SKILL (a Franz Lisp variant) as a scripting language.
+- [GigaMonkeys Consulting](http://www.gigamonkeys.com/)
+  - software development and QA consulting. Oakland, CA. Deserves mention because Peter Seibel wrote Practical Common Lisp, claimed by ITA Software as [their training manual](http://lambda-the-ultimate.org/node/2491#comment-38434).
+- [Rigetti Quantum Computing](http://www.rigetti.com/)
+  - Manufacturer of quantum computers and provider of their services through their product called *Forest*. Much of their code is written in Common Lisp, including their quantum virtual machine and quantum compiler. ([video](https://www.youtube.com/watch?v=f9vRcSAneiw), [paper](https://arxiv.org/abs/1608.03355), [github](https://github.com/rigetticomputing))
+- [SRI](https://www.sri.com/)
+  - client-sponsored R&D. Menlo Park, CA. [Hiring scientific CL programmers](https://sri.ats.hrsmart.com/cgi-bin/a/highlightjob.cgi?jobid=4086). See also [Artificial Intelligence Center](http://www.ai.sri.com/). They have lots of [Lisp-related links](http://www.google.com/search?q=lisp+site%3Ahttp%3A%2F%2Fsri.com) on their site as well.
+- [StreamFocus](http://www.streamfocus.com/index)
+  - project and action management software. San Francisco, CA. [Lisp and CLOS based](http://blog.streamfocus.com/about/)
+- [YCombinator](http://ycombinator.com/)
+  - early stage venture investors. Cambridge, MA and Mountain View, CA. Runs [Hacker News](http://news.ycombinator.com/), built in [Arc](http://www.paulgraham.com/arc.html), and other internal software also written in Arc. Two annual rounds of funding for early stage startups (not Lisp related). Home of Lisp icon [Paul Graham.](http://www.paulgraham.com/)
 
 ### Northwest States & Vancouver
 
