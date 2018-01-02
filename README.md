@@ -63,8 +63,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Midwest States
 
-- Paragent.com – Open Source Desktop Management Software. Muncie, IN. Common Lisp (SBCL), article about why they chose Lisp, and about Lisp and Agile Development
-- Smart Information Flow Technologies – Contract research house. Minneapolis, MN. Mission objective: “Getting information where it belongs when it’s needed.” Hiring AI professionals to support human control of complex systems. Research areas include: Planning, Plan recognition, Intelligent UserInterfaces, Information Presentation and Management and Computational Etiquette.
+- Paragent.com &#128124;
+  – Open Source Desktop Management Software. Muncie, IN. Common Lisp (SBCL), article about why they chose Lisp, and about Lisp and Agile Development
+  - *Disappear as of January 2018*
+- [Smart Information Flow Technologies](http://sift.info/)
+  – Contract research house. Minneapolis, MN. Mission objective: “Getting information where it belongs when it’s needed.” [Hiring AI professionals](http://sift.info/jobs/ai.htm) to support human control of complex systems. Research areas include: Planning, Plan recognition, Intelligent UserInterfaces, Information Presentation and Management and Computational Etiquette.
 
 ### SF Bay Area
 - Biographicon – “A place for everyone’s biography.” – Wikipedia for people not notable enough to be on Wikipedia. San Francisco, CA. A YCombinator company, started by Ethan Herdrick and Daniel Terhorst. Running Kawa Scheme (also uses PLT Scheme for internal stuff).
