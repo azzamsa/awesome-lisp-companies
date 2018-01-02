@@ -163,7 +163,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 - [CoCreate](http://www.cocreate.com/)
   - 3D CAD modeler for “explicit modeling”. Sindelfingen, Germany. 1M+ lines of Lisp, previously part of HP, paper on[ Common Lisp as an Embedded Extension Language](http://www.hpl.hp.com/hpjournal/95oct/oct95a7.pdf). Recent blog post about [CL use](http://www.clausbrod.de/cgi-bin/view.pl/Blog/WebHome#DefinePrivatePublic20071229_Comm)
-- [Cognesys](http://www.cognesys.de/)
+- [Cognesys](http://www.cognesys.de/) &#128503;
   - “automatic ascertainment and further processing of verbal and text messages” (Natural Language Processing). Ubach-Palenburg, Germany. Looking for experienced and fresh Lisp programmers
 
 ### Netherlands
@@ -244,9 +244,13 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - ALU Wiki – Industry applications
 - LispJobs archives
 
+## Note
+
+- &#128124; : Dead Companies.
+- &#128503; : Move to other language
+
 
 ## Contributors
-
 
 ## Guidelines to contribute
 
