@@ -131,8 +131,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 -  [Silex Creations](http://silexcreations.com/en/)
    - multimedia solutions for avant-garde businesses, audio synthesis. Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
 
-### Western US (outside SF Bay)
+### Western US
 
+- [Grammarly](https://www.grammarly.com/)
+  - create an English language writing-enhancement platform. [Running Lisp in Production ](https://tech.grammarly.com/blog/running-lisp-in-production)
 - Matchcraft &#128124;
   - aggregation-based, local Internet advertising – online Yellow Pages. Santa Monica, CA. Previously had a major production system written in Lisp, has several internal tools written in Common Lisp, and is developing new products in Lisp .
   - *Disappear as of January 2018*
