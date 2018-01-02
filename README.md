@@ -189,7 +189,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Spain
 
-- [RavenPack](https://www.ravenpack.com/) - RavenPack is the leading big data analytics provider for financial services. Lots of NLP and multi-threaded, distributed systems programming in CL (Allegro CL). Marbella, Spain. Actively searching for CL (senior and junior) developers.  
+- [RavenPack](https://www.ravenpack.com/)
+  - RavenPack is the leading big data analytics provider for financial services. Lots of NLP and multi-threaded, distributed systems programming in CL (Allegro CL). Marbella, Spain. Actively searching for CL (senior and junior) developers.
 
 ### Sweden
 
