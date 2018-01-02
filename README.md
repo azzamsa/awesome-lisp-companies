@@ -132,17 +132,21 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Western US (outside SF Bay)
 
-- Matchcraft – aggregation-based, local Internet advertising – online Yellow Pages. Santa Monica, CA. Previously had a major production system written in Lisp, has several internal tools written in Common Lisp, and is developing new products in Lisp .
+- Matchcraft &#128124;
+  - aggregation-based, local Internet advertising – online Yellow Pages. Santa Monica, CA. Previously had a major production system written in Lisp, has several internal tools written in Common Lisp, and is developing new products in Lisp .
+  - *Disappear as of January 2018*
 
 ## Europe
 
 ### Belgium
 
-- PEPITe – manufacturing intelligence, data mining. Angleur, Liege, Belgium. Their product Pepito was featured in the Franz Success Stories page.
+- PEPITe &#128124;
+  - manufacturing intelligence, data mining. Angleur, Liege, Belgium. Their product Pepito was featured in the Franz Success Stories page.
 
 ### Denmark
 
-- Mu Aps – Building automatic trading systems. Farum, Denmark. Klaus Habro of Mu Aps wrote the cl-muproc library: Erlang-inspired multi-processing in Common Lisp. Two presentations (both pdf) and a summary. [NOTE: Seems dead – website doesn’t do anything, links to cl-muproc documentation are dead, no activity on mailing list in over a year]
+- Mu Aps &#128124;
+  - Building automatic trading systems. Farum, Denmark. Klaus Habro of Mu Aps wrote the cl-muproc library: Erlang-inspired multi-processing in Common Lisp. Two presentations (both pdf) and a summary.
 
 ### Finland
 
@@ -152,21 +156,25 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Germany
 
-- CoCreate – 3D CAD modeler for “explicit modeling”. Sindelfingen, Germany. 1M+ lines of Lisp, previously part of HP, paper on Common Lisp as an Embedded Extension Language. Recent blog post about CL use
-- Cognesys – “automatic ascertainment and further processing of verbal and text messages” (Natural Language Processing). Ubach-Palenburg, Germany. Looking for experienced and fresh Lisp programmers
+- [CoCreate](http://www.cocreate.com/)
+  - 3D CAD modeler for “explicit modeling”. Sindelfingen, Germany. 1M+ lines of Lisp, previously part of HP, paper on[ Common Lisp as an Embedded Extension Language](http://www.hpl.hp.com/hpjournal/95oct/oct95a7.pdf). Recent blog post about [CL use](http://www.clausbrod.de/cgi-bin/view.pl/Blog/WebHome#DefinePrivatePublic20071229_Comm)
+- [Cognesys](http://www.cognesys.de/)
+  - “automatic ascertainment and further processing of verbal and text messages” (Natural Language Processing). Ubach-Palenburg, Germany. Looking for experienced and fresh Lisp programmers
 
 ### Netherlands
 
 - Infometrics
   - Automatic Functional Sizing. Muiderberg, Netherlands. Analyzes requirements and design documents for business software to make a Function Point Analysis. Sole proprietorship (Ernst van Waning) using Allegro/Lispworks.
-- StreamTech
+- StreamTech &#128124;
   - custom web application development, online advertising and profiling products. The Hague, Netherlands. Hiring programming interns. Common Lisp, about 10 hackers
   - *Disappear as of 2012*
 
 ### Norway
 
-- Netfonds Bank ASA – bank, stock trading. Oslo, Norway. Everything between the web front end and the database is Common Lisp – middleware, trading systems, backoffice support, etc. Cross platform stock trading application. PrimeTrader product is a LispWorks success story.
-- Selvaag – home building, real estate management, developing IT tools for industrial housing construction. Oslo, Norway. Developed the BlueThink knowledge management tools for housing construction planning.
+- [Netfonds Bank ASA](http://www.netfonds.no/)
+  - bank, stock trading. Oslo, Norway. [Everything between the web front end and the database is Common Lisp](http://www.lispworks.com/success-stories/netfonds-primetrader.html) – middleware, trading systems, backoffice support, etc. Cross platform stock trading application. [PrimeTrader](http://www.netfonds.no/manual_pt_eng.php) product is a LispWorks success story.
+- [Selvaag](http://www.selvaag.no/)
+  - home building, real estate management, [developing IT tools](http://www.selvaag.no/en/aboutselvaag/Sider/default.aspx) for industrial housing construction. Oslo, Norway. Developed the [BlueThink](http://www.selvaag.no/en/Companies/Selvaagbluethink/aboutus/Sider/default.aspx) knowledge management tools for housing construction planning.
 
 ### Poland
 
@@ -175,32 +183,47 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Portugal
 
-- SISCOG – decision-support systems for resource planning and management in transportation companies. Lisboa, Portugal. Allegro CL since version 5 – before that it was Lucid Lisp.
+- [SISCOG](http://www.siscog.pt/)
+  - decision-support systems for resource planning and management in transportation companies. Lisboa, Portugal. Allegro CL since version 5 – before that it was Lucid Lisp.
 
 ### Sweden
 
-- Anaphoric – natural language interface for relational databases. UmeÃ¥, Sweden. Including Michael Minock of UmeÃ¥ University. Downloadable demo of their CatchPhrase product. 20K lines of Clisp code.
-- Noteheads – digital sheet music creation and distribution. Sweden. Mentioned as a successful case study in Successful Lisp, but their website focuses more on their musical pedigree (including having the guy from Roxette on their board)
-- Stix.to – shareable notes and messages on any web page. Sweden. Common Lisp, Ties Stuij, an employee, writes the Fallen Frukt blog
+- [Anaphoric](http://www.anaphoric.com/)
+  - natural language interface for relational databases. UmeÃ¥, Sweden. Including [Michael Minock](http://www.cs.umu.se/~mjm/) of UmeÃ¥ University. Downloadable demo of their CatchPhrase product. 20K lines of Clisp code.
+- Noteheads &#128124;
+  - digital sheet music creation and distribution. Sweden. Mentioned as a successful case study in Successful Lisp, but their website focuses more on their musical pedigree (including having the guy from Roxette on their board)
+  - *Disappear as of January 2018*
+- Stix.to &#128124;
+  - shareable notes and messages on any web page. Sweden. Common Lisp, Ties Stuij, an employee, writes the Fallen Frukt blog
+  - *Disappear as of January 2018*
 
 ## Asia
 
 ### India
-- Cleartrip – Indian travel search website. Mumbai, India. “Built almost entirely in ANSI Common Lisp” – data integration, business logic, front end setup. Started with CMUCL but now use ACL. 10 lisp programmers + 5 in training.
-- Tachyon Technologies – Quill program for typing in Indian languages, and Cspace, an open source p2p communication platform. Bangalore/Chennai, India. Jobs page mentions Common Lisp, Scheme, Lisp Interpreter, Optimizing Compiler, Natural Language Processing, Machine Learning. Job page includes coding puzzles!
+- [Cleartrip](https://www.cleartrip.com/)
+  - Indian travel search website. Mumbai, India. [“Built almost entirely in ANSI Common Lisp”](http://lambda-the-ultimate.org/node/2491#comment-37479) – data integration, business logic, front end setup. Started with CMUCL but now use ACL. 10 lisp programmers + 5 in training.
+- Tachyon Technologies &#128124;
+  - Quill program for typing in Indian languages, and Cspace, an open source p2p communication platform. Bangalore/Chennai, India. Jobs page mentions Common Lisp, Scheme, Lisp Interpreter, Optimizing Compiler, Natural Language Processing, Machine Learning. Job page includes coding puzzles!
+  - *Disappear as of January 2018*
 
 ### Japan
-- Mathematical Systems, Inc – scientific software, computer science, internet solutions, social systems. Tokyo, Japan. Their Car Crash Database System (using Allegro) lets engineers browse over 1TB of numerical, photo, and video data about car crashes to design safer cars (used by Honda). If you know Japanese, they have a page called “Why Common Lisp?” (translation appreciated).
+- [Mathematical Systems, Inc](http://www.msi.co.jp/english/)
+  - scientific software, computer science, internet solutions, social systems. Tokyo, Japan. Their [Car Crash Database System](http://cl-www.msi.co.jp:8000/cl-http/hcpage/intoro-main-e.html) (using [Allegro](http://www.franz.com/success/customer_apps/knowledge_mgmt/msi.lhtml)) lets engineers browse over 1TB of numerical, photo, and video data about car crashes to design safer cars (used by Honda). If you know Japanese, they have a page called [“Why Common Lisp?”](http://cl-www.msi.co.jp/solutions/knowledge/lisp-world/articles/why-lisp) (translation appreciated).
 
 ## Australia
 
-- Memetrics (now part of Accenture) – testing and optimization for digital marketers. Sydney. Includes Alain Picard, frequent poster to Lisp forums. A LispWorks success story. Their XOS Software platform automated marketing tests, making it cheaper and easier to run more tests.
+- Memetrics (now part of Accenture)
+  - testing and optimization for digital marketers. Sydney. Includes Alain Picard, frequent poster to Lisp forums. A LispWorks success story. Their XOS Software platform automated marketing tests, making it cheaper and easier to run more tests.
+  - *Disappear as of January 2018*
 
 ## Virtual or Unsure of Location
 
-- Raytheon SigLab – a signal processing analysis pipeline for developing algorithms. A LispWorks success story.
-- Untyped – web applications, custom software development, training. Virtual Office (5 people). PLT Scheme, very good blog
-- LilyPond – open source music engraving software. Uses Guile Scheme and has a great essay about the hard problem of making printed music look good.
+- [Raytheon SigLab](http://www.lispworks.com/success-stories/raytheon-siglab.html)
+  - a signal processing analysis pipeline for developing algorithms. A LispWorks success story.
+- [Untyped](https://untyped.com/)
+  - web applications, custom software development, training. Virtual Office (5 people). [PLT Scheme](http://www.untyped.com/untyping/archives/2007/11/custom_dispatch.html), very good [blog](http://www.untyped.com/untyping//archives.html)
+- [LilyPond](http://lilypond.org/)
+  - open source music engraving software. Uses Guile Scheme and has a great essay about [the hard problem of making printed music look good](http://lilypond.org/web/about/automated-engraving/).
 
 ## Other Resources
 
@@ -237,5 +260,3 @@ if you want to make a contribution.
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-[rip-icon]: https://cdn.rawgit.com/azzamsa/awesome-lisp-companies/8a771dd3/img/tombstone.png
