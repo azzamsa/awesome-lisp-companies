@@ -210,8 +210,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 ## Asia
 
 ### India
-- [Cleartrip](https://www.cleartrip.com/)
-  - Indian travel search website. Mumbai, India. [“Built almost entirely in ANSI Common Lisp”](http://lambda-the-ultimate.org/node/2491#comment-37479) – data integration, business logic, front end setup. Started with CMUCL but now use ACL. 10 lisp programmers + 5 in training.
 - Tachyon Technologies &#128124;
   - Quill program for typing in Indian languages, and Cspace, an open source p2p communication platform. Bangalore/Chennai, India. Jobs page mentions Common Lisp, Scheme, Lisp Interpreter, Optimizing Compiler, Natural Language Processing, Machine Learning. Job page includes coding puzzles!
   - *Disappear as of January 2018*
