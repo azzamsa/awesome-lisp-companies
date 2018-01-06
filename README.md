@@ -230,8 +230,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - a signal processing analysis pipeline for developing algorithms. A LispWorks success story.
 - [Untyped](https://untyped.com/)
   - web applications, custom software development, training. Virtual Office (5 people). [PLT Scheme](http://www.untyped.com/untyping/archives/2007/11/custom_dispatch.html), very good [blog](http://www.untyped.com/untyping//archives.html)
-- [LilyPond](http://lilypond.org/)
-  - open source music engraving software. Uses Guile Scheme and has a great essay about [the hard problem of making printed music look good](http://lilypond.org/web/about/automated-engraving/).
 
 ## Other Resources
 
@@ -256,7 +254,6 @@ Please follow this format of the list, if you want to make a contribution.
 
 - `[Company name](#link)`
   - `description. addditional information.`
-
 - Put the name of the **company** and **link** to its **homepage** in the list.
 - Write a **description** and **additional description** for the company.
 - Make sure it is put under the **appropriate location**.
