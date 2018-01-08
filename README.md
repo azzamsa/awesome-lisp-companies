@@ -11,13 +11,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 - [Awesome Lisp Company](#awesome-lisp-company)
     - [North America](#north-america)
-        - [Northeast States](#northeast-states)
-        - [Midwest States](#midwest-states)
-        - [SF Bay Area](#sf-bay-area)
-        - [Northwest States & Vancouver](#northwest-states--vancouver)
-        - [South](#south)
-        - [Montreal, Canada](#montreal-canada)
-        - [Western US (outside SF Bay)](#western-us-outside-sf-bay)
+        - [United States](#united-states)
+        - [Canada](#canada)
     - [Europe](#europe)
         - [Belgium](#belgium)
         - [Denmark](#denmark)
@@ -35,6 +30,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
     - [Australia](#australia)
     - [Virtual or Unsure of Location](#virtual-or-unsure-of-location)
     - [Other Resources](#other-resources)
+    - [Note](#note)
+    - [Contributors](#contributors)
+    - [Guidelines to contribute](#guidelines-to-contribute)
+    - [Credit](#credit)
+    - [License](#license)
 
 <!-- markdown-toc end -->
 
