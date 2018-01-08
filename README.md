@@ -41,7 +41,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ## North America
 
-### Northeast States
+### United States
 
 - [Alphacet, LLC](http://www.alphacet.com/) &#128124;
   - software tools for analysts, traders, and portfolio managers. Stamford, CT. Includes post-sales work helping clients [expand proprietary trading](http://www.linkedin.com/jobs?viewJob=&jobId=534391) libraries in Lisp.
@@ -63,17 +63,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Tilton Technology](http://www.tilton-technology.com/) &#128124;
   - Common Lisp projects like Cells, Celtk, and Cello, and TheoryYAlgebra, a learning game. NYC? Site for Ken Tilton, well known and [funny Lisper](http://bc.tech.coop/blog/061005.html).
   - *Disappear as of January 2018*
-
-### Midwest States
-
 - Paragent.com &#128124;
   - Open Source Desktop Management Software. Muncie, IN. Common Lisp (SBCL), article about why they chose Lisp, and about Lisp and Agile Development
   - *Disappear as of January 2018*
 - [Smart Information Flow Technologies](http://sift.info/)
   - Contract research house. Minneapolis, MN. Mission objective: “Getting information where it belongs when it’s needed.” [Hiring AI professionals](http://sift.info/jobs/ai.htm) to support human control of complex systems. Research areas include: Planning, Plan recognition, Intelligent UserInterfaces, Information Presentation and Management and Computational Etiquette.
-
-### SF Bay Area
-
 - Biographicon &#128124;
   - “A place for everyone’s biography.”  Wikipedia for people not notable enough to be on Wikipedia. San Francisco, CA. A YCombinator company, started by Ethan Herdrick and Daniel Terhorst. Running Kawa Scheme (also uses PLT Scheme for internal stuff).
   - *Disappear as of January 2018*
@@ -89,9 +83,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - project and action management software. San Francisco, CA. [Lisp and CLOS based](http://blog.streamfocus.com/about/)
 - [YCombinator](http://ycombinator.com/)
   - early stage venture investors. Cambridge, MA and Mountain View, CA. Runs [Hacker News](http://news.ycombinator.com/), built in [Arc](http://www.paulgraham.com/arc.html), and other internal software also written in Arc. Two annual rounds of funding for early stage startups (not Lisp related). Home of Lisp icon [Paul Graham.](http://www.paulgraham.com/)
-
-### Northwest States & Vancouver
-
 - adUup &#128124;
   - an ad network that favors long-tail publishers. Seattle, WA. Private beta open now, launch expected Summer 2008. Job description includes: Common Lisp backend, SBCL, Hunchentoot. They already have some CL developers.
   - *Disappear as of 2008*
@@ -104,15 +95,18 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - a not-for-profit, member-owned services co-operative dedicated to providing Technical Services for it’s members. Vancouver, Canada. Lisp for internal development and for members. Offers hosting and hosts many Lisp sites like common-lisp.net, cliki.net, and gigamonkeys.com.
 - [EnRoute Systems](http://enroutesystems.com/home/)
   - (formerly Trip Planner) - trip planning solutions including planning engine, web front-end, hosting, and data import/repair. Spokanne, WA. Lots of details on the Technical Info page (including discussion of packages, infrastructure, and algorithms). Made by Jean-Paul Larocque, who has more lisp code on [his main site](http://www.thoughtcrime.us/), ThoughtCrime. ([news coverage](http://www.spokesmanreview.com/blogs/txt/archive/?postID=3691))
-
-### South
-
 - DoneTrading.com &#128124;
   - online item trading. Tallahassee, FL. SBCL/Hunchentoot, mention Lisp on their Advantages page
 - Impact Solutions “Smart Drilling” &#128124;
   - real-time analysis of oil rig drilling data. Houston, TX. Four developers, won the Offshore Technology Conference’s “Spotlight on Technology” award.
+- [Grammarly](https://www.grammarly.com/)
+  - create an English language writing-enhancement platform. [Running Lisp in Production ](https://tech.grammarly.com/blog/running-lisp-in-production)
+- Matchcraft &#128124;
+  - aggregation-based, local Internet advertising – online Yellow Pages. Santa Monica, CA. Previously had a major production system written in Lisp, has several internal tools written in Common Lisp, and is developing new products in Lisp .
+  - *Disappear as of January 2018*
 
-### Montreal, Canada
+
+### Canada
 
 -  [AMARC](http://www.amarc.org/)
    - organization supporting community radio broadcasting. Montreal, Canada. [Job page mentions Scheme](http://amarcwiki.amarc.org/wiliki.cgi?Careers), web development, and graphics. Uses a Wiki powered by Gauche
@@ -133,13 +127,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 -  [Silex Creations](http://silexcreations.com/en/)
    - multimedia solutions for avant-garde businesses, audio synthesis. Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
 
-### Western US
-
-- [Grammarly](https://www.grammarly.com/)
-  - create an English language writing-enhancement platform. [Running Lisp in Production ](https://tech.grammarly.com/blog/running-lisp-in-production)
-- Matchcraft &#128124;
-  - aggregation-based, local Internet advertising – online Yellow Pages. Santa Monica, CA. Previously had a major production system written in Lisp, has several internal tools written in Common Lisp, and is developing new products in Lisp .
-  - *Disappear as of January 2018*
 
 ## Europe
 
@@ -243,7 +230,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 ## Note
 
 - &#128124; : Dead Companies.
-- &#9746;   : Move to other language
 
 
 ## Contributors
