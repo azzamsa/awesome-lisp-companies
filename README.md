@@ -127,6 +127,9 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 -  [Silex Creations](http://silexcreations.com/en/)
    - multimedia solutions for avant-garde businesses, audio synthesis. Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
 
+### Mexico
+- [Ikkiware](http://www.ikkiware.com/)
+  - Developing a entrepreneurs oriented Social Network, [huuii.com](http://www.huuii.com/) which includes project management and productivity tools called Huuii Smart and Huuii People as a social network,Huuii Polls as a Polls tool and Huuii Sites as web site creator tool. use [SBCL](http://www.huuii.com/site/lisp), [some of their post](http://www.huuii.com/site/lisp/1140) about Common Lisp.
 
 ## Europe
 
