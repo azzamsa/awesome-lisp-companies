@@ -115,6 +115,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 -  Categorical Design Solutions &#128124;
    - eLearning, Knowledge Management, multimedia content creation technology and dissemination of contents over the Internet. Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
    - *Disappear as of January 2018*
+- [D-Wave Systems Inc.](https://www.dwavesys.com/)
+   - The Quantum Computing Company (trademark). The world's first company to sell quantum computers. [Wikipedia Page](https://en.wikipedia.org/wiki/D-Wave_Systems)
 -  Idalia &#128124;
    - natural language processing technology. Montreal, Canada. Listed on MSLUG Home Page but all jobs mention C++ and not Lisp
    - *Disappear as of January 2018*
