@@ -52,6 +52,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Eaton Vance](https://www.eatonvance.com/)
   - financial services. Boston, MA. Bruce Lewis created [BRL](https://www.eatonvance.com/) , a dialect of Scheme called “a database-oriented language to embed in HTML and other markup.”
   - *Active as of January 2018*
+- [Genworks](http://www.genworks.com)
+  - provides General-purpose Declarative Language (GDL), a Generative
+    Application Development system for creating web-centric Knowledge
+    Based Engineering and Business applications, based on the free software [Gendl](http://gendl.org/). Genworks uses AllegroCL, its Head of Product Development is the founder of the Common Lisp foundation.
 - [GrammaTech](https://www.grammatech.com/)
   - Source code analysis tools for C, C++, Ada. Ithaca, NY. [Hiring software engineers](http://www.grammatech.com/corporate/employment.html) and interns with experience programming in Scheme, compilers, and static analysis.
   - *Active as of January 2018*
