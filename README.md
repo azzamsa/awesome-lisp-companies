@@ -69,6 +69,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - *Active as of January 2018*
 - [OurDoings.com](http://www.ourdoings.com/)
   - photo sharing site aimed towards casual photographers. Beverly, MA. Kawa Scheme running on JVM, created by [Bruce Lewis](http://brlewis.com/)
+- [Secure Outcomes](http://www.secureoutcomes.net/)
+  - builds and provides digital livescan fingerprinting systems for use by law enforcement, military, airports, schools, Fortune 500s, etc. All their systems are constructed in Common Lisp ([lispjobs announce](https://lispjobs.wordpress.com/2016/06/03/secure-outcomes-contract-common-lisp-programmer/)).
 - [Tilton Technology](http://www.tilton-technology.com/) &#128124;
   - Common Lisp projects like Cells, Celtk, and Cello, and TheoryYAlgebra, a learning game. NYC? Site for Ken Tilton, well known and [funny Lisper](http://bc.tech.coop/blog/061005.html).
   - *Disappear as of January 2018*
@@ -166,6 +168,12 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - 3D CAD modeler for “explicit modeling”. Sindelfingen, Germany. 1M+ lines of Lisp, previously part of HP, paper on[ Common Lisp as an Embedded Extension Language](http://www.hpl.hp.com/hpjournal/95oct/oct95a7.pdf). Recent blog post about [CL use](http://www.clausbrod.de/cgi-bin/view.pl/Blog/WebHome#DefinePrivatePublic20071229_Comm)
 - [Cognesys](http://www.cognesys.de/) &#9746;
   - “automatic ascertainment and further processing of verbal and text messages” (Natural Language Processing). Ubach-Palenburg, Germany. Looking for experienced and fresh Lisp programmers
+- [M-creations](https://www.keepit.com/)
+  - custom software solutions for mid-size to big companies in
+  finance/payment, health care, and media research. Missing pieces of
+  infrastructure are written in Common Lisp (CL) and interact with
+  existing software components of the cluster (DNS, load balancer
+  etc.) ([lispjobs announce](https://lispjobs.wordpress.com/2017/05/02/linux-systems-engineer-with-common-lisp-experience-m-creations-mainz-germany/)).
 
 ### Netherlands
 
@@ -218,6 +226,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 ### Japan
 - [Mathematical Systems, Inc](http://www.msi.co.jp/english/)
   - scientific software, computer science, internet solutions, social systems. Tokyo, Japan. Their [Car Crash Database System](http://cl-www.msi.co.jp:8000/cl-http/hcpage/intoro-main-e.html) (using [Allegro](http://www.franz.com/success/customer_apps/knowledge_mgmt/msi.lhtml)) lets engineers browse over 1TB of numerical, photo, and video data about car crashes to design safer cars (used by Honda). If you know Japanese, they have a page called [“Why Common Lisp?”](http://cl-www.msi.co.jp/solutions/knowledge/lisp-world/articles/why-lisp) (translation appreciated).
+- [Somewrite](http://somewrite.jp/)
+  - a native advertising network platform ([press article](http://thebridge.jp/en/2016/04/asahi-shimbun-acquires-somewrite)) where [Eitaro Fukamachi](https://github.com/fukamachi/) works. [lispjob announce](https://lispjobs.wordpress.com/2015/04/24/common-lisp-web-developer-somewrite-tokyo-or-remote/).
 
 ## Australia
 
