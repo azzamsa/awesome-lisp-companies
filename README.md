@@ -43,6 +43,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### United States
 
+- [Acceleration](https://www.acceleration.net/)
+  - Acceleration is a leading provider of business class IT solutions:
+    high-speed internet access services, private network design and
+    managed support, website design, hosting,
+    dedicated and virtual server hosting,... they have a [Github account](https://github.com/AccelerationNet/access/).
 - [Alphacet, LLC](http://www.alphacet.com/) &#128124;
   - software tools for analysts, traders, and portfolio managers. Stamford, CT. Includes post-sales work helping clients [expand proprietary trading](http://www.linkedin.com/jobs?viewJob=&jobId=534391) libraries in Lisp.
   - *Disappear as of January 2018.*
