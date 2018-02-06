@@ -157,6 +157,12 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - 3D CAD modeler for “explicit modeling”. Sindelfingen, Germany. 1M+ lines of Lisp, previously part of HP, paper on[ Common Lisp as an Embedded Extension Language](http://www.hpl.hp.com/hpjournal/95oct/oct95a7.pdf). Recent blog post about [CL use](http://www.clausbrod.de/cgi-bin/view.pl/Blog/WebHome#DefinePrivatePublic20071229_Comm)
 - [Cognesys](http://www.cognesys.de/) &#9746;
   - “automatic ascertainment and further processing of verbal and text messages” (Natural Language Processing). Ubach-Palenburg, Germany. Looking for experienced and fresh Lisp programmers
+- [M-creations](https://www.keepit.com/)
+  - custom software solutions for mid-size to big companies in
+  finance/payment, health care, and media research. Missing pieces of
+  infrastructure are written in Common Lisp (CL) and interact with
+  existing software components of the cluster (DNS, load balancer
+  etc.) ([lispjobs announce](https://lispjobs.wordpress.com/2017/05/02/linux-systems-engineer-with-common-lisp-experience-m-creations-mainz-germany/)).
 
 ### Netherlands
 
