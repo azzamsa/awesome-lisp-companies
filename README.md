@@ -60,6 +60,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - *Active as of January 2018*
 - [OurDoings.com](http://www.ourdoings.com/)
   - photo sharing site aimed towards casual photographers. Beverly, MA. Kawa Scheme running on JVM, created by [Bruce Lewis](http://brlewis.com/)
+- [Secure Outcomes](http://www.secureoutcomes.net/)
+  - builds and provides digital livescan fingerprinting systems for use by law enforcement, military, airports, schools, Fortune 500s, etc. All their systems are constructed in Common Lisp ([lispjobs announce](https://lispjobs.wordpress.com/2016/06/03/secure-outcomes-contract-common-lisp-programmer/)).
 - [Tilton Technology](http://www.tilton-technology.com/) &#128124;
   - Common Lisp projects like Cells, Celtk, and Cello, and TheoryYAlgebra, a learning game. NYC? Site for Ken Tilton, well known and [funny Lisper](http://bc.tech.coop/blog/061005.html).
   - *Disappear as of January 2018*
