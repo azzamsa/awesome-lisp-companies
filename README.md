@@ -24,6 +24,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
         - [Portugal](#portugal)
         - [Spain](#spain)
         - [Sweden](#sweden)
+        - [Switzerland](#switzerland)
     - [Asia](#asia)
         - [India](#india)
         - [Japan](#japan)
@@ -216,12 +217,17 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - shareable notes and messages on any web page. Sweden. Common Lisp, Ties Stuij, an employee, writes the Fallen Frukt blog
   - *Disappear as of January 2018*
 
+### Switzerland
+
+- [Emotiq](http://emotiq.ch/)
+  - building a next generation blockchain with an innovative natural-language approach to smart contracts.
+
 ## Asia
 
 ### India
 - Tachyon Technologies &#128124;
   - Quill program for typing in Indian languages, and Cspace, an open source p2p communication platform. Bangalore/Chennai, India. Jobs page mentions Common Lisp, Scheme, Lisp Interpreter, Optimizing Compiler, Natural Language Processing, Machine Learning. Job page includes coding puzzles!
-  - *Disappear as of January 2018*
+  - *Disappeared as of January 2018*
 
 ### Japan
 - [Mathematical Systems, Inc](http://www.msi.co.jp/english/)
