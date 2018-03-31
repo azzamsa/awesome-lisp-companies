@@ -65,6 +65,12 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [GrammaTech](https://www.grammatech.com/)
   - Source code analysis tools for C, C++, Ada. Ithaca, NY. [Hiring software engineers](http://www.grammatech.com/corporate/employment.html) and interns with experience programming in Scheme, compilers, and static analysis.
   - *Active as of January 2018*
+- [iRobot](http://www.irobot.com/)
+  - a company that designs and builds consumer robots for inside and
+    outside of the home, including a range of autonomous home vacuum
+    cleaners (like the [Roomba](https://en.wikipedia.org/wiki/Roomba),
+    whose native code is written in a compatible subset of Common
+    Lisp).
 - [ITA Software by Google](http://www.itasoftware.com/)
   - airfare search engine and airline scheduling software. Cambridge, MA. [Common Lisp used for basically everything](http://lambda-the-ultimate.org/node/2491#comment-38434), currently hiring and expanding their business
   - *Active as of January 2018*
