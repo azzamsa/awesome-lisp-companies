@@ -181,6 +181,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   infrastructure are written in Common Lisp (CL) and interact with
   existing software components of the cluster (DNS, load balancer
   etc.) ([lispjobs announce](https://lispjobs.wordpress.com/2017/05/02/linux-systems-engineer-with-common-lisp-experience-m-creations-mainz-germany/)).
+- [stk-hamburg](http://stk-hamburg.com/eng.html)
+  - developing an ERP in Lisp ([ECL 2018 lightning talk](https://european-lisp-symposium.org/static/2018/lt2.pdf)).
 
 ### Netherlands
 
