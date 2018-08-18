@@ -260,7 +260,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Raytheon SigLab](http://www.lispworks.com/success-stories/raytheon-siglab.html)
   - a signal processing analysis pipeline for developing algorithms. A LispWorks success story.
 - [Untyped](https://untyped.com/)
-  - web applications, custom software development, training. Virtual Office (5 people). [PLT Scheme](http://www.untyped.com/untyping/archives/2007/11/custom_dispatch.html), very good [blog](http://www.untyped.com/untyping//archives.html)
+  - web applications, custom software development, training. Virtual Office (5 people). [PLT Scheme](http://www.untyped.com/untyping/archives/2007/11/custom_dispatch.html), very good [blog](https://untyped.com/untyping/)
 
 ## Other Resources
 
