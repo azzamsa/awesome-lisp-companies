@@ -58,6 +58,9 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Eaton Vance](https://www.eatonvance.com/)
   - financial services. Boston, MA. Bruce Lewis created [BRL](https://www.eatonvance.com/) , a dialect of Scheme called “a database-oriented language to embed in HTML and other markup.”
   - *Active as of January 2018*
+- [Franz Inc.](https://franz.com)
+   - offers AllegroCL, a Common Lisp compiler and programming environment; [AllegroGraph](https://allegrograph.com), a graph database / triple store written in Common Lisp; and consultancy services. Oakland, CA.
+   - *Active as of September 2018*
 - [Genworks](http://www.genworks.com)
   - provides General-purpose Declarative Language (GDL), a Generative
     Application Development system for creating web-centric Knowledge
