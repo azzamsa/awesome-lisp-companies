@@ -305,3 +305,8 @@ Please follow this format of the list, if you want to make a contribution.
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+## Other Awesome Lists
+
+- [awesome-cl](https://github.com/CodyReichert/awesome-cl)
+- [Awesome Common Lisp Application Software](https://github.com/azzamsa/awesome-cl-software)
