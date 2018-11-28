@@ -125,6 +125,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - Matchcraft &#128124;
   - aggregation-based, local Internet advertising – online Yellow Pages. Santa Monica, CA. Previously had a major production system written in Lisp, has several internal tools written in Common Lisp, and is developing new products in Lisp .
   - *Disappear as of January 2018*
+- [Mind AI](https://www.mind.ai)
+  - Founded in 2018, Mind AI is an artificial intelligence engine and an ecosystem that was created to offer an entirely new approach to AI.
 
 
 ### Canada
