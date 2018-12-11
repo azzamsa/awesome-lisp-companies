@@ -127,6 +127,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - *Disappear as of January 2018*
 - [Mind AI](https://www.mind.ai)
   - Founded in 2018, Mind AI is an artificial intelligence engine and an ecosystem that was created to offer an entirely new approach to AI.
+- [Wukix](https://wukix.com/)
+  - vendor of the [MOCL](https://wukix.com/mocl) implementation for mobile and OSX.
+- [Daric](https://daric.com/)
+  - Industry-leading software to help manage risk and improve the customer experience for the world's leading financial institutions. Client of the MOCL mobile and OSX implementation.
 
 
 ### Canada
