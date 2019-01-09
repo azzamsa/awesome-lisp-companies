@@ -268,6 +268,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ## Virtual or Unsure of Location
 
+- [Deftask](https://deftask.com/)
+  - painless task management for teams.
 - [Raytheon SigLab](http://www.lispworks.com/success-stories/raytheon-siglab.html)
   - a signal processing analysis pipeline for developing algorithms. A LispWorks success story.
 - [Untyped](https://untyped.com/)
