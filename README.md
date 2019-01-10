@@ -158,7 +158,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Mexico
 - [Ikkiware](http://www.ikkiware.com/)
-  - Developing a entrepreneurs oriented Social Network, [huuii.com](http://www.huuii.com/) which includes project management and productivity tools called Huuii Smart and Huuii People as a social network,Huuii Polls as a Polls tool and Huuii Sites as web site creator tool. use [SBCL](http://www.huuii.com/site/lisp), [some of their post](http://www.huuii.com/site/lisp/1140) about Common Lisp.
+  - Developing a entrepreneurs oriented Social Network, [huuii.com](http://www.huuii.com/) which includes project management and productivity tools called Huuii Smart and Huuii People as a social network, Huuii Polls as a Polls tool and Huuii Sites as web site creator tool use [SBCL](http://www.huuii.com/site/lisp), [some of their post](http://www.huuii.com/site/lisp/1140) about Common Lisp.
 
 ## Europe
 
@@ -252,7 +252,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - *Disappeared as of January 2018*
 - [Deftask](https://deftask.com/)
   - painless task management for teams.
-  - Deftask use Common Lisp in [their applications](https://github.com/deftask)
+  - Deftask uses Common Lisp in [their applications](https://github.com/deftask)
 
 ### Japan
 - [Mathematical Systems, Inc](http://www.msi.co.jp/english/)
@@ -261,7 +261,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - a native advertising network platform ([press article](http://thebridge.jp/en/2016/04/asahi-shimbun-acquires-somewrite)) where [Eitaro Fukamachi](https://github.com/fukamachi/) works. [lispjob announce](https://lispjobs.wordpress.com/2015/04/24/common-lisp-web-developer-somewrite-tokyo-or-remote/).
 - [Pocket Change Inc.](https://www.pocket-change.jp/en/)
   - Pocket Change is an innovative service. It converts leftover coins and bills to electronic money, gift codes, and coupons of your choice.
-  - Pokcet Change use Common Lisp in [their exchange machine](https://www.slideshare.net/fukamachi/building-gui-app-with-electron-and-lisp). [Eitaro Fukamachi](https://github.com/fukamachi/) is Lead Engineer here.
+  - Pokcet Change uses Common Lisp in [their exchange machine](https://www.slideshare.net/fukamachi/building-gui-app-with-electron-and-lisp). [Eitaro Fukamachi](https://github.com/fukamachi/) is Lead Engineer here.
 
 ## Australia
 
