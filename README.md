@@ -250,9 +250,9 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - Tachyon Technologies &#128124;
   - Quill program for typing in Indian languages, and Cspace, an open source p2p communication platform. Bangalore/Chennai, India. Jobs page mentions Common Lisp, Scheme, Lisp Interpreter, Optimizing Compiler, Natural Language Processing, Machine Learning. Job page includes coding puzzles!
   - *Disappeared as of January 2018*
-- [Deftask](https://deftask.com/)
-  - painless task management for teams.
-  - Deftask uses Common Lisp in [their applications](https://github.com/deftask)
+- [deftask](https://deftask.com/)
+  - task management app for teams
+  - deftask backend and the [command-line app](https://github.com/deftask/deftask-cli) are written in CL.
 
 ### Japan
 - [Mathematical Systems, Inc](http://www.msi.co.jp/english/)
