@@ -262,6 +262,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Pocket Change Inc.](https://www.pocket-change.jp/en/)
   - Pocket Change is an innovative service. It converts leftover coins and bills to electronic money, gift codes, and coupons of your choice.
   - Pokcet Change uses Common Lisp in [their exchange machine](https://www.slideshare.net/fukamachi/building-gui-app-with-electron-and-lisp). [Eitaro Fukamachi](https://github.com/fukamachi/) is Lead Engineer here.
+- [T-cool](https://t-cool.github.io/)
+  - A not-for-profit, dedicated to provide Common Lisp seminars and teaching.
 
 ## Australia
 
