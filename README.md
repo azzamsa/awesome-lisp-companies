@@ -177,6 +177,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Finland
 
+- Nokia
+  - developed [Wilbur](http://wilbur-rdf.sourceforge.net/docs/), an RDF toolkit for CLOS, in a research program.
 - Steel Bank Studio &#128124;
   - SBCL consulting. Helsinki, Finland. One man consulting firm consisting of Nikodemus Siivola, SBCL hacker and co-founder of common-lisp.net.
   - *Closed as the owner [clarified](https://github.com/azzamsa/awesome-lisp-companies/issues/1#issuecomment-354512421)*
