@@ -189,12 +189,14 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - “automatic ascertainment and further processing of verbal and text messages” (Natural Language Processing). Ubach-Palenburg, Germany. Looking for experienced and fresh Lisp programmers
 - [LambdaWerk](https://lambdawerk.com)
   - a software development and Web engineering company in Berlin, Germany, specialized in data interchange and transformation systems for the U.S. managed healthcare sector. Uses Clojure and Common Lisp.
-- [M-creations](https://www.keepit.com/)
-  - custom software solutions for mid-size to big companies in
-  finance/payment, health care, and media research. Missing pieces of
-  infrastructure are written in Common Lisp (CL) and interact with
-  existing software components of the cluster (DNS, load balancer
-  etc.) ([lispjobs announce](https://lispjobs.wordpress.com/2017/05/02/linux-systems-engineer-with-common-lisp-experience-m-creations-mainz-germany/)).
+
+- [m-creations](http://www.m-creations.com/)
+  - Custom software solutions for mid-size to big companies in
+    finance/payment, health care, and media. Using Common Lisp in
+    different fields ranging from dynamic web applications and Natural
+    Language Processing to systems engineering infrastructure in
+    container clusters (DNS, dynamic load balancer).
+
 - [stk-hamburg](http://stk-hamburg.com/eng.html)
   - developing an ERP in Lisp ([ECL 2018 lightning talk](https://european-lisp-symposium.org/static/2018/lt2.pdf)).
 
