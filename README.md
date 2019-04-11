@@ -293,6 +293,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - a signal processing analysis pipeline for developing algorithms. A LispWorks success story.
 - [Untyped](https://untyped.com/)
   - web applications, custom software development, training. Virtual Office (5 people). [PLT Scheme](http://www.untyped.com/untyping/archives/2007/11/custom_dispatch.html), very good [blog](https://untyped.com/untyping/)
+- [Utilitymage](http://utilitymage.com/)
+  - In Utility Mage (Umage) the aim is to make as much of the utility management process transparent. This allows both utility managers and the invoiced entity access to the relevant data like invoices, trend reports, exception reports and audit trails, such as photos of meter readings. As of may 2018, it is a startup still in Health mode. Umage is built in Common Lisp.
 
 ## Other Resources
 
