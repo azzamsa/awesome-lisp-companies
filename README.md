@@ -18,6 +18,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
         - [Belgium](#belgium)
         - [Denmark](#denmark)
         - [Finland](#finland)
+        - [France](#france)
         - [Germany](#germany)
         - [Netherlands](#netherlands)
         - [Norway](#norway)
@@ -183,6 +184,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - Steel Bank Studio &#128124;
   - SBCL consulting. Helsinki, Finland. One man consulting firm consisting of Nikodemus Siivola, SBCL hacker and co-founder of common-lisp.net.
   - *Closed as the owner [clarified](https://github.com/azzamsa/awesome-lisp-companies/issues/1#issuecomment-354512421)*
+
+### France
+
+- [Sony Computer Science Laboratories Paris](https://www.csl.sony.fr/), VUB Artificial Intelligence Laboratory in Brussels
+  - developed an open source framework in Common Lisp for conducting experiments on language evolution: [Babel](https://emergent-languages.org/). Their Gitlab: https://gitlab.ai.vub.ac.be/ehai/babel-core
 
 ### Germany
 
