@@ -25,6 +25,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
         - [Spain](#spain)
         - [Sweden](#sweden)
         - [Switzerland](#switzerland)
+    - [Africa](#africa)
+        - [South Africa](#south-africa)
     - [Asia](#asia)
         - [India](#india)
         - [Japan](#japan)
@@ -245,6 +247,14 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 - [Emotiq](http://emotiq.ch/)
   - building a next generation blockchain with an innovative natural-language approach to smart contracts.
+
+## Africa
+
+### South Africa
+
+- [Mtsholdings](http://mtsholdings.co.za/technology/)
+  - building Insite, a flexible, cloud-based B2B social sustainability
+    management platform. Insite's core is built in Common Lisp.
 
 ## Asia
 
