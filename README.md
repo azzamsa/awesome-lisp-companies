@@ -13,6 +13,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
     - [North America](#north-america)
         - [United States](#united-states)
         - [Canada](#canada)
+        - [Mexico](#mexico)
     - [Europe](#europe)
         - [Belgium](#belgium)
         - [Denmark](#denmark)
@@ -38,9 +39,9 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
     - [Guidelines to contribute](#guidelines-to-contribute)
     - [Credit](#credit)
     - [License](#license)
+    - [Other Awesome Lists](#other-awesome-lists)
 
 <!-- markdown-toc end -->
-
 
 ## North America
 
