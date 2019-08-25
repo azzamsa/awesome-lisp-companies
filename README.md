@@ -92,6 +92,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - *Disappear as of January 2018*
 - [Smart Information Flow Technologies](http://sift.info/)
   - Contract research house. Minneapolis, MN. Mission objective: “Getting information where it belongs when it’s needed.” [Hiring AI professionals](http://sift.info/jobs/ai.htm) to support human control of complex systems. Research areas include: Planning, Plan recognition, Intelligent UserInterfaces, Information Presentation and Management and Computational Etiquette.
+    Have at least one product at opensource – [Simple Hierarchical Ordered Planner 2](https://github.com/calyau/shop2/) (SHOP2).
 - Biographicon &#128124;
   - “A place for everyone’s biography.”  Wikipedia for people not notable enough to be on Wikipedia. San Francisco, CA. A YCombinator company, started by Ethan Herdrick and Daniel Terhorst. Running Kawa Scheme (also uses PLT Scheme for internal stuff).
   - *Disappear as of January 2018*
