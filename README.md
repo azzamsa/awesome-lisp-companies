@@ -81,6 +81,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [ITA Software by Google](http://www.itasoftware.com/)
   - airfare search engine and airline scheduling software. Cambridge, MA. [Common Lisp used for basically everything](http://lambda-the-ultimate.org/node/2491#comment-38434), currently hiring and expanding their business
   - *Active as of January 2018*
+- Nasa
+  - the Nasa develops [PVS](https://github.com/SRI-CSL/PVS), "the People's Verification System". PVS is a verification system: that is, a specification language integrated with support tools and a theorem prover. See also [pvslib](https://github.com/nasa/pvslib).
 - [OurDoings.com](http://www.ourdoings.com/)
   - photo sharing site aimed towards casual photographers. Beverly, MA. Kawa Scheme running on JVM, created by [Bruce Lewis](http://brlewis.com/)
 - [Secure Outcomes](http://www.secureoutcomes.net/)
