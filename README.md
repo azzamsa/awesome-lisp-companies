@@ -192,7 +192,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 ### France
 
 - [Sony Computer Science Laboratories Paris](https://www.csl.sony.fr/), VUB Artificial Intelligence Laboratory in Brussels
-  - developed an open source framework in Common Lisp for conducting experiments on language evolution: [Babel](https://emergent-languages.org/). Their Gitlab: https://gitlab.ai.vub.ac.be/ehai/babel-core
+  - developed an open source framework in Common Lisp for conducting experiments on language evolution: [Babel](https://emergent-languages.org/). Their Gitlab: https://gitlab.ai.vub.ac.be/ehai/babel-core. [Source](https://mailman.common-lisp.net/pipermail/pro/2019-April/001686.html).
 
 ### Germany
 
