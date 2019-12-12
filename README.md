@@ -204,6 +204,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [LambdaWerk](https://lambdawerk.com)
   - a software development and Web engineering company in Berlin, Germany, specialized in data interchange and transformation systems for the U.S. managed healthcare sector. Uses Clojure and Common Lisp.
 
+- [MTU Aero Engines](https://www.mtu.de/)
+  - MTU Aero Engines is Germany's leading engine manufacturer and an established global player in the industry. It engages in the development, manufacture, marketing and support of commercial and military aircraft engines in all thrust and power categories and industrial gas turbines. They use [Allegro CL](https://franz.com/success/customer_apps/mechanical_cad/mtu.lhtml).
 - [m-creations](http://www.m-creations.com/)
   - Custom software solutions for mid-size to big companies in
     finance/payment, health care, and media. Using Common Lisp in
