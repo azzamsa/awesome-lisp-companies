@@ -78,7 +78,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
     outside of the home, including a range of autonomous home vacuum
     cleaners (like the [Roomba](https://en.wikipedia.org/wiki/Roomba),
     whose native code is written in a compatible subset of Common
-    Lisp).
+    Lisp). [research paper](https://www.researchgate.net/publication/2949173_L_--_A_Common_Lisp_for_Embedded_Systems).
 - [ITA Software by Google](http://www.itasoftware.com/)
   - airfare search engine and airline scheduling software. Cambridge, MA. [Common Lisp used for basically everything](http://lambda-the-ultimate.org/node/2491#comment-38434), currently hiring and expanding their business
   - *Active as of January 2018*
