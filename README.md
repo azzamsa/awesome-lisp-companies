@@ -56,7 +56,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
     dedicated and virtual server hosting,... they have a [Github account](https://github.com/AccelerationNet/access/).
 - [Alphacet, LLC](http://www.alphacet.com/) &#128124;
   - software tools for analysts, traders, and portfolio managers. Stamford, CT. Includes post-sales work helping clients [expand proprietary trading](http://www.linkedin.com/jobs?viewJob=&jobId=534391) libraries in Lisp.
-  - *Disappear as of January 2018.*
+  - *Disappeared as of January 2018.*
 - [Clozure Associates](https://clozure.com/index.html)
   - software development consulting firm specializing in Common Lisp development. Somerville, MA. Sponsors and developers of OpenMCL.
   - *Active as of January 2018.*
@@ -92,16 +92,16 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - founded by Christian Schafmeister and Martin Cracauer, the CLASP and Cando  developers, ThirdLaw provides support and services for computational chemistry.
 - [Tilton Technology](http://www.tilton-technology.com/) &#128124;
   - Common Lisp projects like Cells, Celtk, and Cello, and TheoryYAlgebra, a learning game. NYC? Site for Ken Tilton, well known and [funny Lisper](http://bc.tech.coop/blog/061005.html).
-  - *Disappear as of January 2018*
+  - *Disappeared as of January 2018*
 - Paragent.com &#128124;
   - Open Source Desktop Management Software. Muncie, IN. Common Lisp (SBCL), article about why they chose Lisp, and about Lisp and Agile Development
-  - *Disappear as of January 2018*
+  - *Disappeared as of January 2018*
 - [Smart Information Flow Technologies](http://sift.info/)
   - Contract research house. Minneapolis, MN. Mission objective: “Getting information where it belongs when it’s needed.” [Hiring AI professionals](http://sift.info/jobs/ai.htm) to support human control of complex systems. Research areas include: Planning, Plan recognition, Intelligent UserInterfaces, Information Presentation and Management and Computational Etiquette.
     Have at least one product at opensource – [Simple Hierarchical Ordered Planner 2](https://github.com/calyau/shop2/) (SHOP2).
 - Biographicon &#128124;
   - “A place for everyone’s biography.”  Wikipedia for people not notable enough to be on Wikipedia. San Francisco, CA. A YCombinator company, started by Ethan Herdrick and Daniel Terhorst. Running Kawa Scheme (also uses PLT Scheme for internal stuff).
-  - *Disappear as of January 2018*
+  - *Disappeared as of January 2018*
 - [Cadence](https://www.cadence.com/)
   - software and engineering services for electronic design automation. San Jose, CA (headquarters of worldwide company). Their IC design software uses SKILL (a Franz Lisp variant) as a scripting language.
 - [GigaMonkeys Consulting](http://www.gigamonkeys.com/)
@@ -116,12 +116,12 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - early stage venture investors. Cambridge, MA and Mountain View, CA. Runs [Hacker News](http://news.ycombinator.com/), built in [Arc](http://www.paulgraham.com/arc.html), and other internal software also written in Arc. Two annual rounds of funding for early stage startups (not Lisp related). Home of Lisp icon [Paul Graham.](http://www.paulgraham.com/)
 - adUup &#128124;
   - an ad network that favors long-tail publishers. Seattle, WA. Private beta open now, launch expected Summer 2008. Job description includes: Common Lisp backend, SBCL, Hunchentoot. They already have some CL developers.
-  - *Disappear as of 2008*
+  - *Disappeared as of 2008*
 - [Inspiration Software, Inc](http://www.inspiration.com/)
   - educational software, including [InspireData](http://www.inspiration.com/productinfo/inspiredata/index.cfm), a product for building data literacy. Beaverton, OR. Made in LispWorks.
 - Synaptic Mash &#128124;
   - educational learning management system. Seattle, WA. Job requirements for server and web developers require experience with “Lisp Family”, SBCL, LispWorks
-  - *Disappear as of January 2018*
+  - *Disappeared as of January 2018*
 - [Tech Co-op](http://tech.coop/)
   - a not-for-profit, member-owned services co-operative dedicated to providing Technical Services for it’s members. Vancouver, Canada. Lisp for internal development and for members. Offers hosting and hosts many Lisp sites like common-lisp.net, cliki.net, and gigamonkeys.com.
 - [EnRoute Systems](http://enroutesystems.com/home/)
@@ -134,7 +134,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - create an English language writing-enhancement platform. [Running Lisp in Production ](https://tech.grammarly.com/blog/running-lisp-in-production)
 - Matchcraft &#128124;
   - aggregation-based, local Internet advertising – online Yellow Pages. Santa Monica, CA. Previously had a major production system written in Lisp, has several internal tools written in Common Lisp, and is developing new products in Lisp .
-  - *Disappear as of January 2018*
+  - *Disappeared as of January 2018*
 - [Mind AI](https://www.mind.ai)
   - Founded in 2018, Mind AI is an artificial intelligence engine and an ecosystem that was created to offer an entirely new approach to AI.
 - [Wukix](https://wukix.com/)
@@ -151,12 +151,12 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
    - intelligent machines. Montreal, Canada. Main page just lets you send mail, but the site includes a Chicken Scheme extension for Gnu/Octave and a floating point vector and matrix library for Gambit Scheme.
 -  Categorical Design Solutions &#128124;
    - eLearning, Knowledge Management, multimedia content creation technology and dissemination of contents over the Internet. Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
-   - *Disappear as of January 2018*
+   - *Disappeared as of January 2018*
 - [D-Wave Systems Inc.](https://www.dwavesys.com/)
    - The Quantum Computing Company (trademark). The world's first company to sell quantum computers. [Wikipedia Page](https://en.wikipedia.org/wiki/D-Wave_Systems)
 -  Idalia &#128124;
    - natural language processing technology. Montreal, Canada. Listed on MSLUG Home Page but all jobs mention C++ and not Lisp
-   - *Disappear as of January 2018*
+   - *Disappeared as of January 2018*
 -  [Kronos, Altitude Division](https://www.kronos.com/)
    - Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
 -  [MetaScoop](http://www.metascoop.com/)
@@ -228,7 +228,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - Automatic Functional Sizing. Muiderberg, Netherlands. Analyzes requirements and design documents for business software to make a Function Point Analysis. Sole proprietorship (Ernst van Waning) using Allegro/Lispworks.
 - StreamTech &#128124;
   - custom web application development, online advertising and profiling products. The Hague, Netherlands. Hiring programming interns. Common Lisp, about 10 hackers
-  - *Disappear as of 2012*
+  - *Disappeared as of 2012*
 
 ### Norway
 
@@ -258,10 +258,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - natural language interface for relational databases. UmeÃ¥, Sweden. Including [Michael Minock](http://www.cs.umu.se/~mjm/) of UmeÃ¥ University. Downloadable demo of their CatchPhrase product. 20K lines of Clisp code.
 - Noteheads &#128124;
   - digital sheet music creation and distribution. Sweden. Mentioned as a successful case study in Successful Lisp, but their website focuses more on their musical pedigree (including having the guy from Roxette on their board)
-  - *Disappear as of January 2018*
+  - *Disappeared as of January 2018*
 - Stix.to &#128124;
   - shareable notes and messages on any web page. Sweden. Common Lisp, Ties Stuij, an employee, writes the Fallen Frukt blog
-  - *Disappear as of January 2018*
+  - *Disappeared as of January 2018*
 
 ### Switzerland
 
@@ -282,7 +282,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 ### India
 - Tachyon Technologies &#128124;
   - Quill program for typing in Indian languages, and Cspace, an open source p2p communication platform. Bangalore/Chennai, India. Jobs page mentions Common Lisp, Scheme, Lisp Interpreter, Optimizing Compiler, Natural Language Processing, Machine Learning. Job page includes coding puzzles!
-  - *Disappeared as of January 2018*
+  - *Disappeareded as of January 2018*
 - [deftask](https://deftask.com/)
   - task management app for teams
   - deftask backend and the [command-line app](https://github.com/deftask/deftask-cli) are written in CL.
@@ -302,7 +302,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 - Memetrics (now part of Accenture)
   - testing and optimization for digital marketers. Sydney. Includes Alain Picard, frequent poster to Lisp forums. A LispWorks success story. Their XOS Software platform automated marketing tests, making it cheaper and easier to run more tests.
-  - *Disappear as of January 2018*
+  - *Disappeared as of January 2018*
 
 ## Virtual or Unsure of Location
 
