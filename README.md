@@ -17,6 +17,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
     - [Europe](#europe)
         - [Belgium](#belgium)
         - [Denmark](#denmark)
+        - [England](#england)
         - [Finland](#finland)
         - [France](#france)
         - [Germany](#germany)
@@ -183,6 +184,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 - Mu Aps &#128124;
   - Building automatic trading systems. Farum, Denmark. Klaus Habro of Mu Aps wrote the cl-muproc library: Erlang-inspired multi-processing in Common Lisp. Two presentations (both pdf) and a summary.
+
+### England
+
+- OpusModus Ltd
+  - Building [Opusmodus](https://opusmodus.com/), an award-winning music composition software.
 
 ### Finland
 
