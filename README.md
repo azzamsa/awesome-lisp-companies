@@ -267,7 +267,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Switzerland
 
-- [Emotiq](http://emotiq.ch/)
+- [Emotiq](http://emotiq.ch/) &#128124;
   - building a next generation blockchain with an innovative natural-language approach to smart contracts.
   - *Disappeared as of January 2019*
 
