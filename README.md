@@ -114,8 +114,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - client-sponsored R&D. Menlo Park, CA. [Hiring scientific CL programmers](https://sri.ats.hrsmart.com/cgi-bin/a/highlightjob.cgi?jobid=4086). See also [Artificial Intelligence Center](http://www.ai.sri.com/). They have lots of [Lisp-related links](http://www.google.com/search?q=lisp+site%3Ahttp%3A%2F%2Fsri.com) on their site as well.
 - [StreamFocus](http://www.streamfocus.com/index)
   - project and action management software. San Francisco, CA. [Lisp and CLOS based](http://blog.streamfocus.com/about/)
-- [YCombinator](http://ycombinator.com/)
-  - early stage venture investors. Cambridge, MA and Mountain View, CA. Runs [Hacker News](http://news.ycombinator.com/), built in [Arc](http://www.paulgraham.com/arc.html), and other internal software also written in Arc. Two annual rounds of funding for early stage startups (not Lisp related). Home of Lisp icon [Paul Graham.](http://www.paulgraham.com/)
 - adUup &#128124;
   - an ad network that favors long-tail publishers. Seattle, WA. Private beta open now, launch expected Summer 2008. Job description includes: Common Lisp backend, SBCL, Hunchentoot. They already have some CL developers.
   - *Disappeared as of 2008*
