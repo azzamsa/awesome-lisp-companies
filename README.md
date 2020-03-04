@@ -114,9 +114,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - client-sponsored R&D. Menlo Park, CA. [Hiring scientific CL programmers](https://sri.ats.hrsmart.com/cgi-bin/a/highlightjob.cgi?jobid=4086). See also [Artificial Intelligence Center](http://www.ai.sri.com/). They have lots of [Lisp-related links](http://www.google.com/search?q=lisp+site%3Ahttp%3A%2F%2Fsri.com) on their site as well.
 - [StreamFocus](http://www.streamfocus.com/index)
   - project and action management software. San Francisco, CA. [Lisp and CLOS based](http://blog.streamfocus.com/about/)
-- adUup &#128124;
-  - an ad network that favors long-tail publishers. Seattle, WA. Private beta open now, launch expected Summer 2008. Job description includes: Common Lisp backend, SBCL, Hunchentoot. They already have some CL developers.
-  - *Disappeared as of 2008*
 - [Inspiration Software, Inc](http://www.inspiration.com/)
   - educational software, including [InspireData](http://www.inspiration.com/productinfo/inspiredata/index.cfm), a product for building data literacy. Beaverton, OR. Made in LispWorks.
 - Synaptic Mash &#128124;
