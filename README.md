@@ -57,6 +57,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Alphacet, LLC](http://www.alphacet.com/) &#128124;
   - software tools for analysts, traders, and portfolio managers. Stamford, CT. Includes post-sales work helping clients [expand proprietary trading](http://www.linkedin.com/jobs?viewJob=&jobId=534391) libraries in Lisp.
   - *Disappeared as of January 2018.*
+- Boeing
+  - uses the Allegro NFS Server in the onboard network system of Boeing 747 and 777 aircraft (source: [video, ELS 2015](https://www.youtube.com/watch?v=S7nEZ3TuFpA)).
 - [Clozure Associates](https://clozure.com/index.html)
   - software development consulting firm specializing in Common Lisp development. Somerville, MA. Sponsors and developers of OpenMCL.
   - *Active as of January 2018.*
