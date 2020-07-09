@@ -28,6 +28,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
         - [Spain](#spain)
         - [Sweden](#sweden)
         - [Switzerland](#switzerland)
+        - [Turkey](#turkey)
     - [Africa](#africa)
         - [South Africa](#south-africa)
     - [Asia](#asia)
@@ -272,6 +273,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Emotiq](http://emotiq.ch/) &#128124;
   - building a next generation blockchain with an innovative natural-language approach to smart contracts.
   - *Disappeared as of January 2019*
+  
+### Turkey
+
+- [Pisano](https://www.pisano.co/en)
+ - building customer experience solutions: making tools to empower decisions by building effective feedback channels, that provide unprecedented insights into the online and offline world.
 
 ## Africa
 
