@@ -75,6 +75,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [GrammaTech](https://www.grammatech.com/)
   - Source code analysis tools for C, C++, Ada. Ithaca, NY. [Hiring software engineers](http://www.grammatech.com/corporate/employment.html) and interns with experience programming in Scheme, compilers, and static analysis.
   - *Active as of January 2018*
+- [GraphMetrix](https://graphmetrix.com/)
+  - automation of document extraction and publishing for construction, property and logistics.
+  - *Active as of September 2020*.
+> "We are using Lisp as the main engine for our RDF -> Sparql -> in-memory rdf db -> conceptual inference system at graphMetrix"
 - [iRobot](http://www.irobot.com/)
   - a company that designs and builds consumer robots for inside and
     outside of the home, including a range of autonomous home vacuum
