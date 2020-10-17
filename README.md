@@ -155,6 +155,9 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
    - *Disappeared as of January 2018*
 - [D-Wave Systems Inc.](https://www.dwavesys.com/)
    - The Quantum Computing Company (trademark). The world's first company to sell quantum computers. [Wikipedia Page](https://en.wikipedia.org/wiki/D-Wave_Systems)
+- [HexstreamSoft](https://www.hexstreamsoft.com/)
+  - Public Domain Common Lisp R&D. 14 years of intensive Common Lisp related work, including nearly a decade of Open Source Common Lisp. 30+ ready-to-use libraries in Quicklisp. Multiple important Common Lisp community resources. #1 Common Lisp site according to Alexa as of October 2020.
+  - *Active as of October 2020.*
 -  Idalia &#128124;
    - natural language processing technology. Montreal, Canada. Listed on MSLUG Home Page but all jobs mention C++ and not Lisp
    - *Disappeared as of January 2018*
