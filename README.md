@@ -269,6 +269,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - building a next generation blockchain with an innovative natural-language approach to smart contracts.
   - *Disappeared as of January 2019*
 
+### Ukraine
+
+- [Keepit](https://www.keepit.com/)
+  - a cloud-to-cloud backup service provider. Was hiring two Common Lisp developers in October, 2020.
+
 ## Africa
 
 ### South Africa
