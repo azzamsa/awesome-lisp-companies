@@ -271,6 +271,9 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Emotiq](http://emotiq.ch/) &#128124;
   - building a next generation blockchain with an innovative natural-language approach to smart contracts.
   - *Disappeared as of January 2019*
+- [Shirakumo](https://shirakumo.org) / Nicolas Hafner
+  - Developing [Kandria](https://kandria.com), a post-apocalyptic hack & slash platformer game.
+  - Many other open source libraries and projects for game development and web development.
 
 ### Ukraine
 
