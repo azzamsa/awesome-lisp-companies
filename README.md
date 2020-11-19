@@ -189,6 +189,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 - Mu Aps &#128124;
   - Building automatic trading systems. Farum, Denmark. Klaus Habro of Mu Aps wrote the cl-muproc library: Erlang-inspired multi-processing in Common Lisp. Two presentations (both pdf) and a summary.
+- [SteelSeries ApS](https://www.steelseries.com/)
+  - Makes gaming accessories such as headsets, keyboards and mice. Games can integrate with these through the SteelSeries Engine using [GoLisp](https://techblog.steelseries.com/golisp/documents.html), their [open source Lisp written in Go](https://github.com/SteelSeries/golisp), which aims to be compatible with MIT/GNU Scheme.
 
 ### England
 
