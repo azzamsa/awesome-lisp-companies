@@ -33,6 +33,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
     - [Asia](#asia)
         - [India](#india)
         - [Japan](#japan)
+        - [Korea](#korea)
     - [Australia](#australia)
     - [Virtual or Unsure of Location](#virtual-or-unsure-of-location)
     - [Other Resources](#other-resources)
@@ -314,6 +315,12 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [T-cool](https://t-cool.github.io/)
   - A not-for-profit, dedicated to provide Common Lisp seminars and teaching.
 
+### Korea
+
+- [Mind.ai](https://mind.ai)
+  - Developing the next generation of symbolic AI systems
+  - Uses LispWorks
+  
 ## Australia
 
 - Memetrics (now part of Accenture)
