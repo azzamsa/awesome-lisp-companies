@@ -193,6 +193,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 - OpusModus Ltd
   - Building [Opusmodus](https://opusmodus.com/), an award-winning music composition software.
+- Virtual Insurance Products Ltd
+  - Insurance MGA with a bespoke business to business web platform (with some customer facing parts) written in Common Lisp.
+  - Active as of November 2020
+  - http://insurevip.co.uk and [Github account](https://github.com/Virtual-Insurance-Products/)
+  - Currently (November 2020) looking to hire CL developer(s)
 
 ### Finland
 
