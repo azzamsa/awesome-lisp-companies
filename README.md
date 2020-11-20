@@ -32,8 +32,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
         - [South Africa](#south-africa)
     - [Asia](#asia)
         - [India](#india)
-        - [Japan](#japan)
         - [Korea](#korea)
+        - [Japan](#japan)
     - [Australia](#australia)
     - [Virtual or Unsure of Location](#virtual-or-unsure-of-location)
     - [Other Resources](#other-resources)
@@ -304,6 +304,12 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - task management app for teams
   - deftask backend and the [command-line app](https://github.com/deftask/deftask-cli) are written in CL.
 
+### Korea
+
+- [Mind.ai](https://mind.ai)
+  - Developing the next generation of symbolic AI systems
+  - Uses LispWorks
+
 ### Japan
 - [Mathematical Systems, Inc](http://www.msi.co.jp/english/)
   - scientific software, computer science, internet solutions, social systems. Tokyo, Japan. Their [Car Crash Database System](http://cl-www.msi.co.jp:8000/cl-http/hcpage/intoro-main-e.html) (using [Allegro](http://www.franz.com/success/customer_apps/knowledge_mgmt/msi.lhtml)) lets engineers browse over 1TB of numerical, photo, and video data about car crashes to design safer cars (used by Honda). If you know Japanese, they have a page called [“Why Common Lisp?”](http://cl-www.msi.co.jp/solutions/knowledge/lisp-world/articles/why-lisp) (translation appreciated).
@@ -314,12 +320,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - Pokcet Change uses Common Lisp in [their exchange machine](https://www.slideshare.net/fukamachi/building-gui-app-with-electron-and-lisp). [Eitaro Fukamachi](https://github.com/fukamachi/) is Lead Engineer here.
 - [T-cool](https://t-cool.github.io/)
   - A not-for-profit, dedicated to provide Common Lisp seminars and teaching.
-
-### Korea
-
-- [Mind.ai](https://mind.ai)
-  - Developing the next generation of symbolic AI systems
-  - Uses LispWorks
   
 ## Australia
 
