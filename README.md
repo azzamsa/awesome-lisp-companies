@@ -332,8 +332,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 ## Virtual or Unsure of Location
 
 - the [PostgreSQL](https://www.postgresql.org) organization uses Common Lisp in at least two products:
-  - [pgloader](http://pgloader.io/) (see [why it was rewritting from Python](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/)), and
+  - [pgloader](http://pgloader.io/) (see [why it was rewritten from Python](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/)), and
   - [pgcharts](https://github.com/dimitri/pgcharts).
+- [Mimix](https://nebula.mimix.io/), developing Nebula, a suite of new tools for working with facts and documents. 
+  - uses SBCL, Electron, AngularJS.
+  - active as of December, 2020.
 - [Raytheon SigLab](http://www.lispworks.com/success-stories/raytheon-siglab.html)
   - a signal processing analysis pipeline for developing algorithms. A LispWorks success story.
 - [Untyped](https://untyped.com/)
