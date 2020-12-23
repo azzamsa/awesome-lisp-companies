@@ -89,6 +89,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [ITA Software by Google](http://www.itasoftware.com/)
   - airfare search engine and airline scheduling software. Cambridge, MA. [Common Lisp used for basically everything](http://lambda-the-ultimate.org/node/2491#comment-38434), currently hiring and expanding their business
   - *Active as of January 2018*
+- [The Mimix Company](https://mimix.io/)
+  - creators of MSL and Nebula, new tools for working with facts and documents.
+  - location: Houston, TX
+  - *Active as of December 2020*.
 - Nasa
   - the Nasa develops [PVS](https://github.com/SRI-CSL/PVS), "the People's Verification System". PVS is a verification system: that is, a specification language integrated with support tools and a theorem prover. See also [pvslib](https://github.com/nasa/pvslib).
 - [OurDoings.com](http://www.ourdoings.com/)
@@ -334,9 +338,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - the [PostgreSQL](https://www.postgresql.org) organization uses Common Lisp in at least two products:
   - [pgloader](http://pgloader.io/) (see [why it was rewritten from Python](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/)), and
   - [pgcharts](https://github.com/dimitri/pgcharts).
-- [Mimix](https://nebula.mimix.io/), developing Nebula, a suite of new tools for working with facts and documents. 
-  - uses SBCL, Electron, AngularJS.
-  - active as of December, 2020.
 - [Raytheon SigLab](http://www.lispworks.com/success-stories/raytheon-siglab.html)
   - a signal processing analysis pipeline for developing algorithms. A LispWorks success story.
 - [Untyped](https://untyped.com/)
