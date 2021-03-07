@@ -245,8 +245,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Norway
 
-- [Netfonds Bank ASA](http://www.netfonds.no/)
-  - bank, stock trading. Oslo, Norway. [Everything between the web front end and the database is Common Lisp](http://www.lispworks.com/success-stories/netfonds-primetrader.html) – middleware, trading systems, backoffice support, etc. Cross platform stock trading application. [PrimeTrader](http://www.netfonds.no/manual_pt_eng.php) product is a LispWorks success story.
 - [Selvaag](http://www.selvaag.no/)
   - home building, real estate management, [developing IT tools](http://www.selvaag.no/en/aboutselvaag/Sider/default.aspx) for industrial housing construction. Oslo, Norway. Developed the [BlueThink](http://www.selvaag.no/en/Companies/Selvaagbluethink/aboutus/Sider/default.aspx) knowledge management tools for housing construction planning.
 
