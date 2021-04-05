@@ -25,6 +25,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
         - [Norway](#norway)
         - [Poland](#poland)
         - [Portugal](#portugal)
+        - [Russia](#russia)
         - [Spain](#spain)
         - [Sweden](#sweden)
         - [Switzerland](#switzerland)
@@ -257,6 +258,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 - [SISCOG](http://www.siscog.pt/)
   - decision-support systems for resource planning and management in transportation companies. Lisboa, Portugal. Allegro CL since version 5 – before that it was Lucid Lisp.
+
+### Russia
+
+- [SberBank](https://www.sberbank.ru/en)
+  - SberBank is the largest bank in Russia, Central and Eastern Europe, and one of the leading financial institutions worldwide. Uses Common Lisp(SBCL) as a backend in a Metadata Management System for an internal cybersecurity big data.
 
 ### Spain
 
