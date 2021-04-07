@@ -108,6 +108,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - Paragent.com &#128124;
   - Open Source Desktop Management Software. Muncie, IN. Common Lisp (SBCL), article about why they chose Lisp, and about Lisp and Agile Development
   - *Disappeared as of January 2018*
+- [Screenshotbot](https://screenshotbot.io)
+  - Visual Testing as a service. Get notified on Pull Requests when your code changes your UI, mobile or web. Built with LispWorks.
 - [Smart Information Flow Technologies](http://sift.info/)
   - Contract research house. Minneapolis, MN. Mission objective: “Getting information where it belongs when it’s needed.” [Hiring AI professionals](http://sift.info/jobs/ai.htm) to support human control of complex systems. Research areas include: Planning, Plan recognition, Intelligent UserInterfaces, Information Presentation and Management and Computational Etiquette.
     Have at least one product at opensource – [Simple Hierarchical Ordered Planner 2](https://github.com/calyau/shop2/) (SHOP2).
@@ -330,7 +332,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - Pokcet Change uses Common Lisp in [their exchange machine](https://www.slideshare.net/fukamachi/building-gui-app-with-electron-and-lisp). [Eitaro Fukamachi](https://github.com/fukamachi/) is Lead Engineer here.
 - [T-cool](https://t-cool.github.io/)
   - A not-for-profit, dedicated to provide Common Lisp seminars and teaching.
-  
+
 ## Australia
 
 - Memetrics (now part of Accenture)
