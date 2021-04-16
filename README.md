@@ -81,6 +81,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - automation of document extraction and publishing for construction, property and logistics.
   - *Active as of September 2020*.
 > "We are using Lisp as the main engine for our RDF -> Sparql -> in-memory rdf db -> conceptual inference system at graphMetrix"
+- [HRL Laboratories](https://www.hrl.com/)
+  - One of the world's premier physical science and engineering research laboratories.
+  - Engage in the development of a full quantum device and computation stack, including an optimizing compiler for a quantum programming language. Uses SBCL.
+  - *Active as of April 2021*.
 - [iRobot](http://www.irobot.com/)
   - a company that designs and builds consumer robots for inside and
     outside of the home, including a range of autonomous home vacuum
