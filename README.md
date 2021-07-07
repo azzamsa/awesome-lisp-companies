@@ -208,6 +208,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### England
 
+- LispWorks Ltd
+  - http://www.lispworks.com/
+  - The company sells software written using Common Lisp. Their main products, LispWorks and Liquid Common Lisp, are Lisp development tools. Their primary business is support and development of these tools. They also provide consultancy services to companies needing implementation of software projects.
+  - *since 2005*. LispWorks Ltd was formed to continue and grow the Lisp business formerly owned by Xanalys Corporation (previously owned by Global Graphics and originating with Harlequin). LispWorks Ltd comprises the Lisp team who were previously with Xanalys.
 - OpusModus Ltd
   - Building [Opusmodus](https://opusmodus.com/), an award-winning music composition software.
 - Virtual Insurance Products Ltd
