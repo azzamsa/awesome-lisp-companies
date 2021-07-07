@@ -154,6 +154,9 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - vendor of the [MOCL](https://wukix.com/mocl) implementation for mobile and OSX.
 - [Daric](https://daric.com/)
   - Industry-leading software to help manage risk and improve the customer experience for the world's leading financial institutions. Client of the MOCL mobile and OSX implementation.
+- [RIFFIT](https://www.riffitnow.com/)
+  - Learning with real time text-to-song. Uses a combination of SIOD Scheme for natural language processing and SBCL and ECL for the core technology.
+  - *Active as of July, 2021*
 
 
 ### Canada
