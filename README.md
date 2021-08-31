@@ -233,6 +233,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Germany
 
+- [bevuta IT GmbH](https://www.bevuta.com/)
+  - bevuta IT aims to be a technological leader and close to current scientific developments, focusing on objectively good technologies instead of current trends. The company employs the founder and core developers of the [CHICKEN Scheme](https://www.call-cc.org/) project.
 - [CoCreate](http://www.cocreate.com/)
   - 3D CAD modeler for “explicit modeling”. Sindelfingen, Germany. 1M+ lines of Lisp, previously part of HP, paper on[ Common Lisp as an Embedded Extension Language](http://www.hpl.hp.com/hpjournal/95oct/oct95a7.pdf). Recent blog post about [CL use](http://www.clausbrod.de/cgi-bin/view.pl/Blog/WebHome#DefinePrivatePublic20071229_Comm)
 - [Cognesys](http://www.cognesys.de/) &#9746;
