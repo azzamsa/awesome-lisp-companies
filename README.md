@@ -61,6 +61,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - *Disappeared as of January 2018.*
 - Boeing
   - uses the Allegro NFS Server in the onboard network system of Boeing 747 and 777 aircraft (source: [video, ELS 2015](https://www.youtube.com/watch?v=S7nEZ3TuFpA)).
+- [Chia Network](https://www.chia.net/)
+  - Company that developed the Chia proof-of-space-time blockchain. Their smart contract language is [Chialisp](https://chialisp.com/).
 - [Clozure Associates](https://clozure.com/index.html)
   - software development consulting firm specializing in Common Lisp development. Somerville, MA. Sponsors and developers of OpenMCL.
   - *Active as of January 2018.*
