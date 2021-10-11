@@ -4,7 +4,7 @@
 
 Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively in their stack.
 
-*This list intended only for company with Common Lisp and Scheme usage*
+**This list intended only for company with Common Lisp and Scheme usage**
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
