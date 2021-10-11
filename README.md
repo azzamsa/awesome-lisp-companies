@@ -225,6 +225,9 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - Steel Bank Studio &#128124;
   - SBCL consulting. Helsinki, Finland. One man consulting firm consisting of Nikodemus Siivola, SBCL hacker and co-founder of common-lisp.net.
   - *Closed as the owner [clarified](https://github.com/azzamsa/awesome-lisp-companies/issues/1#issuecomment-354512421)*
+- [IPRally](https://www.iprally.com)
+  - IPRally is a virtual patent professional learning from real-world professionals with the latest machine learning technologies.
+  - Most of the product written in [Clojure](https://clojure.org/) and [ClojureScript](https://clojurescript.org/).
 
 ### France
 
