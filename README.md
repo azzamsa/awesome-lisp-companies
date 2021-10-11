@@ -1,10 +1,13 @@
-# Awesome Lisp Company
+<div align="center">
+<h1>Awesome Lisp Company</h1>
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
 Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively in their stack.
 
 👽 **This list intended only for company with Common Lisp and Scheme usage** 👽
+
+</div>
 
 ---
 
