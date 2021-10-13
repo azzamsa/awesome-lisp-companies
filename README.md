@@ -166,7 +166,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Canada
 
--  [AMARC](http://www.amarc.org/)
+-  [AMARC](http://www.amarc.org/) &#128124;
    - organization supporting community radio broadcasting. Montreal, Canada. [Job page mentions Scheme](http://amarcwiki.amarc.org/wiliki.cgi?Careers), web development, and graphics. Uses a Wiki powered by Gauche
 -  [Carre Technologies](http://www.carretechnologies.com/)
    - intelligent machines. Montreal, Canada. Main page just lets you send mail, but the site includes a Chicken Scheme extension for Gnu/Octave and a floating point vector and matrix library for Gambit Scheme.
