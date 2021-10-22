@@ -224,6 +224,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - *Active as of November 2020*
   - http://insurevip.co.uk and [Github account](https://github.com/Virtual-Insurance-Products/)
   - Currently (November 2020) looking to hire CL developer(s)
+- [Kina knowledge](https://www.kinaknowledge.com/)
+  - automates the processing of documents.
+  - "We use Common Lisp extensively in our document processing software core for classification, extraction and other aspects of our service delivery and technology stack." See [Lisp Interview: questions to Alex Nygren](https://lisp-journey.gitlab.io/blog/lisp-interview-kina/) (from [#66](https://github.com/azzamsa/awesome-lisp-companies/issues/66)).
+  - *active as of October 2021*
 
 ### Finland
 
