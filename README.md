@@ -360,6 +360,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ## Virtual or Unsure of Location
 
+- [GeneNetwork](https://github.com/genenetwork/) uses [GNU Guix](https://guix.gnu.org/) and scheme extensively in production.
 - the [PostgreSQL](https://www.postgresql.org) organization uses Common Lisp in at least two products:
   - [pgloader](http://pgloader.io/) (see [why it was rewritten from Python](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/)), and
   - [pgcharts](https://github.com/dimitri/pgcharts).
