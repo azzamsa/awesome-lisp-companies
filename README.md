@@ -75,6 +75,9 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Franz Inc.](https://franz.com)
    - offers AllegroCL, a Common Lisp compiler and programming environment; [AllegroGraph](https://allegrograph.com), a graph database / triple store written in Common Lisp; and consultancy services. Oakland, CA.
    - *Active as of September 2018*
+- [Gensym](http://dev.gensym.com/)
+  - Since 1986, Gensym's G2 has been the leading real-time expert system development platform for building mission critical process control, alarm management, and complex simulation applications.
+  - Privately owned since 2007, Gensym established an affiliation with Ignite Technologies in October 2015, increasing Gensym's investment in G2 innovation and G2-based solutions.
 - [Genworks](http://www.genworks.com)
   - provides General-purpose Declarative Language (GDL), a Generative
     Application Development system for creating web-centric Knowledge
