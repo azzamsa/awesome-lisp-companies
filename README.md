@@ -106,6 +106,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - creators of MSL and Nebula, new tools for working with facts and documents.
   - location: Houston, TX
   - *Active as of December 2020*.
+- [Mutual Knowledge Systems](https://mukn.io/)
+  - MuKn (pronounced "moon") develops the open source [Glow language](https://glow-lang.org/) for smart contracts on blockchains. The compiler and support libraries are implemented in [Gerbil Scheme](https://cons.io/). The team is fully remote and is hiring globally.
 - Nasa
   - the Nasa develops [PVS](https://github.com/SRI-CSL/PVS), "the People's Verification System". PVS is a verification system: that is, a specification language integrated with support tools and a theorem prover. See also [pvslib](https://github.com/nasa/pvslib).
 - [OurDoings.com](http://www.ourdoings.com/)
