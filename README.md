@@ -64,6 +64,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Alphacet, LLC](http://www.alphacet.com/) &#128124;
   - software tools for analysts, traders, and portfolio managers. Stamford, CT. Includes post-sales work helping clients [expand proprietary trading](http://www.linkedin.com/jobs?viewJob=&jobId=534391) libraries in Lisp.
   - *Disappeared as of January 2018.*
+- [Atlas Engineer](https://atlas.engineer/) &#128124;
+  - Atlas provide solutions for data analysis, crawling, and understanding the greater Internet. The main focus is [Nyxt](https://nyxt.atlas.engineer/): a keyboard-oriented, infinitely extensible web browser designed for power users. Conceptually inspired by Emacs and Vim, it has familiar key-bindings (Emacs, vi, CUA), and is fully configurable in Lisp. 
 - Boeing
   - uses the Allegro NFS Server in the onboard network system of Boeing 747 and 777 aircraft (source: [video, ELS 2015](https://www.youtube.com/watch?v=S7nEZ3TuFpA)).
 - [Clozure Associates](https://clozure.com/index.html)
