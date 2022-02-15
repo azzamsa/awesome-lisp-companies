@@ -66,6 +66,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - *Disappeared as of January 2018.*
 - Boeing
   - uses the Allegro NFS Server in the onboard network system of Boeing 747 and 777 aircraft (source: [video, ELS 2015](https://www.youtube.com/watch?v=S7nEZ3TuFpA)).
+- [Barefoot Networks](https://www.barefootnetworks.com/)
+  - "we use Lisp (via Allegro CL’s Enterprise class development
+    environment) in the design of our Intel Tofino series of programmable
+    switch chips"
+  - article on [Franz Inc networks](https://allegrograph.com/press_room/barefoot-networks-uses-franzs-allegro-cl-to-drive-artificial-intelligence-in-networks/), some words [on reddit](https://www.reddit.com/r/lisp/comments/oq884e/how_do_you_use_lisp_at_work/h6d8xcw/), and a [youtube video](https://www.reddit.com/r/lisp/comments/oq884e/how_do_you_use_lisp_at_work/h6d8xcw/).
 - [Clozure Associates](https://clozure.com/index.html)
   - software development consulting firm specializing in Common Lisp development. Somerville, MA. Sponsors and developers of OpenMCL.
   - *Active as of January 2018.*
