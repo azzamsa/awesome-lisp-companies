@@ -116,9 +116,9 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - builds and provides digital livescan fingerprinting systems for use by law enforcement, military, airports, schools, Fortune 500s, etc. All their systems are constructed in Common Lisp ([lispjobs announce](https://lispjobs.wordpress.com/2016/06/03/secure-outcomes-contract-common-lisp-programmer/)).
 - [ThirdLaw LLC](http://thirdlaw.tech/)
   - founded by Christian Schafmeister and Martin Cracauer, the CLASP and Cando  developers, ThirdLaw provides support and services for computational chemistry.
-- [Tilton Technology](http://www.tilton-technology.com/) &#128124;
-  - Common Lisp projects like Cells, Celtk, and Cello, and TheoryYAlgebra, a learning game. NYC? Site for Ken Tilton, well known and [funny Lisper](http://bc.tech.coop/blog/061005.html).
-  - *Disappeared as of January 2018*
+- [Tiltontec](http://tiltontec.com/)
+  - a student-driven Algebra learning system.
+  - [Common Lisp projects](https://github.com/kennytilton) by Kenneth Tilton, like Cells, an  implementation of the dataflow programming paradigm. NYC.
 - Paragent.com &#128124;
   - Open Source Desktop Management Software. Muncie, IN. Common Lisp (SBCL), article about why they chose Lisp, and about Lisp and Agile Development
   - *Disappeared as of January 2018*
