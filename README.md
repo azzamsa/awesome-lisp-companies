@@ -223,6 +223,9 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### England
 
+- [Greater Skies](https://greaterskies.com/)
+  - "The original map of the sky as seen from a place and time of your choice, since 2006"
+  - comments [on HackerNews](https://news.ycombinator.com/item?id=25584518).
 - LispWorks Ltd
   - http://www.lispworks.com/
   - The company sells software written using Common Lisp. Their main products, LispWorks and Liquid Common Lisp, are Lisp development tools. Their primary business is support and development of these tools. They also provide consultancy services to companies needing implementation of software projects.
