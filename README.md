@@ -334,9 +334,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### South Africa
 
-- [Mtsholdings](http://mtsholdings.co.za/technology/)
-  - building Insite, a flexible, cloud-based B2B social sustainability
-    management platform. Insite's core is built in Common Lisp.
+- [Managing Transformation Solutions](https://mts.co.za/insite-saas/)
+  - Insite is a flexible, cloud-based social performance management platform that enables users to streamline the collection and validation of social sustainability data. The result is reporting on social performance requirements that is as reliable as the reporting out of accounting systems. 
+  - Started in 2009 MTS has been using Common Lisp for development from day one.
+  - Development is done in Common Lisp except for the odd JS script.
+  - Developed a object database written in Common Lisp for lighting fast queries.
 
 ## Asia
 
