@@ -107,10 +107,14 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [ITA Software by Google](http://www.itasoftware.com/)
   - airfare search engine and airline scheduling software. Cambridge, MA. [Common Lisp used for basically everything](http://lambda-the-ultimate.org/node/2491#comment-38434), currently hiring and expanding their business
   - *Active as of January 2018*
-- [The Mimix Company](https://mimix.io/)
+- [The Mimix Company](https://mimix.io/) &#128124;
   - creators of MSL and Nebula, new tools for working with facts and documents.
   - location: Houston, TX
-  - *Active as of December 2020*.
+  - *Closed as of January 2021*.
+- [ASTN Group, Inc.](https://www.astn-group.com)
+  - brings AI systems that will change the way we do things, from the airline industry; financial systems; and military applications, to name a few.
+  - location: Austin, TX
+  - *Active as of June 2022*.
 - [Mutual Knowledge Systems](https://mukn.io/)
   - MuKn (pronounced "moon") develops the open source [Glow language](https://glow-lang.org/) for smart contracts on blockchains. The compiler and support libraries are implemented in [Gerbil Scheme](https://cons.io/). The team is fully remote and is hiring globally.
 - Nasa
