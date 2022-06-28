@@ -109,6 +109,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - *Active as of January 2018*
 - [ASTN Group, Inc.](https://www.astn-group.com)
   - brings AI systems that will change the way we do things, from the airline industry; financial systems; and military applications, to name a few.
+  - all core components are written in Common Lisp to adapt to the dynamic nature of information propagation to support reflective computations and allow seamless code updates.
   - location: Austin, TX
   - *Active as of June 2022*.
 - [Mutual Knowledge Systems](https://mukn.io/)
