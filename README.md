@@ -94,7 +94,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
     Based Engineering and Business applications, based on the free software [Gendl](http://gendl.org/). Genworks uses AllegroCL, its Head of Product Development is the founder of the Common Lisp foundation.
 - [GrammaTech](https://www.grammatech.com/)
   - Source code analysis tools for C, C++, Ada. Ithaca, NY. [Hiring software engineers](http://www.grammatech.com/corporate/employment.html) and interns with experience programming in Scheme, compilers, and static analysis.
-  - *Active as of January 2018*
+  - released [Resolve](https://github.com/GrammaTech/resolve), software AST-based diff calculation, display, and automated resolution. AGPL-3, C++ and Common Lisp.
+  - *Active as of January 2022*
 - [GraphMetrix](https://graphmetrix.com/)
   - automation of document extraction and publishing for construction, property and logistics.
   - *Active as of September 2020*.
