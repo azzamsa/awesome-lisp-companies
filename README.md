@@ -176,6 +176,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [RIFFIT](https://www.riffitnow.com/)
   - Learning with real time text-to-song. Uses a combination of SIOD Scheme for natural language processing and SBCL and ECL for the core technology.
   - *Active as of July, 2021*
+- [Web Checkout](https://webcheckout.net/) - Equipement management & asset tracking software.
+  - they were hiring in 2022.
+  - "We have been a lisp shop since the 90s, starting off on CMUCL but porting to SBCL over a decade ago now."
+  - "While the back-end core of our application is implemented in SBCL, the front end is AngularJS. We don't shy away from other technologies. Some back end services are implemented in Java or NodeJS; whatever make the most sense. We use Postmodern for persistence. Being a scheduling application the local-time library is a big deal for us."
 
 
 ### Canada
