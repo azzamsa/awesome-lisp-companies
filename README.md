@@ -387,6 +387,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - the [PostgreSQL](https://www.postgresql.org) organization uses Common Lisp in at least two products:
   - [pgloader](http://pgloader.io/) (see [why it was rewritten from Python](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/)), and
   - [pgcharts](https://github.com/dimitri/pgcharts).
+- [Pandora Bots](https://home.pandorabots.com/home.html) - Chatbots with Character.
+  - "Easily bring your chatbots to life with real-time animation integrations."
+  - "many of [PandoraBots] strengths come from the power and straightforwardness of AIML and a Lisp-based parsing and translatingi engine". Seen on https://ieeexplore.ieee.org/document/9740557 interview of Fritz Kunze, founder of Franz, Inc.
+  - San Francisco, Tokyo, London.
 - [Raytheon SigLab](http://www.lispworks.com/success-stories/raytheon-siglab.html)
   - a signal processing analysis pipeline for developing algorithms. A LispWorks success story.
 - [Untyped](https://untyped.com/)
