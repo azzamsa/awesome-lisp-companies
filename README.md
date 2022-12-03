@@ -111,7 +111,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
     whose native code is written in a compatible subset of Common
     Lisp). [research paper](https://www.researchgate.net/publication/2949173_L_--_A_Common_Lisp_for_Embedded_Systems).
 - [ITA Software by Google](http://www.itasoftware.com/)
-  - airfare search engine and airline scheduling software. Cambridge, MA. [Common Lisp used for basically everything](http://lambda-the-ultimate.org/node/2491#comment-38434), currently hiring and expanding their business. [Github account](https://github.com/Qitab/)
+  - airfare search engine and airline scheduling software. Cambridge, MA. [Common Lisp used for basically everything](http://lambda-the-ultimate.org/node/2491#comment-38434), currently hiring and expanding their business.
+  - [Github.com/Qitab](https://github.com/Qitab/) is a repository for third-party Lisp code out of Google/ITA, with libraries such as gRPC or cl-protobufs.
   - *Active as of January 2018*
 - [Mutual Knowledge Systems](https://mukn.io/)
   - MuKn (pronounced "moon") develops the open source [Glow language](https://glow-lang.org/) for smart contracts on blockchains. The compiler and support libraries are implemented in [Gerbil Scheme](https://cons.io/). The team is fully remote and is hiring globally.
@@ -343,7 +344,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 ### South Africa
 
 - [Managing Transformation Solutions](https://mts.co.za/insite-saas/)
-  - Insite is a flexible, cloud-based social performance management platform that enables users to streamline the collection and validation of social sustainability data. The result is reporting on social performance requirements that is as reliable as the reporting out of accounting systems. 
+  - Insite is a flexible, cloud-based social performance management platform that enables users to streamline the collection and validation of social sustainability data. The result is reporting on social performance requirements that is as reliable as the reporting out of accounting systems.
   - Started in 2009 MTS has been using Common Lisp for development from day one.
   - Development is done in Common Lisp except for the odd JS script.
   - Developed a object database written in Common Lisp for lighting fast queries.
