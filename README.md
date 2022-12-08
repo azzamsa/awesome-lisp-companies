@@ -76,12 +76,25 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
     environment) in the design of our Intel Tofino series of programmable
     switch chips"
   - article on [Franz Inc networks](https://allegrograph.com/press_room/barefoot-networks-uses-franzs-allegro-cl-to-drive-artificial-intelligence-in-networks/), some words [on reddit](https://www.reddit.com/r/lisp/comments/oq884e/how_do_you_use_lisp_at_work/h6d8xcw/), and a [youtube video](https://www.reddit.com/r/lisp/comments/oq884e/how_do_you_use_lisp_at_work/h6d8xcw/).
+- [Cadence](https://www.cadence.com/)
+  - software and engineering services for electronic design automation. San Jose, CA (headquarters of worldwide company). Their IC design software uses SKILL (a Franz Lisp variant) as a scripting language.
 - [Clozure Associates](https://clozure.com/index.html)
   - software development consulting firm specializing in Common Lisp development. Somerville, MA. Sponsors and developers of OpenMCL.
   - *Active as of January 2018.*
+- [Daric](https://daric.com/)
+  - Industry-leading software to help manage risk and improve the customer experience for the world's leading financial institutions. Client of the MOCL mobile and OSX implementation.
+- DoneTrading.com &#128124;
+  - online item trading. Tallahassee, FL. SBCL/Hunchentoot, mention Lisp on their Advantages page
 - [Eaton Vance](https://www.eatonvance.com/)
   - financial services. Boston, MA. Bruce Lewis created [BRL](https://www.eatonvance.com/) , a dialect of Scheme called “a database-oriented language to embed in HTML and other markup.”
   - *Active as of January 2018*
+- [EnRoute Systems](http://enroutesystems.com/home/)
+  - (formerly Trip Planner) - trip planning solutions including planning engine, web front-end, hosting, and data import/repair. Spokanne, WA. Lots of details on the Technical Info page (including discussion of packages, infrastructure, and algorithms). Made by Jean-Paul Larocque, who has more lisp code on [his main site](http://www.thoughtcrime.us/), ThoughtCrime. ([news coverage](http://www.spokesmanreview.com/blogs/txt/archive/?postID=3691))
+- [Grammarly](https://www.grammarly.com/)
+  - create an English language writing-enhancement platform. [Running Lisp in Production ](https://tech.grammarly.com/blog/running-lisp-in-production)
+- Matchcraft &#128124;
+  - aggregation-based, local Internet advertising – online Yellow Pages. Santa Monica, CA. Previously had a major production system written in Lisp, has several internal tools written in Common Lisp, and is developing new products in Lisp .
+  - *Disappeared as of January 2018*
 - [Franz Inc.](https://franz.com)
    - offers AllegroCL, a Common Lisp compiler and programming environment; [AllegroGraph](https://allegrograph.com), a graph database / triple store written in Common Lisp; and consultancy services. Oakland, CA.
    - *Active as of September 2018*
@@ -92,6 +105,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - provides General-purpose Declarative Language (GDL), a Generative
     Application Development system for creating web-centric Knowledge
     Based Engineering and Business applications, based on the free software [Gendl](http://gendl.org/). Genworks uses AllegroCL, its Head of Product Development is the founder of the Common Lisp foundation.
+- [GigaMonkeys Consulting](http://www.gigamonkeys.com/)
+  - software development and QA consulting. Oakland, CA. Deserves mention because Peter Seibel wrote Practical Common Lisp, claimed by ITA Software as [their training manual](http://lambda-the-ultimate.org/node/2491#comment-38434).
 - [GrammaTech](https://www.grammatech.com/)
   - Source code analysis tools for C, C++, Ada. Ithaca, NY. [Hiring software engineers](http://www.grammatech.com/corporate/employment.html) and interns with experience programming in Scheme, compilers, and static analysis.
   - released [Resolve](https://github.com/GrammaTech/resolve), software AST-based diff calculation, display, and automated resolution. AGPL-3, C++ and Common Lisp.
@@ -104,16 +119,22 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - One of the world's premier physical science and engineering research laboratories.
   - Engage in the development of a full quantum device and computation stack, including an optimizing compiler for a quantum programming language. Uses SBCL.
   - *Active as of April 2021*.
+- Impact Solutions “Smart Drilling” &#128124;
+  - real-time analysis of oil rig drilling data. Houston, TX. Four developers, won the Offshore Technology Conference’s “Spotlight on Technology” award.
 - [iRobot](http://www.irobot.com/)
   - a company that designs and builds consumer robots for inside and
     outside of the home, including a range of autonomous home vacuum
     cleaners (like the [Roomba](https://en.wikipedia.org/wiki/Roomba),
     whose native code is written in a compatible subset of Common
     Lisp). [research paper](https://www.researchgate.net/publication/2949173_L_--_A_Common_Lisp_for_Embedded_Systems).
+- [Inspiration Software, Inc](http://www.inspiration.com/)
+  - educational software, including [InspireData](http://www.inspiration.com/productinfo/inspiredata/index.cfm), a product for building data literacy. Beaverton, OR. Made in LispWorks.
 - [ITA Software by Google](http://www.itasoftware.com/)
   - airfare search engine and airline scheduling software. Cambridge, MA. [Common Lisp used for basically everything](http://lambda-the-ultimate.org/node/2491#comment-38434), currently hiring and expanding their business.
   - [Github.com/Qitab](https://github.com/Qitab/) is a repository for third-party Lisp code out of Google/ITA, with libraries such as gRPC or cl-protobufs.
   - *Active as of January 2018*
+- [Mind AI](https://www.mind.ai)
+  - Founded in 2018, Mind AI is an artificial intelligence engine and an ecosystem that was created to offer an entirely new approach to AI.
 - [Mutual Knowledge Systems](https://mukn.io/)
   - MuKn (pronounced "moon") develops the open source [Glow language](https://glow-lang.org/) for smart contracts on blockchains. The compiler and support libraries are implemented in [Gerbil Scheme](https://cons.io/). The team is fully remote and is hiring globally.
 - the NASA develops
@@ -122,8 +143,25 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - let's remind the [Remote Agent Experiment](https://flownet.com/gat/jpl-lisp.html) (Deep Space 1 space probe, 1999).
 - [OurDoings.com](http://www.ourdoings.com/)
   - photo sharing site aimed towards casual photographers. Beverly, MA. Kawa Scheme running on JVM, created by [Bruce Lewis](http://brlewis.com/)
+- [RIFFIT](https://www.riffitnow.com/)
+  - Learning with real time text-to-song. Uses a combination of SIOD Scheme for natural language processing and SBCL and ECL for the core technology.
+  - *Active as of July, 2021*
+- [Rigetti Quantum Computing](http://www.rigetti.com/)
+  - Manufacturer of quantum computers and provider of their services through their product called *Forest*. Much of their code is written in Common Lisp, including their quantum virtual machine and quantum compiler. ([video](https://www.youtube.com/watch?v=f9vRcSAneiw), [paper](https://arxiv.org/abs/1608.03355), [github](https://github.com/rigetticomputing))
 - [Secure Outcomes](http://www.secureoutcomes.net/)
   - builds and provides digital livescan fingerprinting systems for use by law enforcement, military, airports, schools, Fortune 500s, etc. All their systems are constructed in Common Lisp ([lispjobs announce](https://lispjobs.wordpress.com/2016/06/03/secure-outcomes-contract-common-lisp-programmer/)).
+- [Screenshotbot](https://screenshotbot.io)
+  - Visual Testing as a service. Get notified on Pull Requests when your code changes your UI, mobile or web. Built with LispWorks.
+- [SRI](https://www.sri.com/)
+  - client-sponsored R&D. Menlo Park, CA. [Hiring scientific CL programmers](https://sri.ats.hrsmart.com/cgi-bin/a/highlightjob.cgi?jobid=4086). See also [Artificial Intelligence Center](http://www.ai.sri.com/). They have lots of [Lisp-related links](http://www.google.com/search?q=lisp+site%3Ahttp%3A%2F%2Fsri.com) on their site as well.
+- [StreamFocus](http://www.streamfocus.com/index)
+  - project and action management software. San Francisco, CA. [Lisp and CLOS based](http://blog.streamfocus.com/about/)
+- [Smart Information Flow Technologies](http://sift.info/)
+  - Contract research house. Minneapolis, MN. Mission objective: “Getting information where it belongs when it’s needed.” [Hiring AI professionals](http://sift.info/jobs/ai.htm) to support human control of complex systems. Research areas include: Planning, Plan recognition, Intelligent UserInterfaces, Information Presentation and Management and Computational Etiquette.
+    Have at least one product at opensource – [Simple Hierarchical Ordered Planner 2](https://github.com/calyau/shop2/) (SHOP2).
+- Biographicon &#128124;
+  - “A place for everyone’s biography.”  Wikipedia for people not notable enough to be on Wikipedia. San Francisco, CA. A YCombinator company, started by Ethan Herdrick and Daniel Terhorst. Running Kawa Scheme (also uses PLT Scheme for internal stuff).
+  - *Disappeared as of January 2018*
 - [ThirdLaw LLC](http://thirdlaw.tech/)
   - founded by Christian Schafmeister and Martin Cracauer, the CLASP and Cando  developers, ThirdLaw provides support and services for computational chemistry.
 - [Tiltontec](http://tiltontec.com/)
@@ -132,55 +170,17 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - Paragent.com &#128124;
   - Open Source Desktop Management Software. Muncie, IN. Common Lisp (SBCL), article about why they chose Lisp, and about Lisp and Agile Development
   - *Disappeared as of January 2018*
-- [Screenshotbot](https://screenshotbot.io)
-  - Visual Testing as a service. Get notified on Pull Requests when your code changes your UI, mobile or web. Built with LispWorks.
-- [Smart Information Flow Technologies](http://sift.info/)
-  - Contract research house. Minneapolis, MN. Mission objective: “Getting information where it belongs when it’s needed.” [Hiring AI professionals](http://sift.info/jobs/ai.htm) to support human control of complex systems. Research areas include: Planning, Plan recognition, Intelligent UserInterfaces, Information Presentation and Management and Computational Etiquette.
-    Have at least one product at opensource – [Simple Hierarchical Ordered Planner 2](https://github.com/calyau/shop2/) (SHOP2).
-- Biographicon &#128124;
-  - “A place for everyone’s biography.”  Wikipedia for people not notable enough to be on Wikipedia. San Francisco, CA. A YCombinator company, started by Ethan Herdrick and Daniel Terhorst. Running Kawa Scheme (also uses PLT Scheme for internal stuff).
-  - *Disappeared as of January 2018*
-- [Cadence](https://www.cadence.com/)
-  - software and engineering services for electronic design automation. San Jose, CA (headquarters of worldwide company). Their IC design software uses SKILL (a Franz Lisp variant) as a scripting language.
-- [GigaMonkeys Consulting](http://www.gigamonkeys.com/)
-  - software development and QA consulting. Oakland, CA. Deserves mention because Peter Seibel wrote Practical Common Lisp, claimed by ITA Software as [their training manual](http://lambda-the-ultimate.org/node/2491#comment-38434).
-- [Rigetti Quantum Computing](http://www.rigetti.com/)
-  - Manufacturer of quantum computers and provider of their services through their product called *Forest*. Much of their code is written in Common Lisp, including their quantum virtual machine and quantum compiler. ([video](https://www.youtube.com/watch?v=f9vRcSAneiw), [paper](https://arxiv.org/abs/1608.03355), [github](https://github.com/rigetticomputing))
-- [SRI](https://www.sri.com/)
-  - client-sponsored R&D. Menlo Park, CA. [Hiring scientific CL programmers](https://sri.ats.hrsmart.com/cgi-bin/a/highlightjob.cgi?jobid=4086). See also [Artificial Intelligence Center](http://www.ai.sri.com/). They have lots of [Lisp-related links](http://www.google.com/search?q=lisp+site%3Ahttp%3A%2F%2Fsri.com) on their site as well.
-- [StreamFocus](http://www.streamfocus.com/index)
-  - project and action management software. San Francisco, CA. [Lisp and CLOS based](http://blog.streamfocus.com/about/)
-- [Inspiration Software, Inc](http://www.inspiration.com/)
-  - educational software, including [InspireData](http://www.inspiration.com/productinfo/inspiredata/index.cfm), a product for building data literacy. Beaverton, OR. Made in LispWorks.
 - Synaptic Mash &#128124;
   - educational learning management system. Seattle, WA. Job requirements for server and web developers require experience with “Lisp Family”, SBCL, LispWorks
   - *Disappeared as of January 2018*
 - [Tech Co-op](http://tech.coop/)
   - a not-for-profit, member-owned services co-operative dedicated to providing Technical Services for it’s members. Vancouver, Canada. Lisp for internal development and for members. Offers hosting and hosts many Lisp sites like common-lisp.net, cliki.net, and gigamonkeys.com.
-- [EnRoute Systems](http://enroutesystems.com/home/)
-  - (formerly Trip Planner) - trip planning solutions including planning engine, web front-end, hosting, and data import/repair. Spokanne, WA. Lots of details on the Technical Info page (including discussion of packages, infrastructure, and algorithms). Made by Jean-Paul Larocque, who has more lisp code on [his main site](http://www.thoughtcrime.us/), ThoughtCrime. ([news coverage](http://www.spokesmanreview.com/blogs/txt/archive/?postID=3691))
-- DoneTrading.com &#128124;
-  - online item trading. Tallahassee, FL. SBCL/Hunchentoot, mention Lisp on their Advantages page
-- Impact Solutions “Smart Drilling” &#128124;
-  - real-time analysis of oil rig drilling data. Houston, TX. Four developers, won the Offshore Technology Conference’s “Spotlight on Technology” award.
-- [Grammarly](https://www.grammarly.com/)
-  - create an English language writing-enhancement platform. [Running Lisp in Production ](https://tech.grammarly.com/blog/running-lisp-in-production)
-- Matchcraft &#128124;
-  - aggregation-based, local Internet advertising – online Yellow Pages. Santa Monica, CA. Previously had a major production system written in Lisp, has several internal tools written in Common Lisp, and is developing new products in Lisp .
-  - *Disappeared as of January 2018*
-- [Mind AI](https://www.mind.ai)
-  - Founded in 2018, Mind AI is an artificial intelligence engine and an ecosystem that was created to offer an entirely new approach to AI.
-- [Wukix](https://wukix.com/)
-  - vendor of the [MOCL](https://wukix.com/mocl) implementation for mobile and OSX.
-- [Daric](https://daric.com/)
-  - Industry-leading software to help manage risk and improve the customer experience for the world's leading financial institutions. Client of the MOCL mobile and OSX implementation.
-- [RIFFIT](https://www.riffitnow.com/)
-  - Learning with real time text-to-song. Uses a combination of SIOD Scheme for natural language processing and SBCL and ECL for the core technology.
-  - *Active as of July, 2021*
 - [Web Checkout](https://webcheckout.net/) - Equipement management & asset tracking software.
   - they were hiring in 2022.
   - "We have been a lisp shop since the 90s, starting off on CMUCL but porting to SBCL over a decade ago now."
   - "While the back-end core of our application is implemented in SBCL, the front end is AngularJS. We don't shy away from other technologies. Some back end services are implemented in Java or NodeJS; whatever make the most sense. We use Postmodern for persistence. Being a scheduling application the local-time library is a big deal for us."
+- [Wukix](https://wukix.com/)
+  - vendor of the [MOCL](https://wukix.com/mocl) implementation for mobile and OSX.
 
 
 ### Canada
