@@ -146,7 +146,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [PTC's 3D CAD software](https://www.ptc.com/en/products/cad/3d-design) - 3D Design Software.
   - "Creo Elements/Direct is a comprehensive system for mechanical engineers and designers who create products using the direct modeling approach to 3D CAD." [Proprietary, free version].
   - example use: the Eterna brand usee it to [develop its watches](https://www.youtube.com/watch?v=mJGytRaNvec).
-  - "7+ million lines of Common Lisp code" ([source](https://news.ycombinator.com/item?id=13142798))
+  - "7+ million lines of Common Lisp code" ([source: ELS 2009 slides](http://www.clausbrod.de/cgi-bin/view.pl/Blog/DefinePrivatePublic20090620CommonLispInCoCreateModeling))
   - [free version](https://www.ptc.com/en/products/creo/elements-direct/modeling-express) for Microsoft Windows x64.
 - [RIFFIT](https://www.riffitnow.com/)
   - Learning with real time text-to-song. Uses a combination of SIOD Scheme for natural language processing and SBCL and ECL for the core technology.
