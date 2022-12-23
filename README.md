@@ -40,7 +40,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
         - [India](#india)
         - [Korea](#korea)
         - [Japan](#japan)
-    - [Australia](#australia)
     - [Virtual or Unsure of Location](#virtual-or-unsure-of-location)
     - [Other Resources](#other-resources)
     - [Note](#note)
