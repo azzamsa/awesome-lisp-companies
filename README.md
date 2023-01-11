@@ -75,7 +75,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - article on [Franz Inc networks](https://allegrograph.com/press_room/barefoot-networks-uses-franzs-allegro-cl-to-drive-artificial-intelligence-in-networks/), some words [on reddit](https://www.reddit.com/r/lisp/comments/oq884e/how_do_you_use_lisp_at_work/h6d8xcw/), and a [youtube video](https://www.reddit.com/r/lisp/comments/oq884e/how_do_you_use_lisp_at_work/h6d8xcw/).
 - [Cadence](https://www.cadence.com/)
   - software and engineering services for electronic design automation. San Jose, CA (headquarters of worldwide company). Their IC design software uses SKILL (a Franz Lisp variant) as a scripting language.
-- [Clozure Associates](https://clozure.com/index.html)
+- [Clozure Associates](https://ccl.clozure.com/)
   - software development consulting firm specializing in Common Lisp development. Somerville, MA. Sponsors and developers of OpenMCL.
   - *Active as of January 2018.*
 - [Daric](https://daric.com/)
@@ -85,7 +85,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Eaton Vance](https://www.eatonvance.com/)
   - financial services. Boston, MA. Bruce Lewis created [BRL](https://www.eatonvance.com/) , a dialect of Scheme called “a database-oriented language to embed in HTML and other markup.”
   - *Active as of January 2018*
-- [EnRoute Systems](http://enroutesystems.com/home/)
+- [EnRoute Systems](https://enroutesystems.com/home/)
   - (formerly Trip Planner) - trip planning solutions including planning engine, web front-end, hosting, and data import/repair. Spokanne, WA. Lots of details on the Technical Info page (including discussion of packages, infrastructure, and algorithms). Made by Jean-Paul Larocque, who has more lisp code on [his main site](http://www.thoughtcrime.us/), ThoughtCrime. ([news coverage](http://www.spokesmanreview.com/blogs/txt/archive/?postID=3691))
 - [Grammarly](https://www.grammarly.com/)
   - create an English language writing-enhancement platform. [Running Lisp in Production ](https://tech.grammarly.com/blog/running-lisp-in-production)
