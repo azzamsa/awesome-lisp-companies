@@ -151,7 +151,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Rigetti Quantum Computing](http://www.rigetti.com/)
   - Manufacturer of quantum computers and provider of their services through their product called *Forest*. Much of their code is written in Common Lisp, including their quantum virtual machine and quantum compiler. ([video](https://www.youtube.com/watch?v=f9vRcSAneiw), [paper](https://arxiv.org/abs/1608.03355), [github](https://github.com/rigetticomputing))
 - [Secure Outcomes](http://www.secureoutcomes.net/)
-  - builds and provides digital livescan fingerprinting systems for use by law enforcement, military, airports, schools, Fortune 500s, etc. All their systems are constructed in Common Lisp ([lispjobs announce](https://lispjobs.wordpress.com/2016/06/03/secure-outcomes-contract-common-lisp-programmer/)).
+  - builds and provides digital livescan fingerprinting systems for use by law enforcement, military, airports, schools, Fortune 500s, etc. All their systems are constructed in Common Lisp ([lispjobs announce](https://lispjobs.wordpress.com/2016/06/03/secure-outcomes-contract-common-lisp-programmer/), [LispWorks success story](http://www.lispworks.com/success-stories/forensic-fingerprint-collection.html)).
 - [Screenshotbot](https://screenshotbot.io)
   - Visual Testing as a service. Get notified on Pull Requests when your code changes your UI, mobile or web. Built with LispWorks.
 - [SRI](https://www.sri.com/)
