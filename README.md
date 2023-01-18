@@ -128,6 +128,10 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - *Active as of January 2018*
 - [Mind AI](https://www.mind.ai)
   - Founded in 2018, Mind AI is an artificial intelligence engine and an ecosystem that was created to offer an entirely new approach to AI.
+- [MusicEase](https://www.musicease.com) - MusicEase Software has been involved in the development of music notation software for over 35 years.
+  - "MusicEase is a constraint-based system with a large amount of knowledge of music notation. This allows it to intelligently handle many of the details of scoring automatically."
+  - a [LispWorks success story](http://www.lispworks.com/success-stories/musicease.html).
+  - includes a fully functional demo, free for 30 days (printouts are watermarked). Available on Windows and MacOS.
 - [Mutual Knowledge Systems](https://mukn.io/)
   - MuKn (pronounced "moon") develops the open source [Glow language](https://glow-lang.org/) for smart contracts on blockchains. The compiler and support libraries are implemented in [Gerbil Scheme](https://cons.io/). The team is fully remote and is hiring globally.
 - the NASA develops
