@@ -136,7 +136,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - MuKn (pronounced "moon") develops the open source [Glow language](https://glow-lang.org/) for smart contracts on blockchains. The compiler and support libraries are implemented in [Gerbil Scheme](https://cons.io/). The team is fully remote and is hiring globally.
 - the NASA develops
   - [PVS](https://github.com/SRI-CSL/PVS), "the People's Verification System". PVS is a verification system: that is, a specification language integrated with support tools and a theorem prover. See also [pvslib](https://github.com/nasa/pvslib).
-  - the [SPIKE](https://www.stsci.edu/scientific-community/software/spike) planning and scheduling software, used in the Hubble [and James-Webb](https://www.stsci.edu/contents/newsletters/2018-volume-35-issue-03/artificial-intelligence-techniques-used-in-the-spike-planning-and-scheduling-system) space telescops.
+  - the [SPIKE](https://www.stsci.edu/scientific-community/software/spike) planning and scheduling software, used in the Hubble [and James-Webb](https://www.stsci.edu/contents/newsletters/2018-volume-35-issue-03/artificial-intelligence-techniques-used-in-the-spike-planning-and-scheduling-system) space telescops, [using Allegro CL](https://insidebigdata.com/2022/04/02/franzs-allegro-cl-used-for-scheduling-the-hubble-space-telescope-discovery-of-earendel/).
   - let's remind the [Remote Agent Experiment](https://flownet.com/gat/jpl-lisp.html) (Deep Space 1 space probe, 1999).
 - [OurDoings.com](http://www.ourdoings.com/)
   - photo sharing site aimed towards casual photographers. Beverly, MA. Kawa Scheme running on JVM, created by [Bruce Lewis](http://brlewis.com/)
