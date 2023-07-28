@@ -86,8 +86,6 @@ For more historical resources, see:
   - *Active as of January 2018.*
 - [Daric](https://daric.com/)
   - Industry-leading software to help manage risk and improve the customer experience for the world's leading financial institutions. Client of the MOCL mobile and OSX implementation.
-- DoneTrading.com &#128124;
-  - online item trading. Tallahassee, FL. SBCL/Hunchentoot, mention Lisp on their Advantages page
 - [Eaton Vance](https://www.eatonvance.com/)
   - financial services. Boston, MA. Bruce Lewis created [BRL](https://www.eatonvance.com/) , a dialect of Scheme called “a database-oriented language to embed in HTML and other markup.”
   - *Active as of January 2018*
@@ -119,14 +117,6 @@ For more historical resources, see:
   - One of the world's premier physical science and engineering research laboratories.
   - Engage in the development of a full quantum device and computation stack, including an optimizing compiler for a quantum programming language. Uses SBCL.
   - *Active as of April 2021*.
-- Impact Solutions “Smart Drilling” &#128124;
-  - real-time analysis of oil rig drilling data. Houston, TX. Four developers, won the Offshore Technology Conference’s “Spotlight on Technology” award.
-- [iRobot](http://www.irobot.com/)
-  - a company that designs and builds consumer robots for inside and
-    outside of the home, including a range of autonomous home vacuum
-    cleaners (like the [Roomba](https://en.wikipedia.org/wiki/Roomba),
-    whose native code is written in a compatible subset of Common
-    Lisp). [research paper](https://www.researchgate.net/publication/2949173_L_--_A_Common_Lisp_for_Embedded_Systems).
 - [Inspiration Software, Inc](http://www.inspiration.com/)
   - educational software, including [InspireData](http://www.inspiration.com/productinfo/inspiredata/index.cfm), a product for building data literacy. Beaverton, OR. Made in LispWorks.
 - [ITA Software by Google](http://www.itasoftware.com/)
@@ -355,11 +345,6 @@ For more historical resources, see:
 - Modern Interpreters Inc.
   - building [screenshotbot](https://screenshotbot.io/), an open-source, mobile-first automated screenshot testing. Written primarily with LispWorks, works also on CCL.
   - *Active as of July, 2021*
-
-
-## Note
-
-- &#128124; : Dead Companies.
 
 
 ## Contributors
