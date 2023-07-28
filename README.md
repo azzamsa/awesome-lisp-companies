@@ -81,6 +81,9 @@ For more historical resources, see:
   - "An environment built with Bloxl grids is responsive to the people who inhabit it. Bloxl can fill a space with colors that pulse to the beat of music, giant scrolling text banners, abstract patterns and detailed animations."
   - the Bloxl software is built on [April](https://github.com/phantomics/april/), an APL compiler built in Common Lisp. April's author is Bloxl's CTO.
   - seen on the European Lisp Symposium of 2022 and on https://www.arraycast.com/episodes/episode23-andrew-sengul
+- [BroadVision](https://broadvision.com/)
+  - building [BroadVision QuickSilver](https://broadvision.com/broadvision/quicksilver/quicksilver-overview/), "one of the most powerful document creation and management tools available, enables businesses to create and publish lengthy, complex documents in virtually any language and any format.
+  - the software started out as [Interleaf](https://en.wikipedia.org/wiki/Interleaf) in 1981, and still runs on Lisp.
 - [Cadence](https://www.cadence.com/)
   - software and engineering services for electronic design automation. San Jose, CA (headquarters of worldwide company). Their IC design software uses SKILL (a Franz Lisp variant) as a scripting language.
 - [Clozure Associates](https://ccl.clozure.com/)
