@@ -154,8 +154,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - Visual Testing as a service. Get notified on Pull Requests when your code changes your UI, mobile or web. Built with LispWorks.
 - [SRI](https://www.sri.com/)
   - client-sponsored R&D. Menlo Park, CA. [Hiring scientific CL programmers](https://sri.ats.hrsmart.com/cgi-bin/a/highlightjob.cgi?jobid=4086). See also [Artificial Intelligence Center](http://www.ai.sri.com/). They have lots of [Lisp-related links](http://www.google.com/search?q=lisp+site%3Ahttp%3A%2F%2Fsri.com) on their site as well.
-- [StreamFocus](http://www.streamfocus.com/index)
-  - project and action management software. San Francisco, CA. [Lisp and CLOS based](http://blog.streamfocus.com/about/)
 - [Smart Information Flow Technologies](http://sift.info/)
   - Contract research house. Minneapolis, MN. Mission objective: “Getting information where it belongs when it’s needed.” [Hiring AI professionals](http://sift.info/jobs/ai.htm) to support human control of complex systems. Research areas include: Planning, Plan recognition, Intelligent UserInterfaces, Information Presentation and Management and Computational Etiquette.
     Have at least one product at opensource – [Simple Hierarchical Ordered Planner 2](https://github.com/calyau/shop2/) (SHOP2).
