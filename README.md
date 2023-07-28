@@ -172,15 +172,13 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Canada
 
--  [Amarc.radio](https://amarc.radio/)
+- [Amarc.radio](https://amarc.radio/)
    - organization supporting community radio broadcasting. Montreal, Canada. Job page mentions Scheme, web development, and graphics.
 - [D-Wave Systems Inc.](https://www.dwavesys.com/)
    - The Quantum Computing Company (trademark). The world's first company to sell quantum computers. [Wikipedia Page](https://en.wikipedia.org/wiki/D-Wave_Systems)
 - [HexstreamSoft](https://www.hexstreamsoft.com/)
   - Public Domain Common Lisp R&D.
   - *Active as of October 2020.*
--  [Silex Creations](http://silexcreations.com/en/)
-   - multimedia solutions for avant-garde businesses, audio synthesis. Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
 
 ### Mexico
 - [Ikkiware](http://www.ikkiware.com/)
