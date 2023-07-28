@@ -179,8 +179,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [HexstreamSoft](https://www.hexstreamsoft.com/)
   - Public Domain Common Lisp R&D.
   - *Active as of October 2020.*
--  [Kronos, Altitude Division](https://www.kronos.com/)
-   - Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
 -  [MetaScoop](http://www.metascoop.com/)
    - consulting and custom development in Scheme. Montreal, Canada. Developed JazzScheme, recently released as Open Source.
 -  [NuEcho](https://www.nuecho.com/en/)
