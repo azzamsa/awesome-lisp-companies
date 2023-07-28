@@ -179,8 +179,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [HexstreamSoft](https://www.hexstreamsoft.com/)
   - Public Domain Common Lisp R&D.
   - *Active as of October 2020.*
--  [NuEcho](https://www.nuecho.com/en/)
-   - speech enabled applications. Montreal, Canada. Scheme; Dominique Boucher was the main organizer of the Montreal Scheme/Lisp User Group (MSLUG)
 -  [Silex Creations](http://silexcreations.com/en/)
    - multimedia solutions for avant-garde businesses, audio synthesis. Montreal, Canada. Listed on MSLUG Home Page, can’t find any more details about Lisp or Scheme usage
 
