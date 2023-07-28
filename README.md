@@ -9,6 +9,13 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 </div>
 
+For more historical resources, see:
+
+- [lisp-lang.org's success stories](https://lisp-lang.org/success/)
+- [LispWorks Success Stories  ](http://www.lispworks.com/success-stories/index.html)
+- [Allegro Common Lisp Success Stories ](https://franz.com/success/)
+- [LispJobs archives](https://lispjobs.wordpress.com)
+
 ---
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
@@ -205,12 +212,11 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Greater Skies](https://greaterskies.com/)
   - "The original map of the sky as seen from a place and time of your choice, since 2006"
   - comments [on HackerNews](https://news.ycombinator.com/item?id=25584518).
-- LispWorks Ltd
-  - http://www.lispworks.com/
+- [LispWorks Ltd](http://www.lispworks.com/)
   - The company sells software written using Common Lisp. Their main products, LispWorks and Liquid Common Lisp, are Lisp development tools. Their primary business is support and development of these tools. They also provide consultancy services to companies needing implementation of software projects.
   - *since 2005*. LispWorks Ltd was formed to continue and grow the Lisp business formerly owned by Xanalys Corporation (previously owned by Global Graphics and originating with Harlequin). LispWorks Ltd comprises the Lisp team who were previously with Xanalys.
-- OpusModus Ltd
-  - Building [Opusmodus](https://opusmodus.com/), an award-winning music composition software.
+- [Opusmodus](https://opusmodus.com/) Ltd
+  - Building an award-winning music composition software.
 - Virtual Insurance Products Ltd
   - Insurance MGA with a bespoke business to business web platform (with some customer facing parts) written in Common Lisp.
   - *Active as of November 2020*
@@ -350,14 +356,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - building [screenshotbot](https://screenshotbot.io/), an open-source, mobile-first automated screenshot testing. Written primarily with LispWorks, works also on CCL.
   - *Active as of July, 2021*
 
-## Other Resources
-
-- [Allegro Common Lisp Success Stories ](https://franz.com/success/) - by Franc Inc
-  - [Customer Application List](https://franz.com/success/all_customer_apps.lhtml)
-- [LispWorks Success Stories  ](http://www.lispworks.com/success-stories/index.html)
-- [Paul Graham - Applications](http://www.paulgraham.com/apps.html)
-- ALU Wiki – Industry applications
-- LispJobs archives
 
 ## Note
 
