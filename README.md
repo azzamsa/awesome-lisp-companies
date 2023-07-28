@@ -77,6 +77,10 @@ For more historical resources, see:
     environment) in the design of our Intel Tofino series of programmable
     switch chips"
   - article on [Franz Inc networks](https://allegrograph.com/press_room/barefoot-networks-uses-franzs-allegro-cl-to-drive-artificial-intelligence-in-networks/), some words [on reddit](https://www.reddit.com/r/lisp/comments/oq884e/how_do_you_use_lisp_at_work/h6d8xcw/), and a [youtube video](https://www.reddit.com/r/lisp/comments/oq884e/how_do_you_use_lisp_at_work/h6d8xcw/).
+- [Bloxl](https://bloxl.co/), an interactive visual display.
+  - "An environment built with Bloxl grids is responsive to the people who inhabit it. Bloxl can fill a space with colors that pulse to the beat of music, giant scrolling text banners, abstract patterns and detailed animations."
+  - the Bloxl software is built on [April](https://github.com/phantomics/april/), an APL compiler built in Common Lisp. April's author is Bloxl's CTO.
+  - seen on the European Lisp Symposium of 2022 and on https://www.arraycast.com/episodes/episode23-andrew-sengul
 - [Cadence](https://www.cadence.com/)
   - software and engineering services for electronic design automation. San Jose, CA (headquarters of worldwide company). Their IC design software uses SKILL (a Franz Lisp variant) as a scripting language.
 - [Clozure Associates](https://ccl.clozure.com/)
