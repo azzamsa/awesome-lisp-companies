@@ -162,8 +162,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [Tiltontec](http://tiltontec.com/)
   - a student-driven Algebra learning system.
   - [Common Lisp projects](https://github.com/kennytilton) by Kenneth Tilton, like Cells, an  implementation of the dataflow programming paradigm. NYC.
-- [Tech Co-op](http://tech.coop/)
-  - a not-for-profit, member-owned services co-operative dedicated to providing Technical Services for it’s members. Vancouver, Canada. Lisp for internal development and for members. Offers hosting and hosts many Lisp sites like common-lisp.net, cliki.net, and gigamonkeys.com.
 - [Web Checkout](https://webcheckout.net/) - Equipement management & asset tracking software.
   - they were hiring in 2022.
   - "We have been a lisp shop since the 90s, starting off on CMUCL but porting to SBCL over a decade ago now."
