@@ -191,8 +191,9 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 - [3E](http://www.3e.eu)
   - Provides "consultancy services and software products to improve the performance of sustainable energy systems and optimize energy consumption". The real-time data aggregation and alerting engines of its [Synaptic](http://www.3e.eu/synaptiq) product is Common Lisp based. ([job announce](http://3eeu.talentfinder.be/en/vacature/30101/lisp-developer))
 
-- PEPITe &#128124;
-  - manufacturing intelligence, data mining. Angleur, Liege, Belgium. Their product Pepito was featured in the Franz Success Stories page.
+- [Pepite](https://www.pepite.com/)
+  - Advanced analytics to improve the durability, sustainability, and resilience of the manufacturing sector.
+  - they [use Allegro CL](https://franz.com/success/customer_apps/data_mining/pepite.lhtml).
 
 ### Denmark
 
