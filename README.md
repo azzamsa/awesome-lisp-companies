@@ -221,11 +221,6 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
   - "We use Common Lisp extensively in our document processing software core for classification, extraction and other aspects of our service delivery and technology stack." See [Lisp Interview: questions to Alex Nygren](https://lisp-journey.gitlab.io/blog/lisp-interview-kina/) (from [#66](https://github.com/azzamsa/awesome-lisp-companies/issues/66)).
   - *active as of October 2021*
 
-### Finland
-
-- Steel Bank Studio &#128124;
-  - SBCL consulting. Helsinki, Finland. One man consulting firm consisting of Nikodemus Siivola, SBCL hacker and co-founder of common-lisp.net.
-  - *Closed as the owner [clarified](https://github.com/azzamsa/awesome-lisp-companies/issues/1#issuecomment-354512421)*
 
 ### France
 
