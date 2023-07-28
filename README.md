@@ -233,6 +233,11 @@ For more historical resources, see:
   - 3D CAD modeler for “explicit modeling”. Sindelfingen, Germany. 1M+ lines of Lisp, previously part of HP, paper on[ Common Lisp as an Embedded Extension Language](http://www.hpl.hp.com/hpjournal/95oct/oct95a7.pdf). Recent blog post about [CL use](http://www.clausbrod.de/cgi-bin/view.pl/Blog/WebHome#DefinePrivatePublic20071229_Comm)
 - [Cognesys](http://www.cognesys.de/) &#9746;
   - “automatic ascertainment and further processing of verbal and text messages” (Natural Language Processing). Ubach-Palenburg, Germany. Looking for experienced and fresh Lisp programmers
+- [Dydra](https://dydra.com), a "powerful graph database in the cloud, allowing your business to make the most of highly connected data, such as social networks."
+  - released [cl-ndbapi](https://t.co/5rzMFbjaof), Common Lisp bindings to the C++ NDBAPI of RonDB.
+  - "We use it to write a new backend based on RonDB for our GraphDatabase Dydra, that is mostly written in CommonLisp. We wrote the library cl-ndbapi to efficiently talk to RonDB from CommonLisp via the C++ NDBAPI."
+  - "On top of this, Dydradata will give you a SparQL endpoint, efficiency for complex queries, revisioned repositories, and more."
+  - [Twitter](https://twitter.com/dydradata/status/1588567692575125506), 2022.
 - [MTU Aero Engines](https://www.mtu.de/)
   - MTU Aero Engines is Germany's leading engine manufacturer and an established global player in the industry. It engages in the development, manufacture, marketing and support of commercial and military aircraft engines in all thrust and power categories and industrial gas turbines. They use [Allegro CL](https://franz.com/success/customer_apps/mechanical_cad/mtu.lhtml).
 - [m-creations](http://www.m-creations.com/)
