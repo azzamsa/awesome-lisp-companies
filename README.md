@@ -172,10 +172,8 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 ### Canada
 
--  AMARC &#128124;
-   - organization supporting community radio broadcasting. Montreal, Canada. Job page mentions Scheme, web development, and graphics. Uses a Wiki powered by Gauche
--  [Carre Technologies](http://www.carretechnologies.com/)
-   - intelligent machines. Montreal, Canada. Main page just lets you send mail, but the site includes a Chicken Scheme extension for Gnu/Octave and a floating point vector and matrix library for Gambit Scheme.
+-  [Amarc.radio](https://amarc.radio/)
+   - organization supporting community radio broadcasting. Montreal, Canada. Job page mentions Scheme, web development, and graphics.
 - [D-Wave Systems Inc.](https://www.dwavesys.com/)
    - The Quantum Computing Company (trademark). The world's first company to sell quantum computers. [Wikipedia Page](https://en.wikipedia.org/wiki/D-Wave_Systems)
 - [HexstreamSoft](https://www.hexstreamsoft.com/)
