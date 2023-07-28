@@ -326,6 +326,10 @@ For more historical resources, see:
 
 ## Virtual or Unsure of Location
 
+- [Feetr.io](https://feetr.io/) "is entirely lisp".
+  - Feetr is "an algorithm which understands momentum in the stock market, and finds where that momentum is flowing to find stocks with a good chance of really high gains. It averaged 9.17% daily increase across 127 stocks last month ([tweet](https://twitter.com/feetr_io/status/1587182923911991303))".
+  - "Common Lisp was a conscious decision because it allows a small team to be incredibly productive, plus the fact that it's a live image allows you to connect to it over the internet and poke and prod the current state, which has really allowed a much clearer understanding of the data."
+  - Soure: [HN](https://news.ycombinator.com/item?id=33467269), 2022. They post SLY screenshots on their Twitter^^ https://twitter.com/0xsmcn/status/1598665401633759233/photo/1
 - [GeneNetwork](https://github.com/genenetwork/) uses [GNU Guix](https://guix.gnu.org/) and scheme extensively in production.
 - the [PostgreSQL](https://www.postgresql.org) organization uses Common Lisp in at least two products:
   - [pgloader](http://pgloader.io/) (see [why it was rewritten from Python](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/)), and
