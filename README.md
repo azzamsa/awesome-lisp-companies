@@ -252,6 +252,9 @@ For more historical resources, see:
 
 ### Norway
 
+- [Northphonic](https://norphonic.com/), heavy duty VoIP Telephones,
+  - building [Evacsound](https://norphonic.com/products/evacsound/), a tunnel evacuation system: "Norphonic introduces a novel distributed system for assisted evacuation from automotive and railway tunnels, mineral mines and industrial passageways."
+  - " We are using CL in prod for an embedded system (evacsound.com) for some years now, fairly smooth sailing. It started out as an MVP/prototype so implementation was of no concern, then gained enough velocity and market interest that a rewrite was infeasible. We re-train talent on the job instead." Seen [on HN](https://news.ycombinator.com/item?id=32178351), 2022.
 - [Selvaag](http://www.selvaag.no/)
   - home building, real estate management, [developing IT tools](http://www.selvaag.no/en/aboutselvaag/Sider/default.aspx) for industrial housing construction. Oslo, Norway. Developed the [BlueThink](http://www.selvaag.no/en/Companies/Selvaagbluethink/aboutus/Sider/default.aspx) knowledge management tools for housing construction planning.
 
