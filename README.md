@@ -78,6 +78,8 @@ For more historical resources, see:
     environment) in the design of our Intel Tofino series of programmable
     switch chips"
   - article on [Franz Inc networks](https://allegrograph.com/press_room/barefoot-networks-uses-franzs-allegro-cl-to-drive-artificial-intelligence-in-networks/), some words [on reddit](https://www.reddit.com/r/lisp/comments/oq884e/how_do_you_use_lisp_at_work/h6d8xcw/), and a [youtube video](https://www.reddit.com/r/lisp/comments/oq884e/how_do_you_use_lisp_at_work/h6d8xcw/).
+- [Bentley](https://www.bentley.com)
+  - [Bentley PlantWise](https://docs.bentley.com/LiveContent/web/PlantWise%20Help-v4/en/GUID-E9761B6E-35BC-4965-9D1F-2DA8A81E33E3.html), a knowledge-based application for plant concept design, is built in Allegro CL. [source](https://franz.com/success/customer_apps/knowledge_mgmt/plantwise.lhtml).
 - [Bloxl](https://bloxl.co/), an interactive visual display.
   - "An environment built with Bloxl grids is responsive to the people who inhabit it. Bloxl can fill a space with colors that pulse to the beat of music, giant scrolling text banners, abstract patterns and detailed animations."
   - the Bloxl software is built on [April](https://github.com/phantomics/april/), an APL compiler built in Common Lisp. April's author is Bloxl's CTO.
