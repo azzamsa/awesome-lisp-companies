@@ -92,6 +92,9 @@ For more historical resources, see:
   - *Active as of January 2018.*
 - [Daric](https://daric.com/)
   - Industry-leading software to help manage risk and improve the customer experience for the world's leading financial institutions. Client of the MOCL mobile and OSX implementation.
+- [Design Power](https://www.designpower.com/) - Software Products and Services for Design Automation Solutions
+  - [Design++](https://www.designpower.com/design++/) is a knowledge-based engineering software for design automation, built in Allegro CL. [source](https://franz.com/success/customer_apps/knowledge_mgmt/dp.lhtml).
+  - "With Design++ and its Dynamic Object technology, engineers can see the result of design changes immediately, making the design process much faster and easier." ""Without Common Lisp," says Design Power's Tapio Karras, "we would never have been able to develop such a complex and sophisticated system as Design++."
 - [Eaton Vance](https://www.eatonvance.com/)
   - financial services. Boston, MA. Bruce Lewis created [BRL](https://www.eatonvance.com/) , a dialect of Scheme called “a database-oriented language to embed in HTML and other markup.”
   - *Active as of January 2018*
