@@ -73,6 +73,7 @@ For more historical resources, see:
   - *Active as of June 2022*.
 - Boeing
   - uses the Allegro NFS Server in the onboard network system of Boeing 747 and 777 aircraft (source: [video, ELS 2015](https://www.youtube.com/watch?v=S7nEZ3TuFpA)).
+  - uses Allegro CL for their [Boeing Simplified English Checker](https://www.boeing.com/company/key-orgs/licensing/simplified-english-checker.page) ([source](https://franz.com/success/)).
 - [Barefoot Networks](https://www.barefootnetworks.com/)
   - "we use Lisp (via Allegro CL’s Enterprise class development
     environment) in the design of our Intel Tofino series of programmable
