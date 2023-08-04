@@ -61,6 +61,8 @@ For more historical resources, see:
 
 ### United States
 
+- [ACL2](https://www.cs.utexas.edu/users/moore/acl2/) is an industrial-grade theorem proover.
+  - its industrial users include AMD, Arm, Centaur Technology, IBM, Intel, Motorola, Oracle or again Collins Aerospace. [1](https://www.cs.utexas.edu/users/moore/acl2/current/manual/index.html?topic=ACL2____INTERESTING-APPLICATIONS), [2](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0399).
 - [Acceleration](https://www.acceleration.net/)
   - Acceleration is a leading provider of business class IT solutions:
     high-speed internet access services, private network design and
