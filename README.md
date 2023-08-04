@@ -231,6 +231,9 @@ For more historical resources, see:
 
 ### France
 
+- [Planisware](https://planisware.com), a web based Product and Project Management (PPM) solution, using Allegro CL.
+  - used by over 250 of the Forbes Global 2000 companies
+  - Nicolas Vilars, Marketing Director, says "Allegro CL is an incredibly good language to develop true versatile, clever applications. Allegro CL is used mainly to interpret the rules included in Planisware 5, and enables the company to quickly design powerful functions." "Planisware is the fastest growing application in its category (PPM), due largely to the outstanding design flexibility enabled by Lisp." says Vilars. [source](https://franz.com/success/customer_apps/knowledge_mgmt/planisware5.lhtml)
 - [Sony Computer Science Laboratories Paris](https://www.csl.sony.fr/), VUB Artificial Intelligence Laboratory in Brussels
   - developed an open source framework in Common Lisp for conducting experiments on language evolution: [Babel](https://emergent-languages.org/). Their Gitlab: https://gitlab.ai.vub.ac.be/ehai/babel-core. [Source](https://mailman.common-lisp.net/pipermail/pro/2019-April/001686.html).
 
