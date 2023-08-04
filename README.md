@@ -231,6 +231,9 @@ For more historical resources, see:
 
 ### France
 
+- [Alstom](https://www.alstom.com)
+  - Alstom's [Smartlock Interlocking system](https://www.alstom.com/solutions/signalling/interlocking-40-safe-rail-operations-increased-capacity-and-reliability) uses Allegro CL:
+  - "All the Allegro CL-based software is used with other software as part of one application suite, which is a 'generic' system used for the preparation of configuration data for two of Alstom's railway signalling interlocking products." [source](https://franz.com/success/customer_apps/modeling_simulation/alstom.lhtml)
 - [Planisware](https://planisware.com), a web based Product and Project Management (PPM) solution, using Allegro CL.
   - used by over 250 of the Forbes Global 2000 companies
   - Nicolas Vilars, Marketing Director, says "Allegro CL is an incredibly good language to develop true versatile, clever applications. Allegro CL is used mainly to interpret the rules included in Planisware 5, and enables the company to quickly design powerful functions." "Planisware is the fastest growing application in its category (PPM), due largely to the outstanding design flexibility enabled by Lisp." says Vilars. [source](https://franz.com/success/customer_apps/knowledge_mgmt/planisware5.lhtml)
