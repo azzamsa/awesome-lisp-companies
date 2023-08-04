@@ -32,6 +32,7 @@ For more historical resources, see:
         - [England](#england)
         - [France](#france)
         - [Germany](#germany)
+        - [Italy](#italy)
         - [Netherlands](#netherlands)
         - [Norway](#norway)
         - [Poland](#poland)
@@ -252,6 +253,11 @@ For more historical resources, see:
 
 - [stk-hamburg](http://stk-hamburg.com/eng.html)
   - developing an ERP in Lisp ([ECL 2018 lightning talk](https://european-lisp-symposium.org/static/2018/lt2.pdf)).
+
+### Italy
+
+- [Fast-Square](https://www.fast-square.net/) - complete supply chain management software suite for steel service centers
+  - their [Coil Cut Optimizer](https://www.fast-square.net/products) product is written in Allegro CL. [source](https://franz.com/success/customer_apps/mechanical_cad/fast-square.lhtml).
 
 ### Netherlands
 
