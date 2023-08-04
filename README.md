@@ -160,8 +160,10 @@ For more historical resources, see:
   - Manufacturer of quantum computers and provider of their services through their product called *Forest*. Much of their code is written in Common Lisp, including their quantum virtual machine and quantum compiler. ([video](https://www.youtube.com/watch?v=f9vRcSAneiw), [paper](https://arxiv.org/abs/1608.03355), [github](https://github.com/rigetticomputing))
 - [Screenshotbot](https://screenshotbot.io)
   - Visual Testing as a service. Get notified on Pull Requests when your code changes your UI, mobile or web. Built with LispWorks.
-- [SRI](https://www.sri.com/)
-  - client-sponsored R&D. Menlo Park, CA. [Hiring scientific CL programmers](https://sri.ats.hrsmart.com/cgi-bin/a/highlightjob.cgi?jobid=4086). See also [Artificial Intelligence Center](http://www.ai.sri.com/). They have lots of [Lisp-related links](http://www.google.com/search?q=lisp+site%3Ahttp%3A%2F%2Fsri.com) on their site as well.
+- [SRI International](https://www.sri.com/)
+  - client-sponsored R&D. Menlo Park, CA. SRI International offers innovative tools for modeling and analyzing genomes, metabolic pathways, and regulatory networks to support activities in drug discovery, agriculture, and biotechnology
+  - [Hiring scientific CL programmers](https://sri.ats.hrsmart.com/cgi-bin/a/highlightjob.cgi?jobid=4086). See also [Artificial Intelligence Center](http://www.ai.sri.com/). They have lots of [Lisp-related links](http://www.google.com/search?q=lisp+site%3Ahttp%3A%2F%2Fsri.com) on their site as well.
+  - also an Allegro CL [success story](https://franz.com/success/customer_apps/bioinformatics/SRI_Pathway-tools.lhtml).
 - [Smart Information Flow Technologies](http://sift.info/)
   - Contract research house. Minneapolis, MN. Mission objective: “Getting information where it belongs when it’s needed.” [Hiring AI professionals](http://sift.info/jobs/ai.htm) to support human control of complex systems. Research areas include: Planning, Plan recognition, Intelligent UserInterfaces, Information Presentation and Management and Computational Etiquette.
     Have at least one product at opensource – [Simple Hierarchical Ordered Planner 2](https://github.com/calyau/shop2/) (SHOP2).
