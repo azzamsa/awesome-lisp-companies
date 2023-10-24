@@ -200,7 +200,8 @@ For more historical resources, see:
 ### Belgium
 
 - [3E](http://www.3e.eu)
-  - Provides "consultancy services and software products to improve the performance of sustainable energy systems and optimize energy consumption". The real-time data aggregation and alerting engines of its [Synaptic](http://www.3e.eu/synaptiq) product is Common Lisp based. ([job announce](http://3eeu.talentfinder.be/en/vacature/30101/lisp-developer))
+  - Provides "consultancy services and software products to improve the performance of sustainable energy systems and optimize energy consumption". The real-time data aggregation and alerting engines of its [Synaptic](http://www.3e.eu/synaptiq) product is Common Lisp based.
+  * [job announce 2023](https://jobs.3e.eu/en/vacature/93847/common-lisp-developer/)
 
 - [Pepite](https://www.pepite.com/)
   - Advanced analytics to improve the durability, sustainability, and resilience of the manufacturing sector.
