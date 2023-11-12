@@ -316,8 +316,8 @@ For more historical resources, see:
 
 ### Switzerland
 
-- [Shirakumo](https://shirakumo.org) / Nicolas Hafner
-  - Developing [Kandria](https://kandria.com), a post-apocalyptic hack & slash platformer game.
+- [Shirakumo](https://shirakumo.org) / [Yukari Hafner](https://shinmera.com)
+  - Developed [Kandria](https://kandria.com), a post-apocalyptic hack & slash platformer game.
   - Many other open source libraries and projects for game development and web development.
 
 ### Ukraine
