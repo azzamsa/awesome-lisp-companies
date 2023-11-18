@@ -321,6 +321,7 @@ For more historical resources, see:
 - [Shirakumo](https://shirakumo.org) / [Yukari Hafner](https://shinmera.com)
   - Developed [Kandria](https://kandria.com), a post-apocalyptic hack & slash platformer game.
   - Many other open source libraries and projects for game development and web development.
+  - We can support them on [Patreon](https://patreon.com/shinmera) and [GitHub sponsors](https://github.com/sponsors/Shinmera).
 
 ### Ukraine
 
