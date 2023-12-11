@@ -216,6 +216,10 @@ For more historical resources, see:
 
 ### England
 
+- [EsseSystems](https://essesystems.co.uk/)
+  - "The world’s leading expert in providing business solutions".
+  - creating a CAS platform with generative and intuitive capabilities.
+  - was hiring on October, 2023 (with a message on the Common Lisp LinkedIn group).
 - [Greater Skies](https://greaterskies.com/)
   - "The original map of the sky as seen from a place and time of your choice, since 2006"
   - comments [on HackerNews](https://news.ycombinator.com/item?id=25584518).
