@@ -175,6 +175,8 @@ For more historical resources, see:
 - [Tiltontec](http://tiltontec.com/)
   - a student-driven Algebra learning system.
   - [Common Lisp projects](https://github.com/kennytilton) by Kenneth Tilton, like Cells, an  implementation of the dataflow programming paradigm. NYC.
+- [Triton Systems inc.](https://tritonsystems.com) - a Global Business Venture company that successfully launches innovative products and solutions in emerging markets worldwide.
+  - "For several years now, Triton has been harnessing the extraordinary power and flexibility of Common Lisp, and more specifically the Allegro CL platform, to research and rapidly develop cutting-edge approaches for the implementation of advanced embedded AI prototypes." Panos Lekkas, VP - AI Systems, at Triton Systems, Inc.
 - [Web Checkout](https://webcheckout.net/) - Equipement management & asset tracking software.
   - they were hiring in 2022.
   - "We have been a lisp shop since the 90s, starting off on CMUCL but porting to SBCL over a decade ago now."
