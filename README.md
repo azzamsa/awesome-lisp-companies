@@ -9,7 +9,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 </div>
 
-For more historical resources, see:
+For more resources, see:
 
 - [lisp-lang.org's success stories](https://lisp-lang.org/success/)
 - [LispWorks Success Stories  ](http://www.lispworks.com/success-stories/index.html)
@@ -105,6 +105,9 @@ For more historical resources, see:
   - *Active as of January 2018*
 - [EnRoute Systems](https://enroutesystems.com/home/)
   - (formerly Trip Planner) - trip planning solutions including planning engine, web front-end, hosting, and data import/repair. Spokanne, WA. Lots of details on the Technical Info page (including discussion of packages, infrastructure, and algorithms). Made by Jean-Paul Larocque, who has more lisp code on [his main site](http://www.thoughtcrime.us/), ThoughtCrime. ([news coverage](http://www.spokesmanreview.com/blogs/txt/archive/?postID=3691))
+- [Excelon Solutions](https://search.brave.com/search?q=excelon+solutions)
+  - "a leader in truly flexible Salesforce, AWS Services, VMware, Microsoft Azure,  IT Services and other I.T. business solutions."
+  - *Hiring on March, 2024*
 - [Grammarly](https://www.grammarly.com/)
   - create an English language writing-enhancement platform. [Running Lisp in Production ](https://tech.grammarly.com/blog/running-lisp-in-production)
 - [Franz Inc.](https://franz.com)
