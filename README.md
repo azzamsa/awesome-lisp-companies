@@ -176,7 +176,7 @@ For more resources, see:
 - [Smart Information Flow Technologies](http://sift.info/)
   - Contract research house. Minneapolis, MN. Mission objective: “Getting information where it belongs when it’s needed.” [Hiring AI professionals](http://sift.info/jobs/ai.htm) to support human control of complex systems. Research areas include: Planning, Plan recognition, Intelligent UserInterfaces, Information Presentation and Management and Computational Etiquette.
     Have at least one product at opensource – [Simple Hierarchical Ordered Planner 2](https://github.com/calyau/shop2/) (SHOP2).
-- [ThirdLaw LLC](http://thirdlaw.tech/)
+- [ThirdLaw Molecular](https://thirdlawtx.com/), "A Groundbreaking New Platform for Targeted Drug Discovery".
   - founded by Christian Schafmeister and Martin Cracauer, the CLASP and Cando  developers, ThirdLaw provides support and services for computational chemistry.
 - [Tiltontec](http://tiltontec.com/)
   - a student-driven Algebra learning system.
