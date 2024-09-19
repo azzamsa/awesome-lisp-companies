@@ -313,6 +313,9 @@ For more resources, see:
 
 - [SISCOG](http://www.siscog.pt/)
   - decision-support systems for resource planning and management in transportation companies. Lisboa, Portugal. Allegro CL since version 5 – before that it was Lucid Lisp.
+  - with [an interview](https://kvardek-du.kerno.org/2024/09/interview-about-lisp-at-siscog.html) (2024)
+  - *"We use Common Lisp in the vast majority of our software. Both desktop applications and backend parts of web applications are implemented in Common Lisp."*
+  - *"It remains to be said that our products have been in operation for more than 30 years in various national and international companies, such as the London and Lisbon Underground, or the railways of the Netherlands or Canada."*
 
 ### Russia
 
