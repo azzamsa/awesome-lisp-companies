@@ -106,6 +106,7 @@ For more resources, see:
 - [Eaton Vance](https://www.eatonvance.com/)
   - financial services. Boston, MA. Bruce Lewis created [BRL](https://www.eatonvance.com/) , a dialect of Scheme called “a database-oriented language to embed in HTML and other markup.”
   - *Active as of January 2018*
+- [EcoCyc](https://ecocyc.org/) / [Pathway Tools](https://pathwaytools.com/), a comprehensive systems-biology software system that is associated with the BioCyc database collection.
 - [EnRoute Systems](https://enroutesystems.com/home/)
   - (formerly Trip Planner) - trip planning solutions including planning engine, web front-end, hosting, and data import/repair. Spokanne, WA. Lots of details on the Technical Info page (including discussion of packages, infrastructure, and algorithms). Made by Jean-Paul Larocque, who has more lisp code on [his main site](http://www.thoughtcrime.us/), ThoughtCrime. ([news coverage](http://www.spokesmanreview.com/blogs/txt/archive/?postID=3691))
 - [Excelon Solutions](https://search.brave.com/search?q=excelon+solutions)
