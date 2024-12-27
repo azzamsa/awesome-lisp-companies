@@ -344,7 +344,7 @@ For more resources, see:
 ### Ukraine
 
 - [Keepit](https://www.keepit.com/)
-  - a cloud-to-cloud backup service provider. Was hiring two Common Lisp developers in October, 2020.
+  - a cloud-to-cloud backup service provider. Was hiring two Common Lisp developers in October, 2024.
 
 ## Africa
 
