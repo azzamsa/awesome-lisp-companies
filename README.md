@@ -68,11 +68,9 @@ For more resources, see:
     high-speed internet access services, private network design and
     managed support, website design, hosting,
     dedicated and virtual server hosting,... they have a [Github account](https://github.com/AccelerationNet/access/).
-- [ASTN Group, Inc.](https://www.astn-group.com)
+- [Valmiz](https://valmiz.com/)
   - brings AI systems that will change the way we do things, from the airline industry; financial systems; and military applications, to name a few.
   - all core components are written in Common Lisp to adapt to the dynamic nature of information propagation to support reflective computations and allow seamless code updates.
-  - location: Austin, TX
-  - *Active as of June 2022*.
 - Boeing
   - uses the Allegro NFS Server in the onboard network system of Boeing 747 and 777 aircraft (source: [video, ELS 2015](https://www.youtube.com/watch?v=S7nEZ3TuFpA)).
   - uses Allegro CL for their [Boeing Simplified English Checker](https://www.boeing.com/company/key-orgs/licensing/simplified-english-checker.page) ([source](https://franz.com/success/)).
