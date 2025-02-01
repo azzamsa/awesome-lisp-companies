@@ -179,6 +179,7 @@ For more resources, see:
   - [Common Lisp projects](https://github.com/kennytilton) by Kenneth Tilton, like Cells, an  implementation of the dataflow programming paradigm. NYC.
 - [Triton Systems inc.](https://tritonsystems.com) - a Global Business Venture company that successfully launches innovative products and solutions in emerging markets worldwide.
   - "For several years now, Triton has been harnessing the extraordinary power and flexibility of Common Lisp, and more specifically the Allegro CL platform, to research and rapidly develop cutting-edge approaches for the implementation of advanced embedded AI prototypes." Panos Lekkas, VP - AI Systems, at Triton Systems, Inc.
+  - [hiring in 2025](https://tritonsystems.applicantpro.com/jobs/3610597)
 - [Valmiz](https://valmiz.com/)
   - Brings AI systems that will change the way we do things, from the airline industry; financial systems; and military applications, to name a few.
   - All core components are written in Common Lisp to adapt to the dynamic nature of information propagation to support reflective computations and allow seamless code updates.
