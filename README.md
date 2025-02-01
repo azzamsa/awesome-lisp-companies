@@ -189,6 +189,9 @@ For more resources, see:
   - "While the back-end core of our application is implemented in SBCL, the front end is AngularJS. We don't shy away from other technologies. Some back end services are implemented in Java or NodeJS; whatever make the most sense. We use Postmodern for persistence. Being a scheduling application the local-time library is a big deal for us."
 - [Wukix](https://wukix.com/)
   - vendor of the [MOCL](https://wukix.com/mocl) implementation for mobile and OSX.
+- YCombinator - the production website of **Hacker News** runs on SBCL.
+  - since late 2024. [source](https://www.reddit.com/r/Common_Lisp/comments/1iekqnc/the_production_website_of_hacker_news_now_runs_on/)
+  - "I've been working on an implementation of Arc in SBCL which is much faster and also will easily let HN run on multiple cores."
 
 
 ### Canada
