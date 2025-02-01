@@ -386,6 +386,9 @@ For more resources, see:
 
 ## Virtual or Unsure of Location
 
+- [allmicrowedding.com](https://allmicrowedding.com/)
+  - tech stack: Common Lisp (Clack and Woo, lparallel…), TailWindCSS, Airtable.
+  - "No builds, no Docker just a clean and simple Common Lisp REPL running inside of a Hetzner VM." [source](https://www.reddit.com/r/Common_Lisp/comments/1hmxv4k/websites_built_in_common_lisp/)
 - [Feetr.io](https://feetr.io/) "is entirely lisp".
   - Feetr is "an algorithm which understands momentum in the stock market, and finds where that momentum is flowing to find stocks with a good chance of really high gains. It averaged 9.17% daily increase across 127 stocks last month ([tweet](https://twitter.com/feetr_io/status/1587182923911991303))".
   - "Common Lisp was a conscious decision because it allows a small team to be incredibly productive, plus the fact that it's a live image allows you to connect to it over the internet and poke and prod the current state, which has really allowed a much clearer understanding of the data."
