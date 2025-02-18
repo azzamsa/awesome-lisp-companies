@@ -136,9 +136,9 @@ For more resources, see:
 - [Inspiration Software, Inc](http://www.inspiration.com/)
   - educational software, including [InspireData](http://www.inspiration.com/productinfo/inspiredata/index.cfm), a product for building data literacy. Beaverton, OR. Made in LispWorks.
 - [ITA Software by Google](http://www.itasoftware.com/)
-  - airfare search engine and airline scheduling software. Cambridge, MA. [Common Lisp used for basically everything](http://lambda-the-ultimate.org/node/2491#comment-38434), currently hiring and expanding their business.
-  - [Github.com/Qitab](https://github.com/Qitab/) is a repository for third-party Lisp code out of Google/ITA, with libraries such as gRPC or cl-protobufs.
-  - *Active as of January 2018*
+  - Airfare search engine and airline scheduling software. Cambridge, MA. [Common Lisp is used for the core flight search engine](http://lambda-the-ultimate.org/node/2491#comment-38434). The larger Flights project is roughly equal parts CL, C++, and Java.
+  - [Github.com/Qitab](https://github.com/Qitab/) is a repository for open sourced Lisp code out of Google/ITA, with libraries such as gRPC or cl-protobufs.
+  - *Active as of January 2025*
 - [Mind AI](https://www.mind.ai)
   - Founded in 2018, Mind AI is an artificial intelligence engine and an ecosystem that was created to offer an entirely new approach to AI.
 - [MusicEase](https://www.musicease.com) - MusicEase Software has been involved in the development of music notation software for over 35 years.
