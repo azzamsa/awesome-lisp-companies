@@ -9,6 +9,12 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 </div>
 
+To hear about more companies and job offerings, see:
+
+- [LinkedIn Common Lisp Open-Source](https://www.linkedin.com/groups/8876366/)
+- [LinkedIn Common Lisp](https://www.linkedin.com/groups/830547)
+- social media
+
 For more resources, see:
 
 - [lisp-lang.org's success stories](https://lisp-lang.org/success/)
