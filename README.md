@@ -342,6 +342,9 @@ For more resources, see:
   - natural language interface for relational databases. Umeå, Sweden. Including [Michael Minock](http://www.cs.umu.se/~mjm/) of Umeå University. Downloadable demo of their CatchPhrase product. 20K lines of Clisp code.
 - Doremir Music Research AB
   - Developing [ScoreCloud](https://scorecloud.com/), a music notation software (a LispWorks product). Stockholm.
+- EQUA, a privately held Swedish company, dedicated to developing state of the art simulation tools, founded in 1995.
+    - [IDA ICE](https://www.equa.se/en/ida-ice) (Indoor Climate and Energy), "a new type of simulation tool […]. It accurately models the building, its systems, and controllers".
+    - built in Allegro, active as of 2025
 
 ### Switzerland
 
