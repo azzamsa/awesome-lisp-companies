@@ -54,6 +54,7 @@ For more resources, see:
         - [India](#india)
         - [Korea](#korea)
         - [Japan](#japan)
+        - [Philippines](#philippines)
     - [Virtual or Unsure of Location](#virtual-or-unsure-of-location)
     - [Contributors](#contributors)
     - [Guidelines to contribute](#guidelines-to-contribute)
@@ -186,9 +187,6 @@ For more resources, see:
 - [Triton Systems inc.](https://tritonsystems.com) - a Global Business Venture company that successfully launches innovative products and solutions in emerging markets worldwide.
   - "For several years now, Triton has been harnessing the extraordinary power and flexibility of Common Lisp, and more specifically the Allegro CL platform, to research and rapidly develop cutting-edge approaches for the implementation of advanced embedded AI prototypes." Panos Lekkas, VP - AI Systems, at Triton Systems, Inc.
   - [hiring in 2025](https://tritonsystems.applicantpro.com/jobs/3610597)
-- [Valmiz](https://valmiz.com/)
-  - Brings AI systems that will change the way we do things, from the airline industry; financial systems; and military applications, to name a few.
-  - All core components are written in Common Lisp to adapt to the dynamic nature of information propagation to support reflective computations and allow seamless code updates.
 - [Web Checkout](https://webcheckout.net/) - Equipement management & asset tracking software.
   - they were hiring in 2022.
   - "We have been a lisp shop since the 90s, starting off on CMUCL but porting to SBCL over a decade ago now."
@@ -391,6 +389,12 @@ For more resources, see:
   - [Github projects](https://github.com/pokepay/)
 - [t-cool](https://github.com/t-cool)
   - a non-profit organization that organizes events where Lispers gather
+  
+  
+### Philippines
+- [Veda Technologies, Inc.](https://github.com/vedainc)
+  - Developing systems that implement Distributed Intersymbolic Artificial Intelligence
+  - Uses LispWorks and SBCL
 
 
 ## Virtual or Unsure of Location
