@@ -385,7 +385,7 @@ For more resources, see:
   - scientific software, computer science, internet solutions, social systems. Tokyo, Japan. Their [Car Crash Database System](http://cl-www.msi.co.jp:8000/cl-http/hcpage/intoro-main-e.html) (using [Allegro](http://www.franz.com/success/customer_apps/knowledge_mgmt/msi.lhtml)) lets engineers browse over 1TB of numerical, photo, and video data about car crashes to design safer cars (used by Honda). If you know Japanese, they have a page called [“Why Common Lisp?”](http://cl-www.msi.co.jp/solutions/knowledge/lisp-world/articles/why-lisp) (translation appreciated).
 - [Pocket Change Inc.](https://www.pocket-change.jp/en/)
   - Pocket Change is an innovative service. It converts leftover coins and bills to electronic money, gift codes, and coupons of your choice.
-  - Pocket Change uses Common Lisp in [their exchange machine](https://www.slideshare.net/fukamachi/building-gui-app-with-electron-and-lisp). [Eitaro Fukamachi](https://github.com/fukamachi/) is Lead Engineer here.
+  - Pocket Change uses Common Lisp in [their coin handling machine](https://www.slideshare.net/fukamachi/building-gui-app-with-electron-and-lisp) and "Pokepay" (branded electric money hosting service). [Eitaro Fukamachi](https://github.com/fukamachi/) was Lead Engineer here (until Dec 2024).
   - [Github projects](https://github.com/pokepay/)
 - [t-cool](https://github.com/t-cool)
   - a non-profit organization that organizes events where Lispers gather
