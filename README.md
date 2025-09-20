@@ -392,7 +392,7 @@ For more resources, see:
   
   
 ### Philippines
-- [Veda Technologies, Inc.](https://github.com/vedainc)
+- [Veda Technologies, Inc.](https://veda-tech.com)
   - Developing systems that implement Distributed Intersymbolic Artificial Intelligence
   - Uses LispWorks and SBCL
 
