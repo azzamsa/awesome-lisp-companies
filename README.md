@@ -278,10 +278,11 @@ For more resources, see:
     finance/payment, health care, and media. Using Common Lisp in
     different fields ranging from dynamic web applications and Natural
     Language Processing to systems engineering infrastructure in
-    container clusters (DNS, dynamic load balancer).
+    container clusters (DNS, dynamic load balancer). Active in 2025.
+    - github.com/m-creations/sbcl
 
 - [stk-hamburg](http://stk-hamburg.com/eng.html)
-  - developing an ERP in Lisp ([ECL 2018 lightning talk](https://european-lisp-symposium.org/static/2018/lt2.pdf)).
+  - developing an ERP in Lisp ([ECL 2018 lightning talk](https://european-lisp-symposium.org/static/2018/lt2.pdf), ELS 2025 talk).
 
 ### Italy
 
