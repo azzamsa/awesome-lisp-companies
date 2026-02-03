@@ -415,6 +415,8 @@ For more resources, see:
 - [ApplicationBase](https://applicationbase.org/), Synchronit.
   - "Have your apps in minutes without coding"
   - *seen in the ELS 2025*
+- [CueContract.com](https://www.cuecontract.com/) - Do you repeatedly remind people about expiring contracts?
+  - by https://www.darkchestnut.com/. Active as of 2026.
 
 ## Contributors
 
