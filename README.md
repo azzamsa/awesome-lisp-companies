@@ -70,11 +70,6 @@ For more resources, see:
 
 - [ACL2](https://www.cs.utexas.edu/users/moore/acl2/) is an industrial-grade theorem proover.
   - its industrial users include AMD, Arm, Centaur Technology, IBM, Intel, Motorola, Oracle or again Collins Aerospace. [1](https://www.cs.utexas.edu/users/moore/acl2/current/manual/index.html?topic=ACL2____INTERESTING-APPLICATIONS), [2](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0399).
-- [Acceleration](https://www.acceleration.net/)
-  - Acceleration is a leading provider of business class IT solutions:
-    high-speed internet access services, private network design and
-    managed support, website design, hosting,
-    dedicated and virtual server hosting,... they have a [Github account](https://github.com/AccelerationNet/access/).
 - Boeing
   - uses the Allegro NFS Server in the onboard network system of Boeing 747 and 777 aircraft (source: [video, ELS 2015](https://www.youtube.com/watch?v=S7nEZ3TuFpA)).
   - uses Allegro CL for their [Boeing Simplified English Checker](https://www.boeing.com/company/key-orgs/licensing/simplified-english-checker.page) ([source](https://franz.com/success/)).
@@ -85,7 +80,7 @@ For more resources, see:
   - article on [Franz Inc networks](https://allegrograph.com/press_room/barefoot-networks-uses-franzs-allegro-cl-to-drive-artificial-intelligence-in-networks/), some words [on reddit](https://www.reddit.com/r/lisp/comments/oq884e/how_do_you_use_lisp_at_work/h6d8xcw/), and a [youtube video](https://www.reddit.com/r/lisp/comments/oq884e/how_do_you_use_lisp_at_work/h6d8xcw/).
 - [Bentley](https://www.bentley.com)
   - [Bentley PlantWise](https://docs.bentley.com/LiveContent/web/PlantWise%20Help-v4/en/GUID-E9761B6E-35BC-4965-9D1F-2DA8A81E33E3.html), a knowledge-based application for plant concept design, is built in Allegro CL. [source](https://franz.com/success/customer_apps/knowledge_mgmt/plantwise.lhtml).
-- [Bloxl](https://bloxl.co/), an interactive visual display.
+- Bloxl, an interactive visual display.
   - "An environment built with Bloxl grids is responsive to the people who inhabit it. Bloxl can fill a space with colors that pulse to the beat of music, giant scrolling text banners, abstract patterns and detailed animations."
   - the Bloxl software is built on [April](https://github.com/phantomics/april/), an APL compiler built in Common Lisp. April's author is Bloxl's CTO.
   - seen on the European Lisp Symposium of 2022 and on https://www.arraycast.com/episodes/episode23-andrew-sengul
@@ -115,8 +110,7 @@ For more resources, see:
   - "a leader in truly flexible Salesforce, AWS Services, VMware, Microsoft Azure,  IT Services and other I.T. business solutions."
   - *Hiring on March, 2024*
 - [Grammarly](https://www.grammarly.com/)
-  - create an English language writing-enhancement platform. [Running Lisp in Production ](https://tech.grammarly.com/blog/running-lisp-in-production)
-- [Franz Inc.](https://franz.com)
+  - create an English language writing-enhancement platform. [Running Lisp in Production ](https://tech.grammarly.com/blog/running-lisp-in-production) - [Franz Inc.](https://franz.com)
    - offers AllegroCL, a Common Lisp compiler and programming environment; [AllegroGraph](https://allegrograph.com), a graph database / triple store written in Common Lisp; and consultancy services. Oakland, CA.
    - *Active as of September 2018*
 - [Gensym](http://dev.gensym.com/)
@@ -126,15 +120,13 @@ For more resources, see:
   - provides General-purpose Declarative Language (GDL), a Generative
     Application Development system for creating web-centric Knowledge
     Based Engineering and Business applications, based on the free software [Gendl](http://gendl.org/). Genworks uses AllegroCL, its Head of Product Development is the founder of the Common Lisp foundation.
-- [GigaMonkeys Consulting](http://www.gigamonkeys.com/)
-  - software development and QA consulting. Oakland, CA. Deserves mention because Peter Seibel wrote Practical Common Lisp, claimed by ITA Software as [their training manual](http://lambda-the-ultimate.org/node/2491#comment-38434).
 - [GrammaTech](https://www.grammatech.com/)
   - Source code analysis tools for C, C++, Ada. Ithaca, NY. [Hiring software engineers](http://www.grammatech.com/corporate/employment.html) and interns with experience programming in Scheme, compilers, and static analysis.
   - released [Resolve](https://github.com/GrammaTech/resolve), software AST-based diff calculation, display, and automated resolution. AGPL-3, C++ and Common Lisp.
   - *Active as of January 2022*
 - [GraphMetrix](https://graphmetrix.com/)
-  - automation of document extraction and publishing for construction, property and logistics.
-  - *Active as of September 2020*.
+  - Automation of document extraction and publishing for construction, property and logistics.
+  - *Active as of September 2025*.
 > "We are using Lisp as the main engine for our RDF -> Sparql -> in-memory rdf db -> conceptual inference system at graphMetrix"
 - [HRL Laboratories](https://www.hrl.com/)
   - One of the world's premier physical science and engineering research laboratories.
@@ -144,8 +136,6 @@ For more resources, see:
   - educational software, including [InspireData](http://www.inspiration.com/productinfo/inspiredata/index.cfm), a product for building data literacy. Beaverton, OR. Made in LispWorks.
 - [ITA Software by Google](http://www.itasoftware.com/)
   - Airfare search engine and airline scheduling software. Cambridge, MA. [Common Lisp is used for the core flight search engine](http://lambda-the-ultimate.org/node/2491#comment-38434). The larger Flights project is roughly equal parts CL, C++, and Java.
-  - [Github.com/Qitab](https://github.com/Qitab/) is a repository for open sourced Lisp code out of Google/ITA, with libraries such as gRPC or cl-protobufs.
-  - *Active as of January 2025*
 - [Mind AI](https://www.mind.ai)
   - Founded in 2018, Mind AI is an artificial intelligence engine and an ecosystem that was created to offer an entirely new approach to AI.
 - [MusicEase](https://www.musicease.com) - MusicEase Software has been involved in the development of music notation software for over 35 years.
@@ -194,7 +184,7 @@ For more resources, see:
 - [Wukix](https://wukix.com/)
   - vendor of the [MOCL](https://wukix.com/mocl) implementation for mobile and OSX.
 - YCombinator - the production website of **Hacker News** runs on SBCL.
-  - since late 2024. [source](https://www.reddit.com/r/Common_Lisp/comments/1iekqnc/the_production_website_of_hacker_news_now_runs_on/)
+  - since late 2024. [source](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
   - "I've been working on an implementation of Arc in SBCL which is much faster and also will easily let HN run on multiple cores."
 
 
@@ -305,7 +295,7 @@ For more resources, see:
 
 ### Norway
 
-- [Northphonic](https://norphonic.com/), heavy duty VoIP Telephones,
+- [Norphonic](https://norphonic.com/), heavy duty VoIP Telephones,
   - building [Evacsound](https://norphonic.com/products/evacsound/), a tunnel evacuation system: "Norphonic introduces a novel distributed system for assisted evacuation from automotive and railway tunnels, mineral mines and industrial passageways."
   - " We are using CL in prod for an embedded system (evacsound.com) for some years now, fairly smooth sailing. It started out as an MVP/prototype so implementation was of no concern, then gained enough velocity and market interest that a rewrite was infeasible. We re-train talent on the job instead." Seen [on HN](https://news.ycombinator.com/item?id=32178351), 2022.
 - [Selvaag](http://www.selvaag.no/)
@@ -416,8 +406,6 @@ For more resources, see:
   - San Francisco, Tokyo, London.
 - [Raytheon SigLab](http://www.lispworks.com/success-stories/raytheon-siglab.html)
   - a signal processing analysis pipeline for developing algorithms. A LispWorks success story.
-- [Untyped](https://untyped.com/)
-  - web applications, custom software development, training. Virtual Office (5 people). [PLT Scheme](http://www.untyped.com/untyping/archives/2007/11/custom_dispatch.html), very good [blog](https://untyped.com/untyping/)
 - [Utilitymage](http://utilitymage.com/)
   - In Utility Mage (Umage) the aim is to make as much of the utility management process transparent. This allows both utility managers and the invoiced entity access to the relevant data like invoices, trend reports, exception reports and audit trails, such as photos of meter readings. As of may 2018, it is a startup still in Health mode. Umage is built in Common Lisp.
 - Modern Interpreters Inc.
