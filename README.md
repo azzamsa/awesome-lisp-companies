@@ -416,8 +416,6 @@ For more resources, see:
   - *seen in the ELS 2025*
 - [CueContract.com](https://www.cuecontract.com/) - Do you repeatedly remind people about expiring contracts?
   - by https://www.darkchestnut.com/. *Active as of 2026*.
-- [Selective Share](https://www.selectiveshare.com/) - Secret management for the paranoid.
-  - by https://www.darkchestnut.com/. *Active as of 2026*.
 
 ## Contributors
 
