@@ -1,11 +1,11 @@
 <div align="center">
-<h1>Awesome Lisp Company</h1>
+<h1>Awesome Lisp Companies</h1>
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
-Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively in their stack.
+Awesome Lisp Companies is a curated list of companies that use Lisp extensively in their stack.
 
-👽 **This list intended only for company with Common Lisp and Scheme usage** 👽
+👽 **This list is intended only for companies which use Common Lisp or Scheme.** 👽
 
 </div>
 
@@ -18,6 +18,7 @@ To hear about more companies and job offerings, see:
 For more resources, see:
 
 - [lisp-lang.org's success stories](https://lisp-lang.org/success/)
+- 🖌️ [lisp-screenshots.org](https://www.lisp-screenshots.org/)
 - [LispWorks Success Stories  ](http://www.lispworks.com/success-stories/index.html)
 - [Allegro Common Lisp Success Stories ](https://franz.com/success/)
 - [LispJobs archives](https://lispjobs.wordpress.com)
