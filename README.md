@@ -12,7 +12,6 @@ Awesome Lisp Companies is a curated list of companies that use Lisp extensively 
 To hear about more companies and job offerings, see:
 
 - [LinkedIn Common Lisp Open-Source](https://www.linkedin.com/groups/8876366/)
-- [LinkedIn Common Lisp](https://www.linkedin.com/groups/830547)
 - social media
 
 For more resources, see:
