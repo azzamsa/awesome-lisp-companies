@@ -198,6 +198,9 @@ For more resources, see:
 - [HexstreamSoft](https://www.hexstreamsoft.com/)
   - Public Domain Common Lisp R&D.
   - *Active as of October 2020.*
+- [Routific](https://www.routific.com/) - Route optimization software for delivery businesses that care about efficiency.
+  - "The core route optimization algorithm of Routific is written in Common Lisp :)" @mck-, Routific's founder.
+  - see also: [Open-VRP](https://github.com/mck-/Open-VRP) -  Open-source framework for modeling Vehicle Routing Problems. LLGPL.
 
 ### Mexico
 - [Ikkiware](http://www.ikkiware.com/)
