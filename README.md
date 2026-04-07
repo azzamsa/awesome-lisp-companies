@@ -414,6 +414,7 @@ For more resources, see:
   - In Utility Mage (Umage) the aim is to make as much of the utility management process transparent. This allows both utility managers and the invoiced entity access to the relevant data like invoices, trend reports, exception reports and audit trails, such as photos of meter readings. As of may 2018, it is a startup still in Health mode. Umage is built in Common Lisp.
 - Modern Interpreters Inc.
   - building [screenshotbot](https://screenshotbot.io/), an open-source, mobile-first automated screenshot testing. Written primarily with LispWorks, works also on CCL.
+  - [Meta's screenshot tests for Android now uses Screenshotbot](https://screenshotbot.io/blog/screenshot-tests-for-android-is-now-maintained-by-screenshotbot)
 - [ApplicationBase](https://applicationbase.org/), Synchronit.
   - "Have your apps in minutes without coding"
   - *seen in the ELS 2025*
