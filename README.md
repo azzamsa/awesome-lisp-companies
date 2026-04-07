@@ -220,6 +220,10 @@ For more resources, see:
 
 ### Denmark
 
+- [Keepit](https://www.keepit.com/) - a cloud-to-cloud backup service provider.
+  - with offices in Denmark, Poland and Ukraine.
+  - [ELS 2025 experience report](https://www.youtube.com/watch?v=iwV2Mz1KTrI): "Growing your own lispers". Host of [ELS 2026](https://www.european-lisp-symposium.org/2026/index.html).
+
 - [SteelSeries ApS](https://www.steelseries.com/)
   - Makes gaming accessories such as headsets, keyboards and mice. Games can integrate with these through the SteelSeries Engine using [GoLisp](https://techblog.steelseries.com/golisp/documents.html), their [open source Lisp written in Go](https://github.com/SteelSeries/golisp), which aims to be compatible with MIT/GNU Scheme.
 
@@ -345,11 +349,6 @@ For more resources, see:
   - Developed [Kandria](https://kandria.com), a post-apocalyptic hack & slash platformer game.
   - Many other open source libraries and projects for game development and web development.
   - We can support them on [Patreon](https://patreon.com/shinmera) and [GitHub sponsors](https://github.com/sponsors/Shinmera).
-
-### Ukraine
-
-- [Keepit](https://www.keepit.com/)
-  - a cloud-to-cloud backup service provider. Was hiring two Common Lisp developers in October, 2024.
 
 ## Africa
 
