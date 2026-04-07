@@ -182,8 +182,6 @@ For more resources, see:
   - they were hiring in 2022.
   - "We have been a lisp shop since the 90s, starting off on CMUCL but porting to SBCL over a decade ago now."
   - "While the back-end core of our application is implemented in SBCL, the front end is AngularJS. We don't shy away from other technologies. Some back end services are implemented in Java or NodeJS; whatever make the most sense. We use Postmodern for persistence. Being a scheduling application the local-time library is a big deal for us."
-- [Wukix](https://wukix.com/)
-  - vendor of the [MOCL](https://wukix.com/mocl) implementation for mobile and OSX.
 - YCombinator - the production website of **Hacker News** runs on SBCL.
   - since late 2024. [source](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
   - "I've been working on an implementation of Arc in SBCL which is much faster and also will easily let HN run on multiple cores."
