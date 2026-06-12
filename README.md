@@ -286,7 +286,14 @@ For more resources, see:
     Language Processing to systems engineering infrastructure in
     container clusters (DNS, dynamic load balancer). Active in 2025.
     - github.com/m-creations/sbcl
-
+- [Rulemapping Group GmbH](https://rulemapping.com/)
+  - "Where law, logic and AI meet: Transforming bureaucracy into human-centered innovation."
+  - using Common Lisp and [hiring in 2026](https://rulemapping.jobs.personio.com/job/2625990?language=en):
+    - "You develop and extend Logos, our platform for complex legal and regulatory processes that has been running in production for over 20 years – in Common Lisp (SBCL), with a REPL-centric workflow and modern tooling (ASDF, SLIME/SLY)"
+    - "You own core logic, HTTP endpoints, and services,…",
+    - "You work with PostgreSQL on schema evolution, migrations, and query optimisation – using hu.dwim.perec and custom SQL tooling"
+    - "You maintain and evolve XML/XSLT pipelines (cxml, plexippus-xpath, libxslt) as well as document generation (cl-pdf, OOXML)"
+    - "You contribute to HTTP/web components (Hunchentoot), Auth/SSO, and mail integration"
 - [stk-hamburg](http://stk-hamburg.com/eng.html)
   - developing an ERP in Lisp ([ECL 2018 lightning talk](https://european-lisp-symposium.org/static/2018/lt2.pdf), ELS 2025 talk).
 
