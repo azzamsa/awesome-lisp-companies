@@ -90,6 +90,8 @@ For more resources, see:
   - the software started out as [Interleaf](https://en.wikipedia.org/wiki/Interleaf) in 1981, and still runs on Lisp.
 - [Cadence](https://www.cadence.com/)
   - software and engineering services for electronic design automation. San Jose, CA (headquarters of worldwide company). Their IC design software uses SKILL (a Franz Lisp variant) as a scripting language.
+- [ClickHouse](https://clickhouse.com/) has an official tool built in CL:
+  - [clicklisp](https://cl.clickhouse.com/) - A Common Lisp UDF runtime and query compiler for ClickHouse, shipped as a single static binary.
 - [Clozure Associates](https://ccl.clozure.com/)
   - software development consulting firm specializing in Common Lisp development. Somerville, MA. Sponsors and developers of OpenMCL.
   - *Active as of January 2018.*
