@@ -28,40 +28,39 @@ For more resources, see:
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [Awesome Lisp Company](#awesome-lisp-company)
-    - [North America](#north-america)
-        - [United States](#united-states)
-        - [Canada](#canada)
-        - [Mexico](#mexico)
-    - [Europe](#europe)
-        - [Belgium](#belgium)
-        - [Denmark](#denmark)
-        - [England](#england)
-        - [France](#france)
-        - [Germany](#germany)
-        - [Italy](#italy)
-        - [Netherlands](#netherlands)
-        - [Norway](#norway)
-        - [Poland](#poland)
-        - [Portugal](#portugal)
-        - [Russia](#russia)
-        - [Spain](#spain)
-        - [Sweden](#sweden)
-        - [Switzerland](#switzerland)
-        - [Ukraine](#ukraine)
-    - [Africa](#africa)
-        - [South Africa](#south-africa)
-    - [Asia](#asia)
-        - [India](#india)
-        - [Korea](#korea)
-        - [Japan](#japan)
-        - [Philippines](#philippines)
-    - [Virtual or Unsure of Location](#virtual-or-unsure-of-location)
-    - [Contributors](#contributors)
-    - [Guidelines to contribute](#guidelines-to-contribute)
-    - [Credit](#credit)
-    - [License](#license)
-    - [Other Awesome Lists](#other-awesome-lists)
+- [North America](#north-america)
+  - [United States](#united-states)
+  - [Canada](#canada)
+  - [Mexico](#mexico)
+- [Europe](#europe)
+  - [Belgium](#belgium)
+  - [Czechia](#czechia)
+  - [Denmark](#denmark)
+  - [England](#england)
+  - [France](#france)
+  - [Germany](#germany)
+  - [Italy](#italy)
+  - [Netherlands](#netherlands)
+  - [Norway](#norway)
+  - [Poland](#poland)
+  - [Portugal](#portugal)
+  - [Russia](#russia)
+  - [Spain](#spain)
+  - [Sweden](#sweden)
+  - [Switzerland](#switzerland)
+- [Africa](#africa)
+  - [South Africa](#south-africa)
+- [Asia](#asia)
+  - [India](#india)
+  - [Korea](#korea)
+  - [Japan](#japan)
+  - [Philippines](#philippines)
+- [Virtual or Unsure of Location](#virtual-or-unsure-of-location)
+- [Contributors](#contributors)
+- [Guidelines to contribute](#guidelines-to-contribute)
+- [Credit](#credit)
+- [License](#license)
+- [Other Awesome Lists](#other-awesome-lists)
 
 <!-- markdown-toc end -->
 
@@ -217,6 +216,11 @@ For more resources, see:
 - [Pepite](https://www.pepite.com/)
   - Advanced analytics to improve the durability, sustainability, and resilience of the manufacturing sector.
   - they [use Allegro CL](https://franz.com/success/customer_apps/data_mining/pepite.lhtml).
+
+### Czechia
+
+- [lambda-symbolics](https://www.lambda-symbolics.com/)
+  - building [Hiisi](https://hiisi.app/), a language learning platform: bookmark any sentence and Hiisi gives you the translation, the grammar, the pronunciation, and a flashcard that comes back for review.
 
 ### Denmark
 
