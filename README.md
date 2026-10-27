@@ -217,6 +217,13 @@ For more resources, see:
   - Advanced analytics to improve the durability, sustainability, and resilience of the manufacturing sector.
   - they [use Allegro CL](https://franz.com/success/customer_apps/data_mining/pepite.lhtml).
 
+- [semantic.works](https://semantic.works/) powers various applications for the Flemish government and has key components written in Common Lsp.  Previous iterations used an Elixir component.
+  - https://lokaalbeslist.vlaanderen.be/ - all decisions of local governments in a centralized place.
+  - [Kaleidos](https://www.vlaanderen.be/intern/beleid-en-regelgeving/werking-en-besluitvorming-vlaamse-regering/kaleidos) - decision making process for legal decisions of the Flemish Government. The whole drafting the agenda, checking the decisions, publication passed or passes through Common Lisp.
+  - LBLOD: Communication of local governments with the Flemish government: [web](https://www.vlaanderen.be/lokaal-bestuur/organisatie-en-werking/loket-lokale-besturen), [GitHub](https://github.com/lblod?q=app-&type=all&language=&sort=)
+  - also the website of "a super ecological meat producer": https://shop.veeakker.be/
+  - read [more details here](https://github.com/azzamsa/awesome-lisp-companies/issues/102).
+
 ### Czechia
 
 - [lambda-symbolics](https://www.lambda-symbolics.com/)
